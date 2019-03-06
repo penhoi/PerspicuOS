@@ -37,7 +37,7 @@
  *
  * Author: Julian Elischer <julian@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/netgraph.h 223768 2011-07-04 20:50:09Z glebius $
+ * $FreeBSD$
  * $Whistle: netgraph.h,v 1.29 1999/11/01 07:56:13 julian Exp $
  */
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/tools/netrate/netblast/netblast.c 225334 2011-09-02 16:40:18Z marius $
+ * $FreeBSD$
  */
 
 #include <sys/endian.h>

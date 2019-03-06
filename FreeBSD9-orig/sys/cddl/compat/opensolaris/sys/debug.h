@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/cddl/compat/opensolaris/sys/debug.h 177698 2008-03-28 22:16:18Z jb $
+ * $FreeBSD$
  */
 
 #ifndef _OPENSOLARIS_SYS_DEBUG_H_

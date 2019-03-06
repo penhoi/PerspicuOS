@@ -16,7 +16,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/powerpc/boot1.chrp/boot1.c 218822 2011-02-18 20:54:12Z dim $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/dirent.h>

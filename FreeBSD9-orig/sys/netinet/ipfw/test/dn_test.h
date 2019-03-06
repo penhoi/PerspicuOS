@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/test/dn_test.h 204866 2010-03-08 11:27:39Z luigi $
+ * $FreeBSD$
  *
  * userspace compatibility code for dummynet schedulers
  */

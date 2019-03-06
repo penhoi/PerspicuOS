@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/gperf/config.h 58554 2000-03-25 07:50:02Z kris $ */
+/* $FreeBSD$ */
 /* config.h.  Generated automatically by configure.  */
 /* config.h.in.  Generated automatically from configure.in by autoheader.  */
 

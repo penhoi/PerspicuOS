@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/mount_nwfs/mount_nwfs.c 204710 2010-03-04 16:07:14Z uqs $
+ * $FreeBSD$
  */
 #include <sys/param.h>
 #include <sys/stat.h>

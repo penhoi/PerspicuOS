@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ip6addrctl 212579 2010-09-13 19:55:40Z hrs $
+# $FreeBSD$
 #
 
 # PROVIDE: ip6addrctl

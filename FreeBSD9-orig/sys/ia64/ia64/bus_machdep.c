@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ia64/ia64/bus_machdep.c 203883 2010-02-14 16:56:24Z marcel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <machine/bus.h>

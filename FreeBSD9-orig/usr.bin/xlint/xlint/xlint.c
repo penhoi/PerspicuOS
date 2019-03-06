@@ -36,7 +36,7 @@
 #if defined(__RCSID) && !defined(lint)
 __RCSID("$NetBSD: xlint.c,v 1.27 2002/01/31 19:09:33 tv Exp $");
 #endif
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/xlint/xlint/xlint.c 201610 2010-01-05 20:53:55Z dwmalone $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/wait.h>

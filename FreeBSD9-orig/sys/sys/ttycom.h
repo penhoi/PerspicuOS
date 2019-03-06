@@ -32,7 +32,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ttycom.h	8.1 (Berkeley) 3/28/94
- * $FreeBSD: release/9.0.0/sys/sys/ttycom.h 196884 2009-09-06 09:39:40Z ed $
+ * $FreeBSD$
  */
 
 #ifndef	_SYS_TTYCOM_H_

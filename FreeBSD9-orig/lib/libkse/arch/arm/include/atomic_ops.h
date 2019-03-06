@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libkse/arch/arm/include/atomic_ops.h 174112 2007-11-30 17:20:29Z deischen $
+ * $FreeBSD$
  */
 
 #ifndef	_ATOMIC_OPS_H_

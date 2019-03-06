@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/hpfs/hpfs_subr.c 184214 2008-10-23 20:26:15Z des $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

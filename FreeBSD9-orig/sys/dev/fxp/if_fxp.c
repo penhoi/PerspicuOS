@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/fxp/if_fxp.c 223610 2011-06-27 21:37:38Z yongari $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Intel EtherExpress Pro/100B PCI Fast Ethernet driver

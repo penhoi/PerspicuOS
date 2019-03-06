@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/netinet/accf_dns.c 193272 2009-06-01 21:17:03Z jhb $
+ *	$FreeBSD$
  */
 
 #define ACCEPT_FILTER_MOD

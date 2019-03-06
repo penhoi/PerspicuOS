@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/libmchain/Makefile 107843 2002-12-14 00:01:51Z tjr $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../kern
 

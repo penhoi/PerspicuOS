@@ -20,7 +20,7 @@
  *          Wolfram Schneider <wosch@FreeBSD.org>
  *          Thomas Moestl <tmoestl@gmx.net>
  *
- * $FreeBSD: release/9.0.0/usr.bin/top/machine.c 224205 2011-07-18 21:15:47Z jhb $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

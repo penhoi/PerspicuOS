@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/wpi/if_wpivar.h 206358 2010-04-07 15:29:13Z rpaulo $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2006,2007

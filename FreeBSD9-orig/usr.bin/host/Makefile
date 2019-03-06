@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/host/Makefile 201386 2010-01-02 10:27:05Z ed $
+# $FreeBSD$
 
 BIND_DIR=	${.CURDIR}/../../contrib/bind9
 LIB_BIND_REL=	../../lib/bind

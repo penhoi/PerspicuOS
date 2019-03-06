@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/powerpc/aim/locore64.S 224216 2011-07-19 12:41:57Z attilio $ */
+/* $FreeBSD$ */
 /* $NetBSD: locore.S,v 1.24 2000/05/31 05:09:17 thorpej Exp $ */
 
 /*-

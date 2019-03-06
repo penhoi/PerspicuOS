@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/ebuf.c 209184 2010-06-14 21:44:58Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

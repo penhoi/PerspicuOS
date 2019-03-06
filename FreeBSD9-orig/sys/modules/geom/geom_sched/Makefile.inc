@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/geom/geom_sched/Makefile.inc 206497 2010-04-12 16:37:45Z luigi $
+# $FreeBSD$
 # included by geom_sched children
 
 .PATH: ${.CURDIR}/../../../../geom/sched

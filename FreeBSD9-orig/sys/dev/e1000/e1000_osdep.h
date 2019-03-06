@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/e1000/e1000_osdep.h 210569 2010-07-28 16:24:06Z mdf $*/
+/*$FreeBSD$*/
 
 
 #ifndef _FREEBSD_OS_H_

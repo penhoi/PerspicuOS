@@ -26,11 +26,11 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/rctl/rctl.c 220166 2011-03-30 18:27:52Z trasz $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/rctl/rctl.c 220166 2011-03-30 18:27:52Z trasz $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/rctl.h>

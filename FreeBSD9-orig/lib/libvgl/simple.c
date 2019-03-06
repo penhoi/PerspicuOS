@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libvgl/simple.c 213412 2010-10-04 18:16:38Z dim $");
+__FBSDID("$FreeBSD$");
 
 #include <signal.h>
 #include <sys/fbio.h>

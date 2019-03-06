@@ -1,5 +1,5 @@
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/arm/at91/boot2/bwct_board.c 204900 2010-03-09 00:50:58Z ticso $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

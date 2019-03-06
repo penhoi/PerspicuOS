@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/userboot/libstand/Makefile 223695 2011-06-30 16:08:56Z dfr $
+# $FreeBSD$
 # Originally from	$NetBSD: Makefile,v 1.21 1997/10/26 22:08:38 lukem Exp $
 #
 # Notes:

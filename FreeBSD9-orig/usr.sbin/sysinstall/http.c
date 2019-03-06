@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/sysinstall/http.c 156123 2006-02-28 21:49:33Z jhb $
+ * $FreeBSD$
  */
 
 #include "sysinstall.h"

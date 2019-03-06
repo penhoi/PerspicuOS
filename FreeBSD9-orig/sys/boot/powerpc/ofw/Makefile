@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/powerpc/ofw/Makefile 222450 2011-05-29 14:27:11Z andreast $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 MK_SSP=		no

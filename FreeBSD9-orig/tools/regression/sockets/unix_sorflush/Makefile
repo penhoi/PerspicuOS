@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/sockets/unix_sorflush/Makefile 204585 2010-03-02 16:58:04Z uqs $
+# $FreeBSD$
 
 PROG=	unix_sorflush
 NO_MAN=

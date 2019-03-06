@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/periodic/daily/310.accounting 228166 2011-12-01 05:47:51Z dougb $
+# $FreeBSD$
 #
 
 # If there is a global system configuration file, suck it in.

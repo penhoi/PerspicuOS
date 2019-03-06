@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/hptrr/hptrr_osm_bsd.c 213780 2010-10-13 14:41:52Z rpaulo $
+ * $FreeBSD$
  */
 #include <dev/hptrr/hptrr_config.h>
 /* $Id: osm_bsd.c,v 1.27 2007/11/22 07:35:49 gmm Exp $

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/procstat/procstat_kstack.c 224199 2011-07-18 20:06:15Z bz $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

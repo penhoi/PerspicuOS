@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/cc/Makefile.inc 217128 2011-01-07 22:57:31Z tijl $
+# $FreeBSD$
 
 .include "../Makefile.inc"
 

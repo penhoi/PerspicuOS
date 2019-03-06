@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/gdb/Makefile.inc 218822 2011-02-18 20:54:12Z dim $
+# $FreeBSD$
 
 VERSION= "6.1.1 [FreeBSD]"
 VENDOR= marcel

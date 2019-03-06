@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/contrib/cvs/FREEBSD-Xlist 175264 2008-01-13 05:50:33Z obrien $
+$FreeBSD$
 */*.com
 */*.dep
 */*.dsp

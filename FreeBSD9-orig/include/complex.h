@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/complex.h 219379 2011-03-07 16:05:45Z das $
+ * $FreeBSD$
  */
 
 #ifndef _COMPLEX_H

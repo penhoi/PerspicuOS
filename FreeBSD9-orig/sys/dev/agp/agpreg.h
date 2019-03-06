@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/agp/agpreg.h 183555 2008-10-02 20:29:45Z rnoland $
+ *	$FreeBSD$
  */
 
 #ifndef _PCI_AGPREG_H_

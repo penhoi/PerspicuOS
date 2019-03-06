@@ -23,7 +23,7 @@
  * ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/asmc/asmcvar.h 197190 2009-09-14 11:46:43Z rpaulo $
+ * $FreeBSD$
  *
  */
 

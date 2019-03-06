@@ -28,7 +28,7 @@ SUCH DAMAGE.
 #include <sys/stat.h>
 
 /*
- * $FreeBSD: release/9.0.0/tools/regression/pipe/pipe-reverse.c 132524 2004-07-22 02:46:25Z silby $
+ * $FreeBSD$
  * This program simply tests writing through the reverse direction of
  * a pipe.  Nothing too fancy, it's only needed because most pipe-using
  * programs never touch the reverse direction (it doesn't exist on

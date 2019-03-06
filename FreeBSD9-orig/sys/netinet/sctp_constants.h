@@ -33,7 +33,7 @@
 /* $KAME: sctp_constants.h,v 1.17 2005/03/06 16:04:17 itojun Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_constants.h 225635 2011-09-17 08:50:29Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __sctp_constants_h__
 #define __sctp_constants_h__

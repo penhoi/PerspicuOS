@@ -14,7 +14,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/boot/pc98/btx/lib/btxv86.h 50477 1999-08-28 01:08:13Z peter $
+ * $FreeBSD$
  */
 
 #ifndef _BTXV86_H_

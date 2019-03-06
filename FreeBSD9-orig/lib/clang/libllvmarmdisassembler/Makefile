@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmarmdisassembler/Makefile 226890 2011-10-28 21:08:39Z dim $
+# $FreeBSD$
 
 LIB=	llvmarmdisassembler
 

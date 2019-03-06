@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/ia64/efi/Makefile 211680 2010-08-23 01:50:34Z imp $
+# $FreeBSD$
 
 NO_MAN=
 

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/amd64/include/sysarch.h 204120 2010-02-20 14:13:47Z ed $
+ * $FreeBSD$
  */
 
 /*

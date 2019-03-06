@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)parser.h	8.3 (Berkeley) 5/4/95
- * $FreeBSD: release/9.0.0/bin/sh/parser.h 222907 2011-06-09 23:12:23Z jilles $
+ * $FreeBSD$
  */
 
 /* control characters in argument strings */

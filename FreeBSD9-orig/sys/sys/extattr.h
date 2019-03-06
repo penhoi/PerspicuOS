@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/extattr.h 184413 2008-10-28 13:44:11Z trasz $
+ * $FreeBSD$
  */
 /*
  * Developed by the TrustedBSD Project.

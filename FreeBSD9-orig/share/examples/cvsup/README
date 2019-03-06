@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/examples/cvsup/README 100945 2002-07-30 14:08:16Z blackend $
+# $FreeBSD$
 
 This directory contains sample "supfiles" for obtaining and updating
 the FreeBSD sources via the Internet.  These supfiles will work

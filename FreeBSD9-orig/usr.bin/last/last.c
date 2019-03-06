@@ -37,7 +37,7 @@ static const char copyright[] =
 static const char sccsid[] = "@(#)last.c	8.2 (Berkeley) 4/2/94";
 #endif /* not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/last/last.c 216370 2010-12-11 08:32:16Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/stat.h>

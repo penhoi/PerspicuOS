@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/mips/rt305x/files.rt305x 220297 2011-04-03 14:39:55Z adrian $
+# $FreeBSD$
 
 # RT305X on-board devices
 mips/rt305x/rt305x_machdep.c	standard

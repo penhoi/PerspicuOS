@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/gvinum/gvinum.c 220370 2011-04-05 18:41:01Z obrien $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

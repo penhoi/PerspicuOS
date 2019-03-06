@@ -1,5 +1,5 @@
 #	From: @(#)Makefile	8.1 (Berkeley) 6/8/93
-# $FreeBSD: release/9.0.0/share/misc/Makefile 174763 2007-12-19 01:28:17Z imp $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../sys/dev/usb
 

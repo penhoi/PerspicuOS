@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/lib/msun/test-csqrt.c 177763 2008-03-30 20:09:51Z das $");
+__FBSDID("$FreeBSD$");
 
 #include <assert.h>
 #include <complex.h>

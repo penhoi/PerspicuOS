@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/usr.bin/cpio/test/test_gcpio_compat_ref_nosym.crc.uu 224154 2011-07-17 21:42:22Z mm $
+$FreeBSD$
 
 begin 644 test_gcpio_compat_ref_nosym.crc
 M,#<P-S`R,#`U-D9!1$4P,#`P-#%&1#`P,#`P,T4X,#`P,#`S13@P,#`P,#`P

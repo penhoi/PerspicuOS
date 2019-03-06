@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/fxp/if_fxpvar.h 215906 2010-11-26 21:52:33Z marius $
+ * $FreeBSD$
  */
 
 /*

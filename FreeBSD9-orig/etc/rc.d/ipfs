@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ipfs 193198 2009-06-01 05:35:03Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: ipfs

@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ed/if_edvar.h 199380 2009-11-17 14:23:09Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef SYS_DEV_ED_IF_EDVAR_H

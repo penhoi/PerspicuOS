@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/tools/regression/acltools/00.t 219266 2011-03-04 17:07:02Z trasz $
+# $FreeBSD$
 #
 
 # This is a wrapper script to run tools-posix.test on UFS filesystem.

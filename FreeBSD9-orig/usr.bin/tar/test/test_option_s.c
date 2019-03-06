@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/tar/test/test_option_s.c 224153 2011-07-17 21:33:15Z mm $");
+__FBSDID("$FreeBSD$");
 
 static int
 mkfile(const char *fn, const char *contents)

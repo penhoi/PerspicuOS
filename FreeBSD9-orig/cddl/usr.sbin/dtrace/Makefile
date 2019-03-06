@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/usr.sbin/dtrace/Makefile 210691 2010-07-31 17:09:37Z rpaulo $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/contrib/opensolaris/cmd/dtrace
 

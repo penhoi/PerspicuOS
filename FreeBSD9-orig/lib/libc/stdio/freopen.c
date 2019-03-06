@@ -34,7 +34,7 @@
 static char sccsid[] = "@(#)freopen.c	8.1 (Berkeley) 6/4/93";
 #endif /* LIBC_SCCS and not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdio/freopen.c 216334 2010-12-09 20:28:30Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <sys/types.h>

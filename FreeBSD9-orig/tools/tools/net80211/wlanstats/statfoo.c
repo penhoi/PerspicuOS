@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGES.
  *
- * $FreeBSD: release/9.0.0/tools/tools/net80211/wlanstats/statfoo.c 178699 2008-04-30 19:47:31Z sam $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_uralvar.h 206358 2010-04-07 15:29:13Z rpaulo $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2005

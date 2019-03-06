@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/mips/conf/std.SWARM 221753 2011-05-11 00:52:41Z gonzo $
+# $FreeBSD$
 #
 
 hints		"SWARM.hints"

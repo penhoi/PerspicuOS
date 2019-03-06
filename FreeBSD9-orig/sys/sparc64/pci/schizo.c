@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/sparc64/pci/schizo.c 228127 2011-11-29 09:59:55Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for `Schizo' Fireplane/Safari to PCI 2.1, `Tomatillo' JBus to

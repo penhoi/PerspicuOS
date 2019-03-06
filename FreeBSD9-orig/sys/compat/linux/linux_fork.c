@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/compat/linux/linux_fork.c 224987 2011-08-18 22:51:30Z jonathan $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 

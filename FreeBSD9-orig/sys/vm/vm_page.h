@@ -57,7 +57,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/vm/vm_page.h 226319 2011-10-12 20:08:25Z kib $
+ * $FreeBSD$
  */
 
 /*

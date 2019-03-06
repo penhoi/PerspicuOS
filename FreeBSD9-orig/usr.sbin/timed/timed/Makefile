@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/6/93
-# $FreeBSD: release/9.0.0/usr.sbin/timed/timed/Makefile 189090 2009-02-26 20:59:05Z ed $
+# $FreeBSD$
 #
 # optional flags are: MEASURE TESTING DEBUG
 

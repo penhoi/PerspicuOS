@@ -3,7 +3,7 @@
 # Makefile for amd
 # 	This file is under a "BSD" copyright (c) by David O'Brien 1998
 #
-# $FreeBSD: release/9.0.0/usr.sbin/amd/fsinfo/Makefile 174305 2007-12-05 16:25:43Z obrien $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../contrib/amd/fsinfo
 

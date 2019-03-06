@@ -16,7 +16,7 @@
 # If you are in doubt as to the purpose or necessity of a line, check first
 # in NOTES.
 #
-# $FreeBSD: release/9.0.0/sys/amd64/conf/GENERIC 227305 2011-11-07 13:40:54Z marius $
+# $FreeBSD$
 
 cpu		HAMMER
 ident		GENERIC

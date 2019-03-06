@@ -33,7 +33,7 @@
 
 #ifndef lint
 static const char rcsid[] =
-  "$FreeBSD: release/9.0.0/libexec/rpc.rusersd/rusers_proc.c 202210 2010-01-13 18:28:58Z ed $";
+  "$FreeBSD$";
 #endif /* not lint */
 
 #ifdef DEBUG

@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/5/93
-#	$FreeBSD: release/9.0.0/share/man/man5/Makefile 220640 2011-04-14 18:37:27Z trasz $
+#	$FreeBSD$
 
 .include <bsd.own.mk>
 

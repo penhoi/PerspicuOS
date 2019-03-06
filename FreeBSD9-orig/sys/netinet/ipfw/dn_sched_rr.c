@@ -25,7 +25,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/dn_sched_rr.c 206845 2010-04-19 16:17:30Z luigi $
+ * $FreeBSD$
  */
 
 #ifdef _KERNEL

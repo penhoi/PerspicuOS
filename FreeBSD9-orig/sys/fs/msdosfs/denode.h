@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/fs/msdosfs/denode.h 203822 2010-02-13 11:34:25Z kib $ */
+/* $FreeBSD$ */
 /*	$NetBSD: denode.h,v 1.25 1997/11/17 15:36:28 ws Exp $	*/
 
 /*-

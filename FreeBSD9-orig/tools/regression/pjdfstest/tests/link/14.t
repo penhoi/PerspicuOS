@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/link/14.t 210984 2010-08-06 23:58:54Z pjd $
+# $FreeBSD$
 
 desc="link returns EXDEV if the source and the destination files are on different file systems"
 

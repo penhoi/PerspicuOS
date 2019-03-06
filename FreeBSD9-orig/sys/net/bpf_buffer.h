@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/net/bpf_buffer.h 177548 2008-03-24 13:49:17Z csjp $
+ * $FreeBSD$
  */
 
 #ifndef _NET_BPF_BUFFER_H_

@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/sa/db.c 176433 2008-02-21 07:12:56Z grog $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/acct.h>

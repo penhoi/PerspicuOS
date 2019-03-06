@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/netipsec/keysock.h 195727 2009-07-16 21:13:04Z rwatson $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: keysock.h,v 1.8 2000/03/27 05:11:06 sumikawa Exp $	*/
 
 /*-

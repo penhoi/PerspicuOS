@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/netipsec/key.c 226386 2011-10-15 12:10:34Z brueffer $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: key.c,v 1.191 2001/06/27 10:46:49 sakane Exp $	*/
 
 /*-

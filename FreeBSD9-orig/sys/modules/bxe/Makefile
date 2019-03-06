@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/bxe/Makefile 220603 2011-04-13 16:35:43Z yongari $
+# $FreeBSD$
 BXE	= ${.CURDIR}/../../dev/bxe
 .PATH:	${BXE}
 

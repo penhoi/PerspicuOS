@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/crypto/heimdal/lib/gssapi/gssapi_mech.h 178826 2008-05-07 13:39:42Z dfr $
+ *	$FreeBSD$
  */
 
 #ifndef GSSAPI_MECH_H

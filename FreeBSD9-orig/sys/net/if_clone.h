@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	From: @(#)if.h	8.1 (Berkeley) 6/10/93
- * $FreeBSD: release/9.0.0/sys/net/if_clone.h 195837 2009-07-23 20:46:49Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef	_NET_IF_CLONE_H_

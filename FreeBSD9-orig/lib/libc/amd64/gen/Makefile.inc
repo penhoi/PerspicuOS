@@ -1,5 +1,5 @@
 #	@(#)Makefile.inc	8.1 (Berkeley) 6/4/93
-# $FreeBSD: release/9.0.0/lib/libc/amd64/gen/Makefile.inc 143658 2005-03-15 15:53:39Z das $
+# $FreeBSD$
 
 SRCS+=	_setjmp.S _set_tp.c rfork_thread.S setjmp.S sigsetjmp.S \
 	fabs.S modf.S \

@@ -23,7 +23,7 @@
  * SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/sys/arm/at91/at91_pmcreg.h 213498 2010-10-06 22:40:27Z cognet $ */
+/* $FreeBSD$ */
 
 #ifndef ARM_AT91_AT91_PMCREG_H
 #define ARM_AT91_AT91_PMCREG_H

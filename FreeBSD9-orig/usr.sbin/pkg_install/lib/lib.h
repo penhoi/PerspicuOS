@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.sbin/pkg_install/lib/lib.h 206133 2010-04-03 10:57:13Z flz $ */
+/* $FreeBSD$ */
 
 /*
  * FreeBSD install - a package for the installation and maintainance

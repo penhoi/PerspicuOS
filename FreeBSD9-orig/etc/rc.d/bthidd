@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/bthidd 180564 2008-07-16 19:50:29Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: bthidd

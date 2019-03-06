@@ -38,7 +38,7 @@ static const char sccsid[] = "@(#)ruptime.c	8.2 (Berkeley) 4/5/94";
 #endif /* not lint */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/ruptime/ruptime.c 216370 2010-12-11 08:32:16Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/lib/libkse/thread/thr_vfork.c 174689 2007-12-16 23:29:57Z deischen $
+ * $FreeBSD$
  */
 
 #include <unistd.h>

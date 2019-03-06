@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/ipfw/ip_fw_table.c 227232 2011-11-06 17:31:57Z bz $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Lookup table support for ipfw

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/csu/arm/Makefile 217375 2011-01-13 20:44:31Z dim $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../common
 

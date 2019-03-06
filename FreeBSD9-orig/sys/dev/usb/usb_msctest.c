@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/usb_msctest.c 227007 2011-11-01 22:00:49Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008,2011 Hans Petter Selasky. All rights reserved.
  *

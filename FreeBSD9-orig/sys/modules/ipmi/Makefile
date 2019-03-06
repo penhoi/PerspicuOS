@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ipmi/Makefile 190445 2009-03-26 17:14:22Z ambrisko $
+# $FreeBSD$
 
 SUBDIR+= ipmi_linux
 

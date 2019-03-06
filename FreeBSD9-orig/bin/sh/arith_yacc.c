@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/bin/sh/arith_yacc.c 223580 2011-06-26 20:12:05Z jilles $");
+__FBSDID("$FreeBSD$");
 
 #include <limits.h>
 #include <errno.h>

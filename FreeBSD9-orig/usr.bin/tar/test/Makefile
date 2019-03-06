@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/tar/test/Makefile 224153 2011-07-17 21:33:15Z mm $
+# $FreeBSD$
 
 # Where to find the tar sources (for the internal unit tests)
 TAR_SRCDIR=${.CURDIR}/..

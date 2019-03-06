@@ -31,7 +31,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/net/if_tap.c 225177 2011-08-25 15:51:54Z attilio $
+ * $FreeBSD$
  * $Id: if_tap.c,v 0.21 2000/07/23 21:46:02 max Exp $
  */
 

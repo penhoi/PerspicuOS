@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/vm/sg_pager.c 219476 2011-03-11 07:07:48Z alc $");
+__FBSDID("$FreeBSD$");
 
 /*
  * This pager manages OBJT_SG objects.  These objects are backed by

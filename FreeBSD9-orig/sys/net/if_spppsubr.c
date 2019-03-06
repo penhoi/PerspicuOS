@@ -18,7 +18,7 @@
  *
  * From: Version 2.4, Thu Apr 30 17:17:21 MSD 1997
  *
- * $FreeBSD: release/9.0.0/sys/net/if_spppsubr.c 223741 2011-07-03 16:08:38Z bz $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

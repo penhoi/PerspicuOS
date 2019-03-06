@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/include/legacyvar.h 194018 2009-06-11 17:06:31Z avg $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_LEGACYVAR_H_

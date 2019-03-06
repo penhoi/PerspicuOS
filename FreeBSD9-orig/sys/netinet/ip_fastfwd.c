@@ -74,7 +74,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/ip_fastfwd.c 216192 2010-12-05 01:09:48Z bz $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ipfw.h"
 #include "opt_ipstealth.h"

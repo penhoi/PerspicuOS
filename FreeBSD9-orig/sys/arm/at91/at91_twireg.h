@@ -23,7 +23,7 @@
  * SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/sys/arm/at91/at91_twireg.h 213496 2010-10-06 22:25:21Z cognet $ */
+/* $FreeBSD$ */
 
 #ifndef ARM_AT91_AT91_TWIREG_H
 #define ARM_AT91_AT91_TWIREG_H

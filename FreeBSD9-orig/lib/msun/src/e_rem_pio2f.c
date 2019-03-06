@@ -15,7 +15,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/msun/src/e_rem_pio2f.c 193368 2009-06-03 08:16:34Z ed $");
+__FBSDID("$FreeBSD$");
 
 /* __ieee754_rem_pio2f(x,y)
  *

@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)init.h	8.2 (Berkeley) 5/4/95
- * $FreeBSD: release/9.0.0/bin/sh/init.h 218306 2011-02-04 22:47:55Z jilles $
+ * $FreeBSD$
  */
 
 void init(void);

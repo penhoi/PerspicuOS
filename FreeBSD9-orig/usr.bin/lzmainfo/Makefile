@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/lzmainfo/Makefile 207844 2010-05-10 07:47:31Z mm $
+# $FreeBSD$
 
 PROG=	lzmainfo
 

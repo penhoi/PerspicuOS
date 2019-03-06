@@ -24,7 +24,7 @@
  * SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/sys/arm/at91/at91_mcireg.h 185265 2008-11-25 00:13:26Z imp $ */
+/* $FreeBSD$ */
 
 #ifndef ARM_AT91_AT91_MCIREG_H
 #define ARM_AT91_AT91_MCIREG_H

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/cpu.h 193155 2009-05-31 08:59:15Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_CPU_H_

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/kern.pre.mk 224882 2011-08-15 13:33:14Z nwhitehorn $
+# $FreeBSD$
 
 # Part of a unified Makefile for building kernels.  This part contains all
 # of the definitions that need to be before %BEFORE_DEPEND.

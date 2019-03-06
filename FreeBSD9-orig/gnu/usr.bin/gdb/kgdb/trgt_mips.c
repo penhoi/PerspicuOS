@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/gnu/usr.bin/gdb/kgdb/trgt_mips.c 214962 2010-11-07 23:23:48Z gonzo $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <machine/asm.h>

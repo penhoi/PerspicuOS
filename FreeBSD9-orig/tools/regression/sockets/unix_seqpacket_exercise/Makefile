@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/tools/regression/sockets/unix_seqpacket_exercise/Makefile 197781 2009-10-05 15:27:01Z rwatson $
+# $FreeBSD$
 #
 
 PROG=unix_seqpacket_exercise

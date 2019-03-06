@@ -28,7 +28,7 @@
  * 2550 Garcia Avenue
  * Mountain View, California  94043
  *
- * $FreeBSD: release/9.0.0/sys/rpc/rpc_com.h 213103 2010-09-24 15:01:45Z attilio $
+ * $FreeBSD$
  */
 /*
  * Copyright (c) 1986 - 1991 by Sun Microsystems, Inc.

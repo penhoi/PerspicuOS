@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_compat_zip.c 214905 2010-11-07 03:40:37Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 /* Copy this function for each test file and adjust it accordingly. */
 static void

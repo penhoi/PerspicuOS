@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/mtree/Makefile 218941 2011-02-22 08:13:49Z uqs $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

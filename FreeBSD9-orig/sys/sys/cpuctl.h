@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/cpuctl.h 195189 2009-06-30 12:35:47Z stas $
+ * $FreeBSD$
  */
 
 #ifndef _CPUCTL_H_

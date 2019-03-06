@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/flash/mx25lreg.h 210238 2010-07-19 15:05:35Z adrian $
+ * $FreeBSD$
  */
 
 #ifndef __MX25LREG_H__

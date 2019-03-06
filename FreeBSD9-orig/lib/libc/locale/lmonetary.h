@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/locale/lmonetary.h 104711 2002-10-09 09:19:28Z tjr $
+ * $FreeBSD$
  */
 
 #ifndef _LMONETARY_H_

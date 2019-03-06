@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/rctl.h 221362 2011-05-03 07:32:58Z trasz $
+ * $FreeBSD$
  */
 
 /*

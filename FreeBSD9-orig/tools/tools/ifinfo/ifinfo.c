@@ -26,7 +26,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/tools/ifinfo/ifinfo.c 189331 2009-03-04 01:31:09Z yongari $
+ * $FreeBSD$
  */
 #include <sys/types.h>
 #include <sys/socket.h>		/* for PF_LINK */

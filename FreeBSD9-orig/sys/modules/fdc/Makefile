@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/fdc/Makefile 193530 2009-06-05 18:44:36Z jkim $
+# $FreeBSD$
 
 KMOD=	fdc
 

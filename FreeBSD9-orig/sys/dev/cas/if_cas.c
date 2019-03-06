@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/cas/if_cas.c 223986 2011-07-13 18:52:11Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * driver for Sun Cassini/Cassini+ and National Semiconductor DP83065

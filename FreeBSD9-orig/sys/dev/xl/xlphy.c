@@ -55,7 +55,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/xl/xlphy.c 227229 2011-11-06 17:23:49Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * driver for 3Com internal PHYs

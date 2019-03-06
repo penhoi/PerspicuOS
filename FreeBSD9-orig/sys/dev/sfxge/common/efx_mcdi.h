@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sfxge/common/efx_mcdi.h 228101 2011-11-28 20:43:50Z philip $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_EFX_MCDI_H

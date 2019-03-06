@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/release/svnbranch.awk 196221 2009-08-14 20:35:42Z jhb $
+# $FreeBSD$
 
 BEGIN {
 	FS = "_"

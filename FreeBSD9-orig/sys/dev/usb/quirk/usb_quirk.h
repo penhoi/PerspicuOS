@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/quirk/usb_quirk.h 223736 2011-07-03 13:27:23Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
  *

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgbe/common/t4fw_interface.h 222513 2011-05-30 21:56:37Z np $
+ * $FreeBSD$
  *
  */
 

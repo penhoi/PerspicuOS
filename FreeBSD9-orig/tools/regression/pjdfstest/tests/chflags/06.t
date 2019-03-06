@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/chflags/06.t 185173 2008-11-22 13:27:15Z pjd $
+# $FreeBSD$
 
 desc="chflags returns ELOOP if too many symbolic links were encountered in translating the pathname"
 

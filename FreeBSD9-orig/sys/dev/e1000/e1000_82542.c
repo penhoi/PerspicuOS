@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/e1000/e1000_82542.c 218581 2011-02-11 17:18:42Z jfv $*/
+/*$FreeBSD$*/
 
 /*
  * 82542 Gigabit Ethernet Controller

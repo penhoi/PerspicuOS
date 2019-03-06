@@ -28,7 +28,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/mount_hpfs/mount_hpfs.c 204403 2010-02-27 10:14:59Z uqs $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

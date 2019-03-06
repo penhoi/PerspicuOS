@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/quota 223644 2011-06-28 14:26:34Z pluknet $
+# $FreeBSD$
 #
 
 # Enable/Check the quotas (must be after ypbind if using NIS)

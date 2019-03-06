@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libusb/libusb.h 225659 2011-09-19 08:52:06Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2009 Sylvestre Gallon. All rights reserved.
  *

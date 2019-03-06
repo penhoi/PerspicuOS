@@ -1,5 +1,5 @@
 #	from: @(#)sys.mk	8.2 (Berkeley) 3/21/94
-# $FreeBSD: release/9.0.0/share/mk/sys.mk 217123 2011-01-07 20:26:33Z imp $
+# $FreeBSD$
 
 unix		?=	We run FreeBSD, not UNIX.
 .FreeBSD	?=	true

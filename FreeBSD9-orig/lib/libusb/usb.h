@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libusb/usb.h 224085 2011-07-16 08:29:12Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
  *

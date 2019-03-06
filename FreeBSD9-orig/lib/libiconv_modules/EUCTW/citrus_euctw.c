@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libiconv_modules/EUCTW/citrus_euctw.c 219019 2011-02-25 00:04:39Z gabor $ */
+/* $FreeBSD$ */
 /*	$NetBSD: citrus_euctw.c,v 1.11 2008/06/14 16:01:07 tnozaki Exp $	*/
 
 /*-

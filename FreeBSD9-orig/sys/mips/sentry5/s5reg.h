@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/mips/sentry5/s5reg.h 202175 2010-01-12 21:36:08Z imp $ */
+/* $FreeBSD$ */
 
 #ifndef _MIPS32_SENTRY5_SENTRY5REG_H_
 #define _MIPS32_SENTRY5_SENTRY5REG_H_

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF 
  * SUCH DAMAGE. 
  *
- * $FreeBSD: release/9.0.0/lib/libproc/test/t1-bkpt/t1-bkpt.c 210688 2010-07-31 16:10:20Z rpaulo $
+ * $FreeBSD$
  */
 #include <sys/types.h>
 #include <sys/wait.h>

@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libdevstat/devstat.h 175861 2008-01-31 16:55:12Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _DEVSTAT_H

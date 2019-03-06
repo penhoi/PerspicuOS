@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/sys/dev/mii/miidevs 223688 2011-06-30 05:20:02Z imp $
+$FreeBSD$
 /*$NetBSD: miidevs,v 1.99 2011/01/26 18:39:04 bouyer Exp $*/
 
 /*-

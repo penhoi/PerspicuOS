@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/keyserv/Makefile 189092 2009-02-26 21:43:15Z ed $
+# $FreeBSD$
 
 PROG=	keyserv
 MAN=	keyserv.8

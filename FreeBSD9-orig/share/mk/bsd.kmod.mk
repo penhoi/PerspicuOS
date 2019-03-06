@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/mk/bsd.kmod.mk 183736 2008-10-09 22:01:27Z imp $
+# $FreeBSD$
 
 # Search for kernel source tree in standard places.
 .for _dir in ${.CURDIR}/../.. ${.CURDIR}/../../.. ${.CURDIR}/../../../.. \

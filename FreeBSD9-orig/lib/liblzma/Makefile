@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/liblzma/Makefile 218723 2011-02-15 22:03:09Z dim $
+# $FreeBSD$
 
 LIB=		lzma
 LZMADIR=	${.CURDIR}/../../contrib/xz/src/liblzma

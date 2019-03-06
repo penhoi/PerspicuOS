@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/tools/umastat/umastat.c 212949 2010-09-21 05:36:30Z avg $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

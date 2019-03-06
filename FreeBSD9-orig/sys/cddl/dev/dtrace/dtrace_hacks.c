@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/cddl/dev/dtrace/dtrace_hacks.c 179237 2008-05-23 05:59:42Z jb $ */
+/* $FreeBSD$ */
 /* XXX Hacks.... */
 
 dtrace_cacheid_t dtrace_predcache_id;

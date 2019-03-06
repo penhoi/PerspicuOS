@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/kgssapi_krb5/Makefile 223309 2011-06-19 22:08:55Z rmacklem $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../kgssapi/krb5
 KMOD=	kgssapi_krb5

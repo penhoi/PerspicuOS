@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/coda/Makefile 176233 2008-02-13 13:06:22Z rwatson $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../fs/coda
 

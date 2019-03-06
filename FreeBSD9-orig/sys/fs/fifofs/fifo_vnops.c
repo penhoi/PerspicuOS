@@ -29,7 +29,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)fifo_vnops.c	8.10 (Berkeley) 5/27/95
- * $FreeBSD: release/9.0.0/sys/fs/fifofs/fifo_vnops.c 224914 2011-08-16 20:07:47Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

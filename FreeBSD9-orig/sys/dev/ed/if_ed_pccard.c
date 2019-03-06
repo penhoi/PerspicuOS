@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ed/if_ed_pccard.c 221407 2011-05-03 19:51:29Z marius $
+ * $FreeBSD$
  */
 
 /*

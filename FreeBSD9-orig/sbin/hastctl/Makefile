@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/hastctl/Makefile 223586 2011-06-27 09:15:41Z pjd $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

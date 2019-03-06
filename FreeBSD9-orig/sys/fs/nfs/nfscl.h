@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nfs/nfscl.h 191783 2009-05-04 15:23:58Z rmacklem $
+ * $FreeBSD$
  */
 
 #ifndef	_NFS_NFSCL_H

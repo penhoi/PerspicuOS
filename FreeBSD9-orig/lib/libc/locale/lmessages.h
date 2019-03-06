@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/locale/lmessages.h 88309 2001-12-20 18:28:52Z phantom $
+ * $FreeBSD$
  */
 
 #ifndef _LMESSAGES_H_

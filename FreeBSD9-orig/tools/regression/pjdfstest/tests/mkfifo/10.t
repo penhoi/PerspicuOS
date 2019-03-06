@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/mkfifo/10.t 210984 2010-08-06 23:58:54Z pjd $
+# $FreeBSD$
 
 desc="mkfifo returns EPERM if the parent directory of the file to be created has its immutable flag set"
 

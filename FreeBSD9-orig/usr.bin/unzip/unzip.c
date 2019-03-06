@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/unzip/unzip.c 214137 2010-10-21 17:05:15Z glebius $
+ * $FreeBSD$
  *
  * This file would be much shorter if we didn't care about command-line
  * compatibility with Info-ZIP's UnZip, which requires us to duplicate

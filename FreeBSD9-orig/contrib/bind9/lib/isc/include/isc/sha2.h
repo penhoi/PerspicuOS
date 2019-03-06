@@ -16,7 +16,7 @@
 
 /* $Id: sha2.h,v 1.12 2009-10-22 02:21:31 each Exp $ */
 
-/*	$FreeBSD: release/9.0.0/contrib/bind9/lib/isc/include/isc/sha2.h 224092 2011-07-16 11:12:09Z dougb $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: sha2.h,v 1.3 2001/03/12 08:27:48 itojun Exp $	*/
 
 /*

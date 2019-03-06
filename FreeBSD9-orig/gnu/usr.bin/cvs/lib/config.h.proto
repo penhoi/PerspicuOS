@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/cvs/lib/config.h.proto 177407 2008-03-19 15:19:42Z obrien $ */
+/* $FreeBSD$ */
 
 /* config.h.  Generated from config.h.in by configure.  */
 /* config.h.in.  Generated from configure.in by autoheader.  */

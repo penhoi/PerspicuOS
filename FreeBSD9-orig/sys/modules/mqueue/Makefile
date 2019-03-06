@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mqueue/Makefile 209442 2010-06-22 20:52:35Z thompsa $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../kern
 

@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/usr.sbin/rtadvd/timer_subr.h 224144 2011-07-17 19:24:54Z hrs $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: timer.h,v 1.5 2002/05/31 13:30:38 jinmei Exp $	*/
 
 /*

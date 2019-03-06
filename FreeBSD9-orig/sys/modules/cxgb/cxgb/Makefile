@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cxgb/cxgb/Makefile 204274 2010-02-24 10:16:18Z np $
+# $FreeBSD$
 
 CXGB = ${.CURDIR}/../../../dev/cxgb
 .PATH: ${CXGB} ${CXGB}/common ${CXGB}/sys

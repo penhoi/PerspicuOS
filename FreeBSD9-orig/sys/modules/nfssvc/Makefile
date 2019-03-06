@@ -1,5 +1,5 @@
 
-# $FreeBSD: release/9.0.0/sys/modules/nfssvc/Makefile 190971 2009-04-12 19:04:27Z rmacklem $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../nfs
 KMOD=	nfssvc

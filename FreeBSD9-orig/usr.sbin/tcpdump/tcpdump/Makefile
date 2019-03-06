@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/tcpdump/tcpdump/Makefile 214560 2010-10-30 16:30:50Z dim $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

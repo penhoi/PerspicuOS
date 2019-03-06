@@ -15,7 +15,7 @@
  * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ath/ath_hal/ah_regdomain.c 224719 2011-08-08 18:05:22Z adrian $
+ * $FreeBSD$
  */
 #include "opt_ah.h"
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/msun/mips/fenv.h 178582 2008-04-26 12:20:29Z imp $
+ * $FreeBSD$
  */
 
 #ifndef	_FENV_H_

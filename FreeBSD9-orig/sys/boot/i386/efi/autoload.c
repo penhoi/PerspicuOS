@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/i386/efi/autoload.c 206378 2010-04-07 18:24:38Z rpaulo $");
+__FBSDID("$FreeBSD$");
 
 int
 i386_autoload(void)

@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/unlink/00.t 211156 2010-08-10 22:57:43Z pjd $
+# $FreeBSD$
 
 desc="unlink removes regular files, symbolic links, fifos and sockets"
 

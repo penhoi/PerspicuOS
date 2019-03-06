@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
- /*$FreeBSD: release/9.0.0/sys/dev/bxe/dump_e1h.h 219656 2011-03-15 01:06:27Z davidch $*/
+ /*$FreeBSD$*/
 
 uint32_t regs_count_e1h=354;
 

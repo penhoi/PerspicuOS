@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/usb/atp/Makefile 199086 2009-11-09 15:59:09Z rpaulo $
+# $FreeBSD$
 
 S=     ${.CURDIR}/../../..
 

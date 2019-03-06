@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/procstat/Makefile 221807 2011-05-12 10:11:39Z stas $
+# $FreeBSD$
 
 PROG=	procstat
 MAN=	procstat.1

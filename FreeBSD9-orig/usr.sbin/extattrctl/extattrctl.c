@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/extattrctl/extattrctl.c 216292 2010-12-08 10:27:07Z kevlo $
+ * $FreeBSD$
  */
 /*
  * Developed by the TrustedBSD Project.

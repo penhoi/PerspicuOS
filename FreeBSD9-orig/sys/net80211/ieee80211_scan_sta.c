@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net80211/ieee80211_scan_sta.c 224717 2011-08-08 16:29:07Z bschmidt $");
+__FBSDID("$FreeBSD$");
 
 /*
  * IEEE 802.11 station scanning support.

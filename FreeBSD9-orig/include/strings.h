@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/strings.h 201525 2010-01-04 18:46:54Z ed $
+ * $FreeBSD$
  */
 
 #ifndef _STRINGS_H_

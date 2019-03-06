@@ -41,7 +41,7 @@
 
 #ifndef lint
 static const char rcsid[] =
-  "$FreeBSD: release/9.0.0/sbin/growfs/debug.c 215704 2010-11-22 20:10:48Z brucec $";
+  "$FreeBSD$";
 #endif /* not lint */
 
 /* ********************************************************** INCLUDES ***** */

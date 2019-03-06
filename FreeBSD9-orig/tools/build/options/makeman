@@ -4,7 +4,7 @@
 
 set -o errexit
 
-ident='$FreeBSD: release/9.0.0/tools/build/options/makeman 221733 2011-05-10 13:01:11Z ru $'
+ident='$FreeBSD$'
 
 t=$(mktemp -d -t makeman)
 trap 'test -d $t && rm -rf $t' exit

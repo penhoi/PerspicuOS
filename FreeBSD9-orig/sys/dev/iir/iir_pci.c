@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/iir/iir_pci.c 201821 2010-01-08 20:40:28Z trasz $");
+__FBSDID("$FreeBSD$");
 
 /*
  *  iir_pci.c:  PCI Bus Attachment for Intel Integrated RAID Controller driver

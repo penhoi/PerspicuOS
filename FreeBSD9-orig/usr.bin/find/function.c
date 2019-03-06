@@ -37,7 +37,7 @@ static const char sccsid[] = "@(#)function.c	8.10 (Berkeley) 5/4/95";
 #endif /* not lint */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/find/function.c 223035 2011-06-13 05:22:07Z avatar $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/ucred.h>

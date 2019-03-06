@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/csu/amd64/crt1.c 216338 2010-12-09 21:31:21Z dim $");
+__FBSDID("$FreeBSD$");
 
 #ifndef lint
 #ifndef __GNUC__

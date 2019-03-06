@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/sparc64/sparc64/ssm.c 203845 2010-02-13 19:05:34Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Glue allowing devices beneath the scalable shared memory node to be

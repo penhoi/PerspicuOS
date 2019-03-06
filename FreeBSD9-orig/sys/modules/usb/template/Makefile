@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/modules/usb/template/Makefile 223467 2011-06-23 07:54:03Z hselasky $
+# $FreeBSD$
 #
 # Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
 #

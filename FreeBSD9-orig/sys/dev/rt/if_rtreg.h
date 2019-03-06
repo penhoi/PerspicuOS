@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/rt/if_rtreg.h 223927 2011-07-11 08:23:59Z ray $
+ * $FreeBSD$
  */
 
 #ifndef _IF_RTREG_H_

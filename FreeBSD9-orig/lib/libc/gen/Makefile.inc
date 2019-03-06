@@ -1,5 +1,5 @@
 #	@(#)Makefile.inc	8.6 (Berkeley) 5/4/95
-# $FreeBSD: release/9.0.0/lib/libc/gen/Makefile.inc 228843 2011-12-23 15:00:37Z cperciva $
+# $FreeBSD$
 
 # machine-independent gen sources
 .PATH: ${.CURDIR}/${LIBC_ARCH}/gen ${.CURDIR}/gen

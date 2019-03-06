@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
- /*$FreeBSD: release/9.0.0/sys/dev/bxe/bxe_init_values_e1.h 219656 2011-03-15 01:06:27Z davidch $*/
+ /*$FreeBSD$*/
 
 #ifndef __BXE_INIT_VALUES_E1_H__
 #define	__BXE_INIT_VALUES_E1_H__

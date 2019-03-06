@@ -16,7 +16,7 @@
 # If you are in doubt as to the purpose or necessity of a line, check first 
 # in NOTES.
 #
-# $FreeBSD: release/9.0.0/sys/arm/conf/GUMSTIX 227277 2011-11-06 21:09:10Z marius $
+# $FreeBSD$
 
 ident		GUMSTIX
 cpu		CPU_XSCALE_PXA2X0

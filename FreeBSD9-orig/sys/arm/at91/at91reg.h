@@ -24,7 +24,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/arm/at91/at91reg.h 213496 2010-10-06 22:25:21Z cognet $
+ * $FreeBSD$
  */
 
 #ifndef _AT91REG_H_

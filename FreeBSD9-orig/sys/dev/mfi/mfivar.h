@@ -54,7 +54,7 @@
 #define _MFIVAR_H
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mfi/mfivar.h 227117 2011-11-05 18:27:47Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/lock.h>
 #include <sys/sx.h>

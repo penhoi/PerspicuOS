@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/pfctl/Makefile 198236 2009-10-19 16:00:24Z ru $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../contrib/pf/pfctl
 .PATH:	${.CURDIR}/../../sys/contrib/pf/net

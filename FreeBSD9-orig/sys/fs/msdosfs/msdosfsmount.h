@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/fs/msdosfs/msdosfsmount.h 224290 2011-07-24 17:43:09Z mckusick $ */
+/* $FreeBSD$ */
 /*	$NetBSD: msdosfsmount.h,v 1.17 1997/11/17 15:37:07 ws Exp $	*/
 
 /*-

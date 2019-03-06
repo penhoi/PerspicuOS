@@ -16,7 +16,7 @@
 
 #ifndef INLINE_KERNEL_COSDF
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/msun/src/k_cosf.c 193368 2009-06-03 08:16:34Z ed $");
+__FBSDID("$FreeBSD$");
 #endif
 
 #include "math.h"

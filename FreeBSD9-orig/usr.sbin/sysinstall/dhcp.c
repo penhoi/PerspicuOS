@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/usr.sbin/sysinstall/dhcp.c 126844 2004-03-11 11:58:16Z bde $
+ * $FreeBSD$
  *
  * Copyright (c) 1999
  *	C. Stone.  All rights reserved.

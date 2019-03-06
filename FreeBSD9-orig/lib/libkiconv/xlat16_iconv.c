@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libkiconv/xlat16_iconv.c 194638 2009-06-22 17:09:46Z delphij $
+ * $FreeBSD$
  */
 
 /*

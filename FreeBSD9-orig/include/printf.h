@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/printf.h 219343 2011-03-06 17:45:37Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef _PRINTF_H_

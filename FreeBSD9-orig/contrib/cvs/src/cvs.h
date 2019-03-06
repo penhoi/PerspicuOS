@@ -14,7 +14,7 @@
 /*
  * basic information used in all source files
  *
- * $FreeBSD: release/9.0.0/contrib/cvs/src/cvs.h 177403 2008-03-19 15:10:20Z obrien $
+ * $FreeBSD$
  */
 
 

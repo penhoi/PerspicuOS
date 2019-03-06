@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmtablegen/Makefile 226633 2011-10-22 14:08:43Z dim $
+# $FreeBSD$
 
 LIB=	llvmtablegen
 

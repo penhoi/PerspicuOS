@@ -4,7 +4,7 @@
 # Author: Jordan K Hubbard
 # Date:   22 June 2001
 #
-# $FreeBSD: release/9.0.0/release/powerpc/mkisoimages.sh 224866 2011-08-14 14:36:32Z nwhitehorn $
+# $FreeBSD$
 #
 # This script is used by release/Makefile to build the (optional) ISO images
 # for a FreeBSD release.  It is considered architecture dependent since each

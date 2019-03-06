@@ -26,7 +26,7 @@
 # ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
 # THE POSSIBILITY OF SUCH DAMAGES.
 #
-# $FreeBSD: release/9.0.0/sys/modules/ath/Makefile 222585 2011-06-01 20:09:49Z adrian $
+# $FreeBSD$
 #
 
 ATH_RATE?=	sample		# tx rate control algorithm

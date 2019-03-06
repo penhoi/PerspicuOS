@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ppbus/ppb_msq.c 226385 2011-10-15 12:08:21Z brueffer $");
+__FBSDID("$FreeBSD$");
 #include <machine/stdarg.h>
 
 #include <sys/param.h>

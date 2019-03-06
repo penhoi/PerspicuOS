@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/vr/Makefile 177048 2008-03-11 03:50:57Z yongari $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/vr
 

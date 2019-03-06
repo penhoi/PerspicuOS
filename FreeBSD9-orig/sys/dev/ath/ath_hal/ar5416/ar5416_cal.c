@@ -14,7 +14,7 @@
  * ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
  * OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ath/ath_hal/ar5416/ar5416_cal.c 225421 2011-09-06 10:54:56Z adrian $
+ * $FreeBSD$
  */
 #include "opt_ah.h"
 

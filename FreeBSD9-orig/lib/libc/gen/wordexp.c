@@ -39,7 +39,7 @@
 #include <wordexp.h>
 #include "un-namespace.h"
 
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/gen/wordexp.c 199784 2009-11-25 04:45:45Z wollman $");
+__FBSDID("$FreeBSD$");
 
 static int	we_askshell(const char *, wordexp_t *, int);
 static int	we_check(const char *, int);

@@ -22,7 +22,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/etc/network.subr 228706 2011-12-19 13:14:57Z glebius $
+# $FreeBSD$
 #
 
 #

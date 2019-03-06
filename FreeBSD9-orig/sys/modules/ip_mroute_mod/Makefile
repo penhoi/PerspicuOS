@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ip_mroute_mod/Makefile 193744 2009-06-08 19:57:35Z bz $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

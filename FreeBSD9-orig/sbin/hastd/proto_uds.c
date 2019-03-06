@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/proto_uds.c 219873 2011-03-22 16:21:11Z pjd $");
+__FBSDID("$FreeBSD$");
 
 /* UDS - UNIX Domain Socket */
 

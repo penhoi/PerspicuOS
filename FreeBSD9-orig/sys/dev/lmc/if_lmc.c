@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/sys/dev/lmc/if_lmc.c 223741 2011-07-03 16:08:38Z bz $
+ * $FreeBSD$
  *
  * Copyright (c) 2002-2004 David Boggs. <boggs@boggs.palo-alto.ca.us>
  * All rights reserved.

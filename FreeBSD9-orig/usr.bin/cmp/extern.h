@@ -28,7 +28,7 @@
  *
  *	@(#)extern.h	8.3 (Berkeley) 4/2/94
  *
- * $FreeBSD: release/9.0.0/usr.bin/cmp/extern.h 216370 2010-12-11 08:32:16Z joel $
+ * $FreeBSD$
  *
  */
 

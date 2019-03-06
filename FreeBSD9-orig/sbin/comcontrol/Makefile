@@ -1,5 +1,5 @@
 #	@(#)Makefile	5.4 (Berkeley) 6/5/91
-# $FreeBSD: release/9.0.0/sbin/comcontrol/Makefile 198236 2009-10-19 16:00:24Z ru $
+# $FreeBSD$
 
 PROG=	comcontrol
 MAN=	comcontrol.8

@@ -91,7 +91,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/powerpc/aim/moea64_native.c 222614 2011-06-02 14:15:44Z nwhitehorn $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Native 64-bit page table operations for running without a hypervisor.

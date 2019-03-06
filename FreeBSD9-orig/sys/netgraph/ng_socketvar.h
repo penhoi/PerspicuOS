@@ -37,7 +37,7 @@
  *
  * Author: Julian Elischer <julian@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_socketvar.h 205083 2010-03-12 15:04:59Z glebius $
+ * $FreeBSD$
  * $Whistle: ng_socketvar.h,v 1.1 1999/01/20 21:35:39 archie Exp $
  */
 

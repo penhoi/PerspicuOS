@@ -51,7 +51,7 @@ static const char sccsid[] = "@(#)rshd.c	8.2 (Berkeley) 4/6/94";
 #endif /* not lint */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/libexec/rshd/rshd.c 227208 2011-11-06 12:37:44Z brueffer $");
+__FBSDID("$FreeBSD$");
 
 /*
  * remote shell server:

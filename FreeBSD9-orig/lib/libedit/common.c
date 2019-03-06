@@ -36,7 +36,7 @@
 static char sccsid[] = "@(#)common.c	8.1 (Berkeley) 6/4/93";
 #endif /* not lint && not SCCSID */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libedit/common.c 212191 2010-09-03 22:24:26Z jilles $");
+__FBSDID("$FreeBSD$");
 
 /*
  * common.c: Common Editor functions

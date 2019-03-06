@@ -21,7 +21,7 @@
  * Extensively modified by Motonori Shindo (mshindo@mshindo.net) for more
  * complete PPP support.
  *
- * $FreeBSD: release/9.0.0/contrib/tcpdump/print-ppp.c 214478 2010-10-28 19:06:17Z rpaulo $
+ * $FreeBSD$
  */
 
 /*

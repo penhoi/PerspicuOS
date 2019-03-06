@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/modules/snmp_hostres/hostres_diskstorage_tbl.c 210442 2010-07-24 10:04:35Z simon $
+ * $FreeBSD$
  */
 
 /*

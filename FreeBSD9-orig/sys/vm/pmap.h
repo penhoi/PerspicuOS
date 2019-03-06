@@ -57,7 +57,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/vm/pmap.h 217482 2011-01-16 20:40:50Z alc $
+ * $FreeBSD$
  */
 
 /*

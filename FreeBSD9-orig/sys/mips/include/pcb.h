@@ -36,7 +36,7 @@
  *	from: Utah Hdr: pcb.h 1.13 89/04/23
  *	from: @(#)pcb.h 8.1 (Berkeley) 6/10/93
  *	JNPR: pcb.h,v 1.2 2006/08/07 11:51:17 katta
- * $FreeBSD: release/9.0.0/sys/mips/include/pcb.h 211862 2010-08-27 07:45:50Z jchandra $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_PCB_H_

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libefi/Makefile 203181 2010-01-30 04:24:03Z marcel $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

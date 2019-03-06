@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.2 (Berkeley) 3/21/94
-# $FreeBSD: release/9.0.0/sys/kern/Makefile 219131 2011-03-01 13:28:27Z rwatson $
+# $FreeBSD$
 
 # Makefile for init_sysent
 

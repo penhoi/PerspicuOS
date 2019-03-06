@@ -1,7 +1,7 @@
 /*
  * History
  *
- * $FreeBSD: release/9.0.0/usr.bin/calendar/calendars/calendar.history 213033 2010-09-22 21:14:18Z edwin $
+ * $FreeBSD$
  */
 
 #ifndef _calendar_history_

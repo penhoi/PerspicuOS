@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mthca/Makefile 219820 2011-03-21 09:58:24Z jeff $
+# $FreeBSD$
 
 .PATH:  ${.CURDIR}/../../ofed/drivers/infiniband/hw/mthca
 KMOD    = mthca

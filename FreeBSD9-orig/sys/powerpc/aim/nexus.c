@@ -52,7 +52,7 @@
  *
  * 	from: FreeBSD: src/sys/i386/i386/nexus.c,v 1.43 2001/02/09
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/aim/nexus.c 217065 2011-01-06 20:19:01Z andreast $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_acl_basic.c 184037 2008-10-19 00:13:57Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Exercise the system-independent portion of the ACL support.

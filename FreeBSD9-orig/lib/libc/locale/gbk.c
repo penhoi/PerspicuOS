@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/locale/gbk.c 172619 2007-10-13 16:28:22Z ache $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <errno.h>

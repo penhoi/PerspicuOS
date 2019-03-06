@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/msun/src/s_isnan.c 209110 2010-06-12 17:32:05Z das $
+ * $FreeBSD$
  */
 
 #include <math.h>

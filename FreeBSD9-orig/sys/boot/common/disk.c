@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/common/disk.c 227710 2011-11-19 11:47:15Z pjd $");
+__FBSDID("$FreeBSD$");
 
 /*
  * MBR/GPT partitioned disk device handling.

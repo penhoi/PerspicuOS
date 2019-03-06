@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ath/ath_hal/ar9002/ar9285_diversity.c 221833 2011-05-13 09:57:12Z adrian $
+ * $FreeBSD$
  */
 #include "opt_ah.h"
 

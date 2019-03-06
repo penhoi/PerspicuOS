@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/secure/usr.bin/openssl/Makefile 194207 2009-06-14 19:46:18Z simon $
+# $FreeBSD$
 
 PROG=	openssl
 

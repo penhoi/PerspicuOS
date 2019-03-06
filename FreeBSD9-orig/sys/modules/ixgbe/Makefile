@@ -1,4 +1,4 @@
-#$FreeBSD: release/9.0.0/sys/modules/ixgbe/Makefile 215911 2010-11-26 22:46:32Z jfv $
+#$FreeBSD$
 .PATH:  ${.CURDIR}/../../dev/ixgbe
 KMOD    = ixgbe
 SRCS    = device_if.h bus_if.h pci_if.h

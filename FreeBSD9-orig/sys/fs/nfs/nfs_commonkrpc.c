@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/fs/nfs/nfs_commonkrpc.c 224117 2011-07-16 20:53:27Z rmacklem $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Socket operations for use by nfs

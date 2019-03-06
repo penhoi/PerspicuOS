@@ -62,7 +62,7 @@
  * THIS SOFTWARE, EVEN IF WHISTLE COMMUNICATIONS IS ADVISED OF THE POSSIBILITY
  * OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_gif_demux.c 220768 2011-04-18 09:12:27Z glebius $
+ * $FreeBSD$
  */
 
 /*

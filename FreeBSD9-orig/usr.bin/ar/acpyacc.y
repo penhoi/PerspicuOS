@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/ar/acpyacc.y 222122 2011-05-20 11:29:09Z bcr $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/mman.h>
 #include <sys/param.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/sparc64/loader/Makefile 222472 2011-05-30 04:23:33Z julian $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 MK_SSP=		no

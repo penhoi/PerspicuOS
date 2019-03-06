@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/bus.h 227977 2011-11-25 17:07:27Z marius $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_BUS_H_

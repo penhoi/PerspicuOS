@@ -34,7 +34,7 @@
 #include <dev/sound/version.h>
 #include <sys/sx.h>
 
-SND_DECLARE_FILE("$FreeBSD: release/9.0.0/sys/dev/sound/pcm/sndstat.c 202267 2010-01-13 22:22:16Z mav $");
+SND_DECLARE_FILE("$FreeBSD$");
 
 #define	SS_TYPE_MODULE		0
 #define	SS_TYPE_FIRST		1

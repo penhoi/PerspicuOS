@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/i386/efi/Makefile 212066 2010-08-31 19:01:12Z delphij $
+# $FreeBSD$
 
 NO_MAN=
 WITHOUT_SSP=

@@ -37,7 +37,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/cddl/compat/opensolaris/kern/opensolaris_uio.c 209962 2010-07-12 23:49:04Z mm $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

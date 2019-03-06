@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/gem/if_gem_sbus.c 212725 2010-09-16 09:29:48Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * SBus bindings for Sun GEM Ethernet controllers

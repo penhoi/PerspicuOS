@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/radix.c 172776 2007-10-18 21:52:14Z darrenr $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Copyright (c) 1988, 1989, 1993

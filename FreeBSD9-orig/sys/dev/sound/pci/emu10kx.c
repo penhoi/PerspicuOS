@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sound/pci/emu10kx.c 218478 2011-02-09 11:28:57Z marius $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

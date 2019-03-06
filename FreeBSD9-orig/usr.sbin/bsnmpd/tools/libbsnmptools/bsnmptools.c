@@ -28,7 +28,7 @@
  *
  * Helper functions for snmp client tools
  *
- * $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/tools/libbsnmptools/bsnmptools.c 216295 2010-12-08 14:30:25Z syrinx $
+ * $FreeBSD$
  */
 
 #include <sys/param.h> 

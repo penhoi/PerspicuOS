@@ -24,7 +24,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgb/t3cdev.h 178767 2008-05-05 01:41:53Z kmacy $
+ * $FreeBSD$
  */
 #ifndef _T3CDEV_H_
 #define _T3CDEV_H_

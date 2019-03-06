@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libkse/arch/arm/Makefile.inc 209118 2010-06-13 01:27:29Z imp $
+# $FreeBSD$
 
 CFLAGS+=-DSYSTEM_SCOPE_ONLY
 

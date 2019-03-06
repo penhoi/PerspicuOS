@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/routed/if.c 204405 2010-02-27 10:17:27Z uqs $
+ * $FreeBSD$
  */
 
 #include <stdint.h>
@@ -37,7 +37,7 @@
 #ifdef __NetBSD__
 __RCSID("$NetBSD$");
 #elif defined(__FreeBSD__)
-__RCSID("$FreeBSD: release/9.0.0/sbin/routed/if.c 204405 2010-02-27 10:17:27Z uqs $");
+__RCSID("$FreeBSD$");
 #else
 __RCSID("$Revision: 2.27 $");
 #ident "$Revision: 2.27 $"

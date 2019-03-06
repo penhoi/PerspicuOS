@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/tools/libbsnmptools/Makefile 216377 2010-12-11 13:24:01Z syrinx $
+# $FreeBSD$
 #
 
 .PATH: ${.CURDIR}

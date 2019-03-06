@@ -2,7 +2,7 @@
 .\" Must use -- tbl and pic -- with this one
 .\"
 .\" @(#)rpc.prog.ms	2.3 88/08/11 4.0 RPCSRC
-.\" $FreeBSD: release/9.0.0/share/doc/psd/23.rpc/rpc.prog.ms 219055 2011-02-26 12:50:28Z brucec $
+.\" $FreeBSD$
 .\"
 .de BT
 .if \\n%=1 .tl ''- % -''

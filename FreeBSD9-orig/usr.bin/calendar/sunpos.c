@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/calendar/sunpos.c 208829 2010-06-05 12:31:08Z edwin $");
+__FBSDID("$FreeBSD$");
 
 /*
  * This code is created to match the formulas available at:

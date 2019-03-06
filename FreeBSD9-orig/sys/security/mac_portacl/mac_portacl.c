@@ -32,7 +32,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/mac_portacl/mac_portacl.c 215034 2010-11-09 10:59:09Z brucec $
+ * $FreeBSD$
  */
 
 /*

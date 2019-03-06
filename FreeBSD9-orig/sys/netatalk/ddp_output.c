@@ -21,7 +21,7 @@
  *	netatalk@itd.umich.edu
  */
 
-/* $FreeBSD: release/9.0.0/sys/netatalk/ddp_output.c 194913 2009-06-24 21:36:09Z rwatson $ */
+/* $FreeBSD$ */
 
 #include <sys/param.h>
 #include <sys/systm.h>

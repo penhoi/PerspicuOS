@@ -50,7 +50,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_fail.c 223876 2011-07-08 20:41:12Z mdf $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/ctype.h>
 #include <sys/errno.h>

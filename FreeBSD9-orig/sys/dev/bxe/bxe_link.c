@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/bxe/bxe_link.c 222875 2011-06-08 21:18:14Z davidch $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bxe.h"
 #include "bxe_include.h"

@@ -1,5 +1,5 @@
 # $Id: Makefile.am 21986 2007-10-19 05:22:57Z lha $
-# $FreeBSD: release/9.0.0/crypto/heimdal/appl/su/Makefile.am 178828 2008-05-07 13:53:12Z dfr $
+# $FreeBSD$
 
 include $(top_srcdir)/Makefile.am.common
 

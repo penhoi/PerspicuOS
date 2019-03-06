@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/clang/include/clang/Basic/Version.inc 226890 2011-10-28 21:08:39Z dim $ */
+/* $FreeBSD$ */
 
 #define	CLANG_VERSION		3.0
 #define	CLANG_VERSION_MAJOR	3

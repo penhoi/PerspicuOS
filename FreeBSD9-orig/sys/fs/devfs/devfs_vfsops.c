@@ -31,7 +31,7 @@
  *	@(#)kernfs_vfsops.c	8.10 (Berkeley) 5/14/95
  * From: FreeBSD: src/sys/miscfs/kernfs/kernfs_vfsops.c 1.36
  *
- * $FreeBSD: release/9.0.0/sys/fs/devfs/devfs_vfsops.c 210925 2010-08-06 09:46:53Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

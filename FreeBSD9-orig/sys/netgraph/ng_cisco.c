@@ -37,7 +37,7 @@
  *
  * Author: Julian Elischer <julian@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_cisco.c 220768 2011-04-18 09:12:27Z glebius $
+ * $FreeBSD$
  * $Whistle: ng_cisco.c,v 1.25 1999/11/01 09:24:51 julian Exp $
  */
 

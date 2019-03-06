@@ -38,7 +38,7 @@
 
 #include "feeder_if.h"
 
-SND_DECLARE_FILE("$FreeBSD: release/9.0.0/sys/dev/sound/pcm/channel.c 214332 2010-10-25 08:25:44Z mav $");
+SND_DECLARE_FILE("$FreeBSD$");
 
 int report_soft_formats = 1;
 SYSCTL_INT(_hw_snd, OID_AUTO, report_soft_formats, CTLFLAG_RW,

@@ -5,7 +5,7 @@
  * This is an implementation of the algorithms posted above.
  * This file is placed in the public domain by Peter Wemm.
  *
- * $FreeBSD: release/9.0.0/sys/sys/fnv_hash.h 139825 2005-01-07 02:29:27Z imp $
+ * $FreeBSD$
  */
 
 typedef u_int32_t Fnv32_t;

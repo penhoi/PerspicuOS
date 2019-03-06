@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/diskinfo/diskinfo.c 224250 2011-07-21 19:39:40Z mav $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

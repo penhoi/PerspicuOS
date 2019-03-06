@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/xen/exception.s 199852 2009-11-27 01:02:17Z attilio $
+ * $FreeBSD$
  */
 
 #include "opt_apic.h"

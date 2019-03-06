@@ -1,7 +1,7 @@
 /*	$NetBSD: usb/uvscom.c,v 1.1 2002/03/19 15:08:42 augustss Exp $	*/
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/serial/uvscom.c 223486 2011-06-24 02:30:02Z hselasky $");
+__FBSDID("$FreeBSD$");
 
 /*-
  * Copyright (c) 2001-2003, 2005 Shunsuke Akiyama <akiyama@jp.FreeBSD.org>.

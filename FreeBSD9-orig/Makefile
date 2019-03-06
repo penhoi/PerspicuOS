@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/Makefile 227880 2011-11-23 12:24:04Z gjb $
+# $FreeBSD$
 #
 # The user-driven targets are:
 #

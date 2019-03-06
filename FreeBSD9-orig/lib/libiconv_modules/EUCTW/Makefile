@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libiconv_modules/EUCTW/Makefile 219019 2011-02-25 00:04:39Z gabor $
+# $FreeBSD$
 
 SHLIB=	EUCTW
 SRCS+=	citrus_euctw.c

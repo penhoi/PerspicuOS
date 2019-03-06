@@ -4,7 +4,7 @@
 # This file contains machine dependent kernel configuration notes.  For
 # machine independent notes, look in /sys/conf/NOTES.
 #
-# $FreeBSD: release/9.0.0/sys/amd64/conf/NOTES 228101 2011-11-28 20:43:50Z philip $
+# $FreeBSD$
 #
 
 #

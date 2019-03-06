@@ -43,7 +43,7 @@ static char sccsid[] = "@(#)kill.c	8.4 (Berkeley) 4/28/95";
 #endif /* not lint */
 #endif
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/bin/kill/kill.c 219154 2011-03-01 21:48:22Z jilles $");
+__FBSDID("$FreeBSD$");
 
 #include <ctype.h>
 #include <err.h>

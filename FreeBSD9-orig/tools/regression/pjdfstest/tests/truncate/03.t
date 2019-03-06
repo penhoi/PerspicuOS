@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/truncate/03.t 211178 2010-08-11 16:33:17Z pjd $
+# $FreeBSD$
 
 desc="truncate returns ENAMETOOLONG if an entire path name exceeded {PATH_MAX} characters"
 

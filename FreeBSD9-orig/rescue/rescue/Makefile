@@ -1,4 +1,4 @@
-#$FreeBSD: release/9.0.0/rescue/rescue/Makefile 219089 2011-02-27 19:41:40Z pjd $
+#$FreeBSD$
 #	@(#)Makefile	8.1 (Berkeley) 6/2/93
 
 NO_MAN=

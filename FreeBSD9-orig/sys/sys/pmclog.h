@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/pmclog.h 185363 2008-11-27 09:00:47Z jkoshy $
+ * $FreeBSD$
  */
 
 #ifndef	_SYS_PMCLOG_H_

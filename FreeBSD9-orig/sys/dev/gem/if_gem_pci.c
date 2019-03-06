@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/gem/if_gem_pci.c 223944 2011-07-12 08:20:15Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * PCI bindings for Apple GMAC, Sun ERI and Sun GEM Ethernet controllers

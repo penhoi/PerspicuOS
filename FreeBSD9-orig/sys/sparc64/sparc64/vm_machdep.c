@@ -39,7 +39,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/sparc64/sparc64/vm_machdep.c 223801 2011-07-05 18:55:56Z marius $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_pmap.h"
 

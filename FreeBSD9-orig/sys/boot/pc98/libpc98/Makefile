@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/pc98/libpc98/Makefile 201339 2009-12-31 12:05:48Z nyan $
+# $FreeBSD$
 #
 LIB=			pc98
 INTERNALLIB=

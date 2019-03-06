@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/mfiutil/mfi_evt.c 222899 2011-06-09 19:52:28Z bz $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

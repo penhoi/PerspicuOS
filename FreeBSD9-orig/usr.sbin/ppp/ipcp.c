@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/ipcp.c 214011 2010-10-18 07:28:53Z glebius $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

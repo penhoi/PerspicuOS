@@ -1,5 +1,5 @@
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/serial/ulpt.c 223486 2011-06-24 02:30:02Z hselasky $");
+__FBSDID("$FreeBSD$");
 
 /*	$NetBSD: ulpt.c,v 1.60 2003/10/04 21:19:50 augustss Exp $	*/
 

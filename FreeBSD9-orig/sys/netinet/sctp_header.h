@@ -33,7 +33,7 @@
 /* $KAME: sctp_header.h,v 1.14 2005/03/06 16:04:17 itojun Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_header.h 228037 2011-11-27 19:13:45Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __sctp_header_h__
 #define __sctp_header_h__

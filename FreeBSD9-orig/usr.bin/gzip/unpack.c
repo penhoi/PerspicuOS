@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/gzip/unpack.c 213927 2010-10-16 15:24:04Z bcr $
+ * $FreeBSD$
  */
 
 /* This file is #included by gzip.c */

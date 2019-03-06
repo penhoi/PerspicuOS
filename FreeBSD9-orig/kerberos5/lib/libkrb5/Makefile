@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/kerberos5/lib/libkrb5/Makefile 225811 2011-09-27 18:40:13Z stas $
+# $FreeBSD$
 
 LIB=	krb5
 LDFLAGS=	-Wl,--no-undefined

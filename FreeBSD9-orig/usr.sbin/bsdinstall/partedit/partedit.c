@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/partedit/partedit.c 227222 2011-11-06 16:37:50Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

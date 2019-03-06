@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/locale/mblocal.h 175553 2008-01-21 23:48:12Z ache $
+ * $FreeBSD$
  */
 
 #ifndef _MBLOCAL_H_

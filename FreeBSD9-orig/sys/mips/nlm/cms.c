@@ -28,7 +28,7 @@
  * NETLOGIC_BSD */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/nlm/cms.c 225394 2011-09-05 10:45:29Z jchandra $");
+__FBSDID("$FreeBSD$");
 #include <sys/types.h>
 #include <sys/systm.h>
 #include <sys/param.h>

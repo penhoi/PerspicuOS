@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/i386/vm86bios.s 217587 2011-01-19 17:09:07Z jkim $
+ * $FreeBSD$
  */
 
 #include "opt_npx.h"

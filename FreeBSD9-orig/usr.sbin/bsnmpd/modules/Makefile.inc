@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/modules/Makefile.inc 204596 2010-03-02 18:44:08Z uqs $
+# $FreeBSD$
 
 SHLIB_MAJOR=	6
 

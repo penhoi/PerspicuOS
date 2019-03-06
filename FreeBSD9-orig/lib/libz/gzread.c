@@ -3,7 +3,7 @@
  * For conditions of distribution and use, see copyright notice in zlib.h
  */
 
-/* $FreeBSD: release/9.0.0/lib/libz/gzread.c 206002 2010-03-31 20:55:13Z delphij $ */
+/* $FreeBSD$ */
 
 #include "gzguts.h"
 #include <unistd.h>

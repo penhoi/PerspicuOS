@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libprocstat/Makefile 223953 2011-07-12 13:46:13Z pluknet $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

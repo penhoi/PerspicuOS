@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libutil/humanize_number.c 220582 2011-04-12 22:48:03Z delphij $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <assert.h>

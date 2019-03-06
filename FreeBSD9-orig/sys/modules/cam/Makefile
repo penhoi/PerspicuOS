@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cam/Makefile 221071 2011-04-26 17:01:49Z mav $
+# $FreeBSD$
 
 S=	${.CURDIR}/../..
 

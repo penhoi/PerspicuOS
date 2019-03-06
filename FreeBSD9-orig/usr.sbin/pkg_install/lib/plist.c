@@ -19,7 +19,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/pkg_install/lib/plist.c 206132 2010-04-03 10:55:11Z flz $");
+__FBSDID("$FreeBSD$");
 
 #include "lib.h"
 #include <err.h>

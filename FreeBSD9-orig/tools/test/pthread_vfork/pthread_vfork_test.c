@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/test/pthread_vfork/pthread_vfork_test.c 185695 2008-12-06 13:23:53Z ganbold $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <pthread.h>

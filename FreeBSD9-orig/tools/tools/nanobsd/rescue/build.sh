@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/tools/tools/nanobsd/rescue/build.sh 213324 2010-10-01 10:34:35Z mr $
+# $FreeBSD$
 #
 
 if [ -z "${1}" -o \! -f "${1}" ]; then

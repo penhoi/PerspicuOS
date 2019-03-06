@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/usb_compat_linux.c 217265 2011-01-11 13:59:06Z jhb $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2007 Luigi Rizzo - Universita` di Pisa. All rights reserved.
  * Copyright (c) 2007 Hans Petter Selasky. All rights reserved.

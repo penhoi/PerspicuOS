@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/mv/mvreg.h 209131 2010-06-13 13:28:53Z raj $
+ * $FreeBSD$
  */
 
 #ifndef _MVREG_H_

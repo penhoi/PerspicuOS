@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/tar/test/test_getdate.c 189521 2009-03-08 06:03:15Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 #include <time.h>
 

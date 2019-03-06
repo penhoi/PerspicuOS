@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/fs/pseudofs/pseudofs_vncache.c 211531 2010-08-20 19:46:50Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_pseudofs.h"
 

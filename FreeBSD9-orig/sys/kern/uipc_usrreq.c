@@ -57,7 +57,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/uipc_usrreq.c 225827 2011-09-28 08:47:17Z bz $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

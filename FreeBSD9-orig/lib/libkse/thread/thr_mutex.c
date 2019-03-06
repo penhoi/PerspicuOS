@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libkse/thread/thr_mutex.c 176071 2008-02-06 23:25:29Z des $
+ * $FreeBSD$
  */
 
 #include "namespace.h"

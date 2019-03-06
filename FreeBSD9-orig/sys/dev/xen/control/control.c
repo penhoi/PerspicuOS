@@ -89,7 +89,7 @@
  * SUCH DAMAGE.
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/xen/control/control.c 225706 2011-09-21 00:06:02Z gibbs $");
+__FBSDID("$FreeBSD$");
 
 /**
  * \file control.c

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/nanobsd/gateworks/common 216930 2011-01-03 20:32:08Z imp $
+# $FreeBSD$
 
 NANO_CFGDIR=${NANO_CFGDIR:-${NANO_SRC}/${NANO_TOOLS}/gateworks/cfg}
 test -d ${NANO_CFGDIR} || NANO_CFGDIR=/var/empty

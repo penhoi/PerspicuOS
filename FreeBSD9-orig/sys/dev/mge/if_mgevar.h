@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/mge/if_mgevar.h 213893 2010-10-15 14:52:11Z marius $
+ * $FreeBSD$
  */
 
 #ifndef __IF_MGE_H__

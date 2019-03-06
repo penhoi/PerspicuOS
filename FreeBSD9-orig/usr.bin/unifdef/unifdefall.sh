@@ -26,7 +26,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.bin/unifdef/unifdefall.sh 205089 2010-03-12 17:55:29Z fanf $
+# $FreeBSD$
 
 set -e
 

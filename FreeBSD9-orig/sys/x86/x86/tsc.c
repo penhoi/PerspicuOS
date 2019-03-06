@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/x86/x86/tsc.c 225069 2011-08-22 03:10:29Z silby $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_clock.h"
 

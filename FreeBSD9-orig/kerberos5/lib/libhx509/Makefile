@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/kerberos5/lib/libhx509/Makefile 225811 2011-09-27 18:40:13Z stas $
+# $FreeBSD$
 
 LIB=	hx509
 LDFLAGS=	-Wl,--no-undefined

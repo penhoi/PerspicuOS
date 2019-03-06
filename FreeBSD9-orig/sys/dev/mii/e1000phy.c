@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mii/e1000phy.c 223688 2011-06-30 05:20:02Z imp $");
+__FBSDID("$FreeBSD$");
 
 /*
  * driver for the Marvell 88E1000 series external 1000/100/10-BT PHY.

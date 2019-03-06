@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/mips/adm5120/std.adm5120 215270 2010-11-13 22:34:12Z imp $
+# $FreeBSD$
 #
 # Standard include file for ADM5120
 

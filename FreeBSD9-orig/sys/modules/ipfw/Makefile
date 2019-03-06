@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ipfw/Makefile 227232 2011-11-06 17:31:57Z bz $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

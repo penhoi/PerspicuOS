@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libstand/zalloc.c 223905 2011-07-10 07:25:34Z avatar $");
+__FBSDID("$FreeBSD$");
 
 /*
  * LIB/MEMORY/ZALLOC.C	- self contained low-overhead memory pool/allocation 

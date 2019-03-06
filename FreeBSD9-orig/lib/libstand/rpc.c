@@ -36,7 +36,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libstand/rpc.c 197178 2009-09-13 21:51:01Z emaste $");
+__FBSDID("$FreeBSD$");
 
 /*
  * RPC functions used by NFS and bootparams.

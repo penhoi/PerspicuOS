@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/include/sysarch.h 145034 2005-04-13 22:57:17Z peter $
+ * $FreeBSD$
  */
 
 /*

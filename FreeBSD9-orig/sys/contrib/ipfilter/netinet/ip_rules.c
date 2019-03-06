@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/contrib/ipfilter/netinet/ip_rules.c 145517 2005-04-25 18:15:41Z darrenr $	*/
+/*	$FreeBSD$	*/
 
 /*
 * Copyright (C) 1993-2000 by Darren Reed.

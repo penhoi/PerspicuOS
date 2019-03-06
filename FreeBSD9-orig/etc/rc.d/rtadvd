@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/rtadvd 222997 2011-06-11 21:41:44Z hrs $
+# $FreeBSD$
 #
 
 # PROVIDE: rtadvd

@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/geom/bde/g_bde.c 219029 2011-02-25 10:24:35Z netchild $
+ * $FreeBSD$
  *
  */
 

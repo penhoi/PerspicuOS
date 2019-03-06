@@ -25,7 +25,7 @@
  *
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/libalias/alias_mod.c 201758 2010-01-07 21:01:37Z mbr $");
+__FBSDID("$FreeBSD$");
 
 #ifdef _KERNEL
 #include <sys/libkern.h>

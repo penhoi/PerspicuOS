@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/csup/Makefile 204639 2010-03-03 16:45:58Z lulf $
+# $FreeBSD$
 
 PROG=	csup
 SRCS=	attrstack.c \

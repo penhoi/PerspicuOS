@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/tools/tools/bus_autoconf/bus_load_file.c 223535 2011-06-25 15:22:44Z hselasky $ */
+/* $FreeBSD$ */
 
 /*-
  * Copyright (c) 2011 Hans Petter Selasky. All rights reserved.

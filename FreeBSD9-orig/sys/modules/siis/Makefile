@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/siis/Makefile 195801 2009-07-21 12:32:46Z mav $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/siis
 

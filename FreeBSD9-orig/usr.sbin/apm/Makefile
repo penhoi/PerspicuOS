@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/apm/Makefile 211725 2010-08-23 22:24:11Z imp $
+# $FreeBSD$
 
 PROG=	apm
 MAN=	apm.8

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/nfsuserd/Makefile 193070 2009-05-29 22:19:45Z delphij $
+# $FreeBSD$
 
 PROG=	nfsuserd
 MAN=	nfsuserd.8

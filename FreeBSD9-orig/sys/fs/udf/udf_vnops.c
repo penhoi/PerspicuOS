@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/udf/udf_vnops.c 209425 2010-06-22 08:22:25Z avg $
+ * $FreeBSD$
  */
 
 /* udf_vnops.c */

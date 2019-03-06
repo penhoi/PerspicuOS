@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/ddb/ddb.h 207922 2010-05-11 17:01:14Z attilio $
+ * $FreeBSD$
  */
 
 /*

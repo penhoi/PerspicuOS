@@ -23,6 +23,6 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/pc-sysinstall/backend-query/sys-mem.sh 214059 2010-10-19 15:12:16Z emaste $
+# $FreeBSD$
 
 expr $(sysctl -n hw.realmem) / 1048576

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/sysinstall/Makefile 217309 2011-01-12 14:55:02Z nwhitehorn $
+# $FreeBSD$
 
 .if ${MACHINE_CPUARCH} != "ia64"
 _wizard=	wizard.c

@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/pc98/include/md_var.h 208349 2010-05-20 12:46:19Z marius $
+ * $FreeBSD$
  */
 
 #ifndef _PC98_INCLUDE_MD_VAR_H_

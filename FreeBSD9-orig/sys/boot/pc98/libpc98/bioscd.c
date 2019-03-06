@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/pc98/libpc98/bioscd.c 190147 2009-03-20 13:03:33Z nyan $");
+__FBSDID("$FreeBSD$");
 
 /*
  * BIOS CD device handling for CD's that have been booted off of via no

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libstand/Makefile 223156 2011-06-16 18:00:27Z imp $
+# $FreeBSD$
 # Originally from	$NetBSD: Makefile,v 1.21 1997/10/26 22:08:38 lukem Exp $
 #
 # Notes:

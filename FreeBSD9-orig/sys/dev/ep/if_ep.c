@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ep/if_ep.c 207554 2010-05-03 07:32:50Z sobomax $");
+__FBSDID("$FreeBSD$");
 
 /*
  *	Modified from the FreeBSD 1.1.5.1 version by:

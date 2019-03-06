@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/test/dtrace/Makefile 211567 2010-08-21 14:14:24Z rpaulo $
+# $FreeBSD$
 
 TESTSRCDIR=	${.CURDIR}/../../../cddl/contrib/opensolaris/cmd/dtrace/test
 CFLAGS+=	-w

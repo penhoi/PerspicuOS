@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/kerberos5/lib/libkadm5srv/Makefile 225811 2011-09-27 18:40:13Z stas $
+# $FreeBSD$
 
 LIB=	kadm5srv
 LDFLAGS=	-Wl,--no-undefined

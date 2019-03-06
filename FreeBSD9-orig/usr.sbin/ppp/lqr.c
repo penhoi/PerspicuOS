@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/lqr.c 138799 2004-12-13 12:51:19Z brian $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

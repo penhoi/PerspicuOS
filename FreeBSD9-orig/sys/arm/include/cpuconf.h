@@ -34,7 +34,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/cpuconf.h 215031 2010-11-09 09:34:21Z kevlo $
+ * $FreeBSD$
  *
  */
 

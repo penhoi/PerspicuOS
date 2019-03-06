@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strndup.c 203391 2010-02-02 19:02:08Z ed $");
+__FBSDID("$FreeBSD$");
 
 #include <stddef.h>
 #include <stdlib.h>

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.bin/mkcsmapper/ldef.h 219019 2011-02-25 00:04:39Z gabor $ */
+/* $FreeBSD$ */
 /* $NetBSD: ldef.h,v 1.2 2006/09/09 14:35:17 tnozaki Exp $	*/
 
 /*-

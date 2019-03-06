@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dtrace/dtrace/Makefile 211926 2010-08-28 08:18:20Z rpaulo $
+# $FreeBSD$
 
 ARCHDIR=	${MACHINE_CPUARCH}
 

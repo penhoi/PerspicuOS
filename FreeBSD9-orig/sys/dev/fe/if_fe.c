@@ -21,7 +21,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/fe/if_fe.c 207554 2010-05-03 07:32:50Z sobomax $");
+__FBSDID("$FreeBSD$");
 
 /*
  *

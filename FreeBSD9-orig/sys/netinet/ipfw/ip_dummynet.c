@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/ipfw/ip_dummynet.c 222560 2011-06-01 12:33:05Z ae $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Configuration and internal object management for dummynet.

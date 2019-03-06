@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
- /*$FreeBSD: release/9.0.0/sys/dev/bxe/bxe_reg.h 219656 2011-03-15 01:06:27Z davidch $*/
+ /*$FreeBSD$*/
 
 /* bxe_reg.h: Broadcom Everest network driver.
  * The registers description starts with the register Access type followed

@@ -22,7 +22,7 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/adb/adb_kbd.c 224126 2011-07-17 08:19:19Z ed $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

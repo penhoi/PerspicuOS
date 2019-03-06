@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cxgb/toecore/Makefile 184950 2008-11-14 01:56:11Z ps $
+# $FreeBSD$
 
 CXGB = ${.CURDIR}/../../../dev/cxgb
 .PATH: ${CXGB}/ulp/toecore

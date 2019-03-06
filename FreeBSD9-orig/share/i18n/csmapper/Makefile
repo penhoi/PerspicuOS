@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/i18n/csmapper/Makefile 219019 2011-02-25 00:04:39Z gabor $
+# $FreeBSD$
 # $NetBSD: Makefile,v 1.13 2007/03/13 16:34:37 tnozaki Exp $
 
 FILESDIR= ${CSMAPPERDIR}

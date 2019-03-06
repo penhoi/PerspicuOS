@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/arch/i386/include/pthread_md.h 177853 2008-04-02 07:41:25Z davidxu $
+ * $FreeBSD$
  */
 
 /*

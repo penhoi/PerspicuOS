@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)time.h	8.5 (Berkeley) 5/4/95
- * $FreeBSD: release/9.0.0/sys/sys/time.h 224732 2011-08-09 14:06:50Z jonathan $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_TIME_H_

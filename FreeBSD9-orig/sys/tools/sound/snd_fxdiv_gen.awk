@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/sys/tools/sound/snd_fxdiv_gen.awk 193889 2009-06-10 06:49:45Z ariff $
+# $FreeBSD$
 #
 
 function floor(x, r)

@@ -41,7 +41,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/nfs/bootp_subr.c 223673 2011-06-29 15:17:29Z gber $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bootp.h"
 #include "opt_nfs.h"

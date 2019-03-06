@@ -62,7 +62,7 @@
  * THIS SOFTWARE, EVEN IF WHISTLE COMMUNICATIONS IS ADVISED OF THE POSSIBILITY
  * OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_gif.c 196481 2009-08-23 20:40:19Z rwatson $
+ * $FreeBSD$
  */
 
 /*

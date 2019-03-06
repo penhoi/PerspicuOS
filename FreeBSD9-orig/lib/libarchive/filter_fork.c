@@ -29,7 +29,7 @@
 #if defined(HAVE_PIPE) && defined(HAVE_FCNTL) && \
     (defined(HAVE_FORK) || defined(HAVE_VFORK))
 
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/filter_fork.c 224152 2011-07-17 21:27:38Z mm $");
+__FBSDID("$FreeBSD$");
 
 #if defined(HAVE_POLL) && (defined(HAVE_POLL_H) || defined(HAVE_SYS_POLL_H))
 #  if defined(HAVE_POLL_H)

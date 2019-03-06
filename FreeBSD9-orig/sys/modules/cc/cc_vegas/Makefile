@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cc/cc_vegas/Makefile 218152 2011-02-01 06:17:00Z lstewart $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

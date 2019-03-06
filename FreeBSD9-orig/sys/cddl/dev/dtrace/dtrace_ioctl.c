@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  *
- * $FreeBSD: release/9.0.0/sys/cddl/dev/dtrace/dtrace_ioctl.c 211608 2010-08-22 10:53:32Z rpaulo $
+ * $FreeBSD$
  *
  */
 

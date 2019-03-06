@@ -24,7 +24,7 @@
  * SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/sys/mips/atheros/ar71xxreg.h 213286 2010-09-29 23:06:41Z gonzo $ */
+/* $FreeBSD$ */
 
 #ifndef _AR71XX_REG_H_
 #define _AR71XX_REG_H_

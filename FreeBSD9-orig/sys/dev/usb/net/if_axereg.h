@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/usb/net/if_axereg.h 224020 2011-07-14 17:19:00Z yongari $
+ * $FreeBSD$
  */
 
 /*

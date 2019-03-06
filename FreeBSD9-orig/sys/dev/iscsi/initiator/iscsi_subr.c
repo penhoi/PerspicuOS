@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/iscsi/initiator/iscsi_subr.c 226576 2011-10-20 18:39:01Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_iscsi_initiator.h"
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/lib/libc/gen/tls.c 203946 2010-02-16 02:22:59Z marcel $
+ *	$FreeBSD$
  */
 
 /*

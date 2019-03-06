@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/msun/amd64/fenv.c 203441 2010-02-03 20:23:47Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

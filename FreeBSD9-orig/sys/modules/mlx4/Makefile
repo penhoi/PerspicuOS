@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mlx4/Makefile 219820 2011-03-21 09:58:24Z jeff $
+# $FreeBSD$
 .PATH:  ${.CURDIR}/../../ofed/drivers/net/mlx4
 KMOD    = mlx4
 SRCS    = device_if.h bus_if.h pci_if.h vnode_if.h

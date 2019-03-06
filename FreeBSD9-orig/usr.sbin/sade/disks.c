@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/usr.sbin/sade/disks.c 207006 2010-04-21 19:03:34Z brucec $
+ * $FreeBSD$
  *
  * Copyright (c) 1995
  *	Jordan Hubbard.  All rights reserved.

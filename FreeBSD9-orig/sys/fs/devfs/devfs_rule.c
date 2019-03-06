@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/devfs/devfs_rule.c 216461 2010-12-15 16:42:44Z jh $
+ * $FreeBSD$
  */
 
 /*

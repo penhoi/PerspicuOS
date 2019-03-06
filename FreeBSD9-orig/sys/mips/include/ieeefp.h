@@ -5,7 +5,7 @@
  * Public domain.
  *
  *	JNPR: ieeefp.h,v 1.1 2006/08/07 05:38:57 katta
- * $FreeBSD: release/9.0.0/sys/mips/include/ieeefp.h 202175 2010-01-12 21:36:08Z imp $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_IEEEFP_H_

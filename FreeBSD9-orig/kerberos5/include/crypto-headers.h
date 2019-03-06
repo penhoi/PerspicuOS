@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/kerberos5/include/crypto-headers.h 178828 2008-05-07 13:53:12Z dfr $ */
+/* $FreeBSD$ */
 #ifndef __crypto_headers_h__
 #define __crypto_headers_h__
 #define OPENSSL_DES_LIBDES_COMPATIBILITY

@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_urtwreg.h 198194 2009-10-18 00:11:49Z weongyo $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2008 Weongyo Jeong <weongyo@FreeBSD.org>

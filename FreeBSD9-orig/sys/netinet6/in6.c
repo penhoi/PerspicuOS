@@ -61,7 +61,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet6/in6.c 226570 2011-10-20 15:53:26Z glebius $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 #include "opt_inet.h"

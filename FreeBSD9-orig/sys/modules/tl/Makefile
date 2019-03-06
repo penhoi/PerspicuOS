@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/tl/Makefile 181738 2008-08-14 20:02:34Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/tl
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/taskqueue.h 221059 2011-04-26 11:39:56Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_TASKQUEUE_H_

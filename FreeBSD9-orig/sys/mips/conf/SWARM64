@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/mips/conf/SWARM64 217653 2011-01-20 19:17:05Z imp $
+# $FreeBSD$
 #
 
 include		"std.SWARM"

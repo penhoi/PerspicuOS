@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/twe/twe_freebsd.c 200991 2009-12-25 17:34:43Z mav $
+ * $FreeBSD$
  */
 
 /*

@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netinet/ip_fw.h 225044 2011-08-20 17:05:11Z bz $
+ * $FreeBSD$
  */
 
 #ifndef _IPFW2_H

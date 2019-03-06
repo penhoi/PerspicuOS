@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/kthread/kld/Makefile 204123 2010-02-20 15:20:28Z attilio $
+# $FreeBSD$
 
 .PATH:  ${.CURDIR}
 

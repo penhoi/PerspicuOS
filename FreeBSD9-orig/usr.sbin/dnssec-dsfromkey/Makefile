@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/dnssec-dsfromkey/Makefile 201390 2010-01-02 11:07:44Z ed $
+# $FreeBSD$
 
 BIND_DIR=	${.CURDIR}/../../contrib/bind9
 LIB_BIND_REL=	../../lib/bind

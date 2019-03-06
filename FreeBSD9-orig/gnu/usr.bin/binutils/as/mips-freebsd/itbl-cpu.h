@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/binutils/as/mips-freebsd/itbl-cpu.h 185922 2008-12-11 08:15:14Z imp $ */
+/* $FreeBSD$ */
 
 #include "itbl-mips.h"
 

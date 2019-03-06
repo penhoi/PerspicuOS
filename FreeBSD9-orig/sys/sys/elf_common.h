@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/elf_common.h 221569 2011-05-07 01:05:31Z obrien $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_ELF_COMMON_H_

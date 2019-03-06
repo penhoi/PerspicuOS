@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/net/sctp_sys_calls.c 224641 2011-08-03 20:21:00Z tuexen $");
+__FBSDID("$FreeBSD$");
 #include <stdio.h>
 #include <string.h>
 #include <errno.h>

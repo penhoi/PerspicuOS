@@ -37,7 +37,7 @@
 
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/makefs/walk.c 214921 2010-11-07 16:05:04Z cognet $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

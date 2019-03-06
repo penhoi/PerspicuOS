@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/dmesg 174461 2007-12-08 22:40:31Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: dmesg

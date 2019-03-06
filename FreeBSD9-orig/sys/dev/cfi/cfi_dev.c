@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/cfi/cfi_dev.c 222198 2011-05-22 20:55:54Z attilio $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_cfi.h"
 

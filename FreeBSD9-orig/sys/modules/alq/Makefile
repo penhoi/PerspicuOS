@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/alq/Makefile 205959 2010-03-31 03:58:57Z lstewart $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

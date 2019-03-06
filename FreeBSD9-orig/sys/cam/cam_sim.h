@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/cam/cam_sim.h 186396 2008-12-22 16:58:47Z scottl $
+ * $FreeBSD$
  */
 
 #ifndef _CAM_CAM_SIM_H

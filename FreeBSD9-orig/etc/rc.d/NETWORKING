@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/NETWORKING 226786 2011-10-26 08:34:00Z mm $
+# $FreeBSD$
 #
 
 # PROVIDE: NETWORKING NETWORK

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/iicbus/iicsmb.c 188461 2009-02-10 22:50:23Z imp $
+ * $FreeBSD$
  *
  */
 

@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/lib/libc/gen/Symbol.map 228843 2011-12-23 15:00:37Z cperciva $
+ * $FreeBSD$
  */
 
 FBSD_1.0 {

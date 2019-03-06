@@ -3,7 +3,7 @@
 
 #ifndef lint
 static const char rcsid[] =
-  "$FreeBSD: release/9.0.0/sbin/ifconfig/iflagg.c 191693 2009-04-30 14:31:52Z thompsa $";
+  "$FreeBSD$";
 #endif /* not lint */
 
 #include <sys/param.h>

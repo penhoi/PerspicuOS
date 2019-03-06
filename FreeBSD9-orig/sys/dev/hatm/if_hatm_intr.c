@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/hatm/if_hatm_intr.c 175872 2008-02-01 19:36:27Z phk $");
+__FBSDID("$FreeBSD$");
 
 /*
  * ForeHE driver.

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/pc98/loader/Makefile 222417 2011-05-28 08:50:38Z julian $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 MK_SSP=		no

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmx86utils/Makefile 218893 2011-02-20 19:33:47Z dim $
+# $FreeBSD$
 
 LIB=	llvmx86utils
 

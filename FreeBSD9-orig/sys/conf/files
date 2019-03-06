@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/files 227305 2011-11-07 13:40:54Z marius $
+# $FreeBSD$
 #
 # The long compile-with and dependency lines are required because of
 # limitations in config: backslash-newline doesn't work in strings, and

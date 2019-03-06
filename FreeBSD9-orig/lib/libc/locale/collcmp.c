@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/locale/collcmp.c 142653 2005-02-27 14:54:23Z phantom $");
+__FBSDID("$FreeBSD$");
 
 #include <string.h>
 #include "collate.h"

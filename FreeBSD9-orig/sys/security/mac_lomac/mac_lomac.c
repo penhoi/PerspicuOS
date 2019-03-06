@@ -35,7 +35,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/mac_lomac/mac_lomac.c 204581 2010-03-02 15:05:48Z rwatson $
+ * $FreeBSD$
  */
 
 /*

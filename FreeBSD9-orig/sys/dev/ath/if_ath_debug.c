@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ath/if_ath_debug.c 218058 2011-01-29 05:08:21Z adrian $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet.h"
 #include "opt_ath.h"

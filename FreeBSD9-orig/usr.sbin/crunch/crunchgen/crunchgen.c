@@ -23,7 +23,7 @@
  *			   Computer Science Department
  *			   University of Maryland at College Park
  *
- * $FreeBSD: release/9.0.0/usr.sbin/crunch/crunchgen/crunchgen.c 187943 2009-01-31 07:03:36Z obrien $
+ * $FreeBSD$
  */
 /*
  * ========================================================================

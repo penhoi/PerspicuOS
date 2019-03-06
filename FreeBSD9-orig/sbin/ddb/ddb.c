@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/ddb/ddb.c 215658 2010-11-22 07:00:47Z kevlo $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <stdio.h>

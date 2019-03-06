@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGES.
  *
- * $FreeBSD: release/9.0.0/sys/dev/bwn/if_bwnreg.h 203945 2010-02-16 01:44:14Z weongyo $
+ * $FreeBSD$
  */
 
 #ifndef _IF_BWNREG_H

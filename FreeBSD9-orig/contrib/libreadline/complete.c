@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/contrib/libreadline/complete.c 173406 2007-11-07 04:42:20Z ache $ */
+/* $FreeBSD$ */
 /* complete.c -- filename completion for readline. */
 
 /* Copyright (C) 1987-2005 Free Software Foundation, Inc.

@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/netinet/icmp6.h 222732 2011-06-06 03:06:43Z hrs $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: icmp6.h,v 1.46 2001/04/27 15:09:48 itojun Exp $	*/
 
 /*-

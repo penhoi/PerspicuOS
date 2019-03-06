@@ -26,7 +26,7 @@
  * SUCH DAMAGE.
  *
  * $Id: host_controller_baseband.c,v 1.4 2003/08/18 19:19:53 max Exp $
- * $FreeBSD: release/9.0.0/usr.sbin/bluetooth/hccontrol/host_controller_baseband.c 133178 2004-08-05 16:32:41Z emax $
+ * $FreeBSD$
  */
 
 #include <bluetooth.h>

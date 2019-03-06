@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ipfw_nat/Makefile 193532 2009-06-05 19:22:47Z luigi $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../netinet/ipfw
 

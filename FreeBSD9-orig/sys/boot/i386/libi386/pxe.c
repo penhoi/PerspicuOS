@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/i386/libi386/pxe.c 212126 2010-09-02 01:05:10Z rmacklem $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 #include <string.h>

@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ichwd/ichwd.h 221789 2011-05-11 20:31:27Z jfv $
+ * $FreeBSD$
  */
 
 #ifndef _ICHWD_H_

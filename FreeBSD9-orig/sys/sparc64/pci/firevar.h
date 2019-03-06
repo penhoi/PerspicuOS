@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sparc64/pci/firevar.h 201052 2009-12-27 16:55:44Z marius $
+ * $FreeBSD$
  */
 
 #ifndef _SPARC64_PCI_FIREVAR_H_

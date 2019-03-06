@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/Makefile 219437 2011-03-09 22:39:10Z pjd $
+# $FreeBSD$
 
 PROG=	pjdfstest
 

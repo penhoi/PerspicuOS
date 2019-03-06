@@ -31,7 +31,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ip_mroute.h	8.1 (Berkeley) 6/10/93
- * $FreeBSD: release/9.0.0/sys/netinet/ip_mroute.h 208744 2010-06-02 15:44:43Z zec $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_IP_MROUTE_H_

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/nanobsd/pcengines/Files/root/.cshrc 199536 2009-11-19 16:27:51Z mr $
+# $FreeBSD$
 #
 # .cshrc - csh resource script, read at beginning of execution by each shell
 #

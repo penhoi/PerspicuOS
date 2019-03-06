@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/zfs/Makefile 217033 2011-01-05 22:24:33Z dim $
+# $FreeBSD$
 
 LIB=		zfsboot
 INTERNALLIB=

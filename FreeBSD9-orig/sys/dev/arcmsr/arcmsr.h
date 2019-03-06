@@ -35,7 +35,7 @@
 **(INCLUDING NEGLIGENCE OR OTHERWISE)ARISING IN ANY WAY OUT OF THE USE OF
 ** THIS SOFTWARE,EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 **************************************************************************
-* $FreeBSD: release/9.0.0/sys/dev/arcmsr/arcmsr.h 220403 2011-04-06 20:54:26Z delphij $
+* $FreeBSD$
 */
 #define ARCMSR_SCSI_INITIATOR_ID			255
 #define ARCMSR_DEV_SECTOR_SIZE				512

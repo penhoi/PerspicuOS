@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dtrace/dtraceall/Makefile 220470 2011-04-09 09:07:31Z uqs $
+# $FreeBSD$
 
 KMOD=		dtraceall
 SRCS=		dtraceall.c opt_compat.h

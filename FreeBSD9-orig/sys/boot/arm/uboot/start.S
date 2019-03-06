@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/arm/uboot/start.S 183878 2008-10-14 10:11:14Z raj $
+ * $FreeBSD$
  */
 
 #include <machine/asm.h>

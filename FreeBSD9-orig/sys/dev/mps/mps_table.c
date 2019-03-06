@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mps/mps_table.c 212420 2010-09-10 15:03:56Z ken $");
+__FBSDID("$FreeBSD$");
 
 /* Debugging tables for MPT2 */
 

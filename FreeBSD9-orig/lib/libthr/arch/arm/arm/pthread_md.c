@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/arch/arm/arm/pthread_md.c 151859 2005-10-29 13:40:31Z davidxu $
+ * $FreeBSD$
  */
 
 #include <stdlib.h>

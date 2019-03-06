@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/e1000/if_em.h 220251 2011-04-01 18:48:31Z jfv $*/
+/*$FreeBSD$*/
 
 
 #ifndef _EM_H_DEFINED_

@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nfsclient/nfs.h 221040 2011-04-25 23:12:18Z rmacklem $
+ * $FreeBSD$
  */
 
 #ifndef _NFSCLIENT_NFS_H_

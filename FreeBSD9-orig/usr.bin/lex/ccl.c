@@ -28,7 +28,7 @@
 
 /* $Header: /home/daffy/u0/vern/flex/RCS/ccl.c,v 2.9 93/09/16 20:32:14 vern Exp $ */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/lex/ccl.c 179549 2008-06-04 19:50:34Z dwmalone $");
+__FBSDID("$FreeBSD$");
 
 #include "flexdef.h"
 

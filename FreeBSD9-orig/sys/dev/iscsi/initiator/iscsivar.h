@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/iscsi/initiator/iscsivar.h 212149 2010-09-02 14:13:43Z des $
+ * $FreeBSD$
  */
 
 /*

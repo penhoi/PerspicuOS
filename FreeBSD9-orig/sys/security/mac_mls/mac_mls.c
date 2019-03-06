@@ -38,7 +38,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/mac_mls/mac_mls.c 226384 2011-10-15 12:05:42Z brueffer $
+ * $FreeBSD$
  */
 
 /*

@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ktrace.h	8.1 (Berkeley) 6/6/93
- * $FreeBSD: release/9.0.0/usr.bin/ktrace/ktrace.h 219043 2011-02-25 22:07:23Z dchagin $
+ * $FreeBSD$
  */
 
 #define DEF_POINTS (KTRFAC_SYSCALL | KTRFAC_SYSRET | KTRFAC_NAMEI | \

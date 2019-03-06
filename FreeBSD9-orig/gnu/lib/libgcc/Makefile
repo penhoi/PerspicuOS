@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/libgcc/Makefile 218181 2011-02-02 03:24:52Z imp $
+# $FreeBSD$
 
 GCCDIR=	${.CURDIR}/../../../contrib/gcc
 GCCLIB=	${.CURDIR}/../../../contrib/gcclibs

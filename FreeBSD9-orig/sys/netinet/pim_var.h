@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netinet/pim_var.h 208744 2010-06-02 15:44:43Z zec $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_PIM_VAR_H_

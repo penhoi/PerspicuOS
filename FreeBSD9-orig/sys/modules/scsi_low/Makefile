@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/scsi_low/Makefile 89244 2002-01-11 01:16:00Z msmith $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../cam/scsi
 KMOD=	scsi_low

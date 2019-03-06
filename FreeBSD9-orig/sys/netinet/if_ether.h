@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)if_ether.h	8.3 (Berkeley) 5/2/95
- * $FreeBSD: release/9.0.0/sys/netinet/if_ether.h 196995 2009-09-08 21:17:17Z np $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_IF_ETHER_H_

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/locale/locale.c 197847 2009-10-07 21:14:45Z edwin $
+ * $FreeBSD$
  */
 
 /*

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/stdbool.h 142088 2005-02-19 13:47:33Z marius $
+ * $FreeBSD$
  */
 
 #ifndef _STDBOOL_H_

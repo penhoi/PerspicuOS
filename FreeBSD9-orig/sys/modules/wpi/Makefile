@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/wpi/Makefile 177671 2008-03-27 20:38:03Z antoine $
+# $FreeBSD$
 
 .PATH:  ${.CURDIR}/../../dev/wpi
 

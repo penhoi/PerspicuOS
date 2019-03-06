@@ -60,7 +60,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/wi/if_wi.c 217586 2011-01-19 17:04:07Z mdf $");
+__FBSDID("$FreeBSD$");
 
 #define WI_HERMES_STATS_WAR	/* Work around stats counter bug. */
 

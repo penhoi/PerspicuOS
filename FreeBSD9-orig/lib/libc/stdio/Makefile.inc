@@ -1,5 +1,5 @@
 #	@(#)Makefile.inc	8.3 (Berkeley) 4/17/94
-# $FreeBSD: release/9.0.0/lib/libc/stdio/Makefile.inc 189356 2009-03-04 03:38:51Z das $
+# $FreeBSD$
 
 # stdio sources
 .PATH: ${.CURDIR}/stdio

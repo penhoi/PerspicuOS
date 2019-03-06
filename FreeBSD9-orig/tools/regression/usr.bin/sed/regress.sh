@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/sed/regress.sh 184852 2008-11-11 17:10:24Z dds $
+# $FreeBSD$
 
 REGRESSION_START($1)
 

@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  */
-/* $FreeBSD: release/9.0.0/tools/tools/zfsboottest/zfsboottest.c 227710 2011-11-19 11:47:15Z pjd $ */
+/* $FreeBSD$ */
 
 #include <sys/param.h>
 #include <sys/queue.h>

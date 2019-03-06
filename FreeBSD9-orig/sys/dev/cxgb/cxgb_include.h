@@ -1,5 +1,5 @@
 /*
- *  $FreeBSD: release/9.0.0/sys/dev/cxgb/cxgb_include.h 183321 2008-09-24 01:19:08Z kmacy $
+ *  $FreeBSD$
  */
 
 #include <sys/cdefs.h>

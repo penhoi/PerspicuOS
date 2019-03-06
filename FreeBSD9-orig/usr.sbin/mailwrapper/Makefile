@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/mailwrapper/Makefile 213749 2010-10-12 21:01:26Z markm $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

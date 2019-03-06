@@ -34,7 +34,7 @@ POSSIBILITY OF SUCH DAMAGE.
 #include "opt_inet6.h"
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net/flowtable.c 217076 2011-01-06 22:17:07Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>  
 #include <sys/types.h>

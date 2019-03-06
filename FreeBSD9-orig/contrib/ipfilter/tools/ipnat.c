@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/tools/ipnat.c 172776 2007-10-18 21:52:14Z darrenr $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Copyright (C) 2001-2006 by Darren Reed.

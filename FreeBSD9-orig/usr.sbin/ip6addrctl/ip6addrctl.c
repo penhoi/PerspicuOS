@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ip6addrctl/ip6addrctl.c 173412 2007-11-07 10:53:41Z kevlo $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

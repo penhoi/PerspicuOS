@@ -37,7 +37,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/powerpc/powerpc/bus_machdep.c 226567 2011-10-20 15:34:17Z nwhitehorn $");
+__FBSDID("$FreeBSD$");
 
 #define	KTR_BE_IO	0
 #define	KTR_LE_IO	0

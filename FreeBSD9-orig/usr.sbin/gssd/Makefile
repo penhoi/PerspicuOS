@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/gssd/Makefile 186582 2008-12-30 01:33:15Z obrien $
+# $FreeBSD$
 
 PROG=	gssd
 MAN=	gssd.8

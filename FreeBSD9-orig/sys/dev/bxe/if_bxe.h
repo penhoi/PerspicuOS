@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
- /*$FreeBSD: release/9.0.0/sys/dev/bxe/if_bxe.h 222875 2011-06-08 21:18:14Z davidch $*/
+ /*$FreeBSD$*/
 
 #ifndef _IF_BXE_H
 #define	_IF_BXE_H

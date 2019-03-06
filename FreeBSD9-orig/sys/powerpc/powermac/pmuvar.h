@@ -24,7 +24,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/powermac/pmuvar.h 185782 2008-12-09 01:01:02Z nwhitehorn $
+ * $FreeBSD$
  *
  */
 

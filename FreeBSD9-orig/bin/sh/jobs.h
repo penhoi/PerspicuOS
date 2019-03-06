@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)jobs.h	8.2 (Berkeley) 5/4/95
- * $FreeBSD: release/9.0.0/bin/sh/jobs.h 223060 2011-06-13 21:03:27Z jilles $
+ * $FreeBSD$
  */
 
 /* Mode argument to forkshell.  Don't change FORK_FG or FORK_BG. */

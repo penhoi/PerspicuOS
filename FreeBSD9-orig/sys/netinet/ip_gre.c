@@ -38,7 +38,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/ip_gre.c 204522 2010-03-01 17:05:46Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet.h"
 #include "opt_atalk.h"

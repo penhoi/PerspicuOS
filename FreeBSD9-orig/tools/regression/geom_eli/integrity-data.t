@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/geom_eli/integrity-data.t 213168 2010-09-25 10:34:42Z pjd $
+# $FreeBSD$
 
 base=`basename $0`
 no=45

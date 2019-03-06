@@ -33,7 +33,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)union_subr.c	8.20 (Berkeley) 5/20/95
- * $FreeBSD: release/9.0.0/sys/fs/unionfs/union_subr.c 211826 2010-08-25 21:32:08Z trasz $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

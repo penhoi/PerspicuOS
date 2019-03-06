@@ -29,7 +29,7 @@
 
 #include <sys/cdefs.h>
 
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/in_pcbgroup.c 222748 2011-06-06 12:55:02Z rwatson $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet6.h"
 

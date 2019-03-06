@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/metadata.c 209179 2010-06-14 21:25:20Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <assert.h>
 #include <errno.h>

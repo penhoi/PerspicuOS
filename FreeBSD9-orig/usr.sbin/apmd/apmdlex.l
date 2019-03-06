@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/apmd/apmdlex.l 215676 2010-11-22 14:16:22Z brucec $
+ * $FreeBSD$
  */
 
 #include <string.h>

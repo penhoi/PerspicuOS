@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/hastd/subr.h 221899 2011-05-14 17:02:03Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef	_SUBR_H_

@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/rmdir/02.t 211178 2010-08-11 16:33:17Z pjd $
+# $FreeBSD$
 
 desc="rmdir returns ENAMETOOLONG if a component of a pathname exceeded {NAME_MAX} characters"
 

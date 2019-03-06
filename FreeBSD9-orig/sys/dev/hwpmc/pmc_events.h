@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/hwpmc/pmc_events.h 213409 2010-10-04 17:22:18Z gnn $
+ * $FreeBSD$
  */
 
 #ifndef _DEV_HWPMC_PMC_EVENTS_H_

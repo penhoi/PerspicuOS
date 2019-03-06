@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/atkbdc/atkbdc_ebus.c 207354 2010-04-29 06:16:00Z sobomax $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kbd.h"
 

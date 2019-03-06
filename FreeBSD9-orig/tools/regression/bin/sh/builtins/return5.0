@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/bin/sh/builtins/return5.0 211349 2010-08-15 21:06:53Z jilles $
+# $FreeBSD$
 
 if [ "$1" != nested ]; then
 	f() {

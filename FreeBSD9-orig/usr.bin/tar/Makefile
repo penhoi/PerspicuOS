@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/tar/Makefile 224566 2011-08-01 08:22:40Z mm $
+# $FreeBSD$
 .include <bsd.own.mk>
 
 PROG=	bsdtar

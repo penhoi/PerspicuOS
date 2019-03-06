@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmipa/Makefile 210299 2010-07-20 17:16:57Z ed $
+# $FreeBSD$
 
 LIB=	llvmipa
 

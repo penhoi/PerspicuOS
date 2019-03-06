@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/powerpc/conf/NOTES 222686 2011-06-04 15:17:35Z andreast $
+# $FreeBSD$
 #
 # This file contains machine dependent kernel configuration notes.  For
 # machine independent notes, look in /sys/conf/NOTES.

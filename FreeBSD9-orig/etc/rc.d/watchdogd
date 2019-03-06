@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/watchdogd 180564 2008-07-16 19:50:29Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: watchdogd

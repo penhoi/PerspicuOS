@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dtrace/Makefile 223280 2011-06-18 23:02:53Z rmacklem $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 .include "Makefile.inc"

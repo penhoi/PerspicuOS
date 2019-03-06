@@ -17,7 +17,7 @@
 
     <corpauthor>The &os; Documentation Project</corpauthor>
 
-    <pubdate>$FreeBSD: release/9.0.0/release/doc/en_US.ISO8859-1/hardware/article.sgml 228135 2011-11-29 14:18:19Z marius $</pubdate>
+    <pubdate>$FreeBSD$</pubdate>
 
     <copyright>
       <year>2000</year>

@@ -31,7 +31,7 @@
 static char sccsid[] = "@(#)usleep.c	8.1 (Berkeley) 6/4/93";
 #endif /* LIBC_SCCS and not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/gen/usleep.c 200150 2009-12-05 19:31:38Z ed $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <time.h>

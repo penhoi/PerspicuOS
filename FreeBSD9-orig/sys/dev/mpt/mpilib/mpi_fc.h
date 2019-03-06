@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/mpt/mpilib/mpi_fc.h 154603 2006-01-21 00:29:52Z mjacob $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2000-2005, LSI Logic Corporation and its contributors.
  * All rights reserved.

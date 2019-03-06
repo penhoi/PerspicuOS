@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/sound/usb/uaudio.h 196219 2009-08-14 20:03:53Z jhb $ */
+/* $FreeBSD$ */
 
 /*-
  * Copyright (c) 2000-2002 Hiroyuki Aizu <aizu@navi.org>

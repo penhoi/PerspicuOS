@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/bwi/Makefile 191762 2009-05-03 04:01:43Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/bwi
 

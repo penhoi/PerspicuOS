@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/input/ums.c 224499 2011-07-29 20:38:06Z mav $");
+__FBSDID("$FreeBSD$");
 
 /*
  * HID spec: http://www.usb.org/developers/devclass_docs/HID1_11.pdf

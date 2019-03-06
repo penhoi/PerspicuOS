@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/newfs_msdos/Makefile 211725 2010-08-23 22:24:11Z imp $
+# $FreeBSD$
 
 PROG=	newfs_msdos
 MAN=	newfs_msdos.8

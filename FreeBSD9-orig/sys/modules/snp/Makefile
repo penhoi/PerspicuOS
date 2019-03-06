@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/snp/Makefile 184689 2008-11-05 15:04:03Z ed $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/snp
 

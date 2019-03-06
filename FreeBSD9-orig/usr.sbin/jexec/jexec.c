@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/jexec/jexec.c 194869 2009-06-24 18:18:35Z jamie $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

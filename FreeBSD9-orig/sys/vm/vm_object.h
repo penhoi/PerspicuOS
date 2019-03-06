@@ -57,7 +57,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/vm/vm_object.h 223677 2011-06-29 16:40:41Z alc $
+ * $FreeBSD$
  */
 
 /*

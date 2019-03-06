@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/camcontrol/camcontrol.h 64382 2000-08-08 06:24:17Z kbyanc $
+ * $FreeBSD$
  */
 
 #ifndef _CAMCONTROL_H

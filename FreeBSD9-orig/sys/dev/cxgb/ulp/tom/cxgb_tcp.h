@@ -25,7 +25,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgb/ulp/tom/cxgb_tcp.h 175712 2008-01-27 04:39:38Z kmacy $
+ * $FreeBSD$
  */
 #ifndef CXGB_TCP_H_
 #define CXGB_TCP_H_

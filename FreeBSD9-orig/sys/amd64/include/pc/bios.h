@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/amd64/include/pc/bios.h 191111 2009-04-15 17:31:22Z jkim $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_PC_BIOS_H_

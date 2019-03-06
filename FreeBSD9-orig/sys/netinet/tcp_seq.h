@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)tcp_seq.h	8.3 (Berkeley) 6/21/95
- * $FreeBSD: release/9.0.0/sys/netinet/tcp_seq.h 159733 2006-06-18 14:24:12Z andre $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_TCP_SEQ_H_

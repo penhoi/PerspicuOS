@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/i386/xbox/xboxfb.c 201223 2009-12-29 21:51:28Z rnoland $");
+__FBSDID("$FreeBSD$");
 
 /*
  * This is the syscon(4)-ized version of the Xbox Frame Buffer driver. It

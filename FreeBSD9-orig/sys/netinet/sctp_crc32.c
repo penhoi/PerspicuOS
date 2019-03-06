@@ -34,7 +34,7 @@
 
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_crc32.c 218319 2011-02-05 12:12:51Z rrs $");
+__FBSDID("$FreeBSD$");
 
 #include <netinet/sctp_os.h>
 #include <netinet/sctp.h>

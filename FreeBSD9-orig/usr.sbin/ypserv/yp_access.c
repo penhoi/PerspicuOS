@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/ypserv/yp_access.c 194968 2009-06-25 16:15:39Z brian $");
+__FBSDID("$FreeBSD$");
 
 #include <stdlib.h>
 #include <rpc/rpc.h>

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/hwpmc/hwpmc_core.h 210621 2010-07-29 17:52:23Z gnn $
+ * $FreeBSD$
  */
 
 #ifndef _DEV_HWPMC_CORE_H_

@@ -27,7 +27,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/crashinfo/crashinfo.sh 216077 2010-11-30 16:04:40Z cperciva $
+# $FreeBSD$
 
 usage()
 {

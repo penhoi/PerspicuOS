@@ -17,7 +17,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/dc/bcode.c 208975 2010-06-10 10:28:38Z gabor $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <limits.h>

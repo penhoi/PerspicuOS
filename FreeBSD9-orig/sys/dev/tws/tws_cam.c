@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/tws/tws_cam.c 226026 2011-10-04 21:40:25Z delphij $
+ * $FreeBSD$
  */
 
 #include <dev/tws/tws.h>

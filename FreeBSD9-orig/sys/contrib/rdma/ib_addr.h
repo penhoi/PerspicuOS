@@ -25,7 +25,7 @@
  * notice, one of the license notices in the documentation
  * and/or other materials provided with the distribution.
  *
- * $FreeBSD: release/9.0.0/sys/contrib/rdma/ib_addr.h 178784 2008-05-05 18:35:55Z kmacy $
+ * $FreeBSD$
  *
  */
 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/smbfs/Makefile 211690 2010-08-23 06:13:29Z imp $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../crypto/des \
 	${.CURDIR}/../../crypto/des/arch/${MACHINE_CPUARCH} \

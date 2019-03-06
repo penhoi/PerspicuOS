@@ -13,7 +13,7 @@
 # purpose.
 #
 
-# $FreeBSD: release/9.0.0/sys/boot/i386/btx/lib/btxcsu.s 133154 2004-08-05 06:00:05Z kan $
+# $FreeBSD$
 
 #
 # BTX C startup code (ELF).

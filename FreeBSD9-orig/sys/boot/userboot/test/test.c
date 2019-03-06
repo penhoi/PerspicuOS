@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/userboot/test/test.c 223695 2011-06-30 16:08:56Z dfr $
+ * $FreeBSD$
  */
 
 #include <sys/ioctl.h>

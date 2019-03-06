@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)stdlib.h	8.5 (Berkeley) 5/19/95
- * $FreeBSD: release/9.0.0/include/stdlib.h 206997 2010-04-21 16:38:37Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _STDLIB_H_

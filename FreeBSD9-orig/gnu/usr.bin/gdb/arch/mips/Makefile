@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/gdb/arch/mips/Makefile 214951 2010-11-07 20:53:19Z gonzo $
+# $FreeBSD$
 
 .if !defined(GDB_CROSS_DEBUGGER)
 LIBSRCS+= mipsfbsd-nat.c fbsd-threads.c

@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/gen/fmtcheck.c 194800 2009-06-23 23:52:12Z delphij $");
+__FBSDID("$FreeBSD$");
 
 #include <stdio.h>
 #include <string.h>

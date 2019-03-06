@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/controller/avr32dci.h 193045 2009-05-29 18:46:57Z thompsa $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2009 Hans Petter Selasky. All rights reserved.
  *

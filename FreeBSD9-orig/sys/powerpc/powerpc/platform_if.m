@@ -23,7 +23,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/sys/powerpc/powerpc/platform_if.m 215159 2010-11-12 04:18:19Z nwhitehorn $
+# $FreeBSD$
 #
 
 #include <sys/param.h>

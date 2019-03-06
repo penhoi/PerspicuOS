@@ -28,7 +28,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/fsck/fsutil.h 187931 2009-01-30 18:33:05Z obrien $
+ * $FreeBSD$
  */
 
 void perror(const char *);

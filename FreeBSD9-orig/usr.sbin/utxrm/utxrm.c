@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/utxrm/utxrm.c 218847 2011-02-19 11:44:04Z ed $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/time.h>
 #include <errno.h>

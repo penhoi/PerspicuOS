@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/subr_uio.c 223889 2011-07-09 15:21:10Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_zero.h"
 

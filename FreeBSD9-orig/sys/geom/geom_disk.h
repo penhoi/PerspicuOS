@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/geom/geom_disk.h 223089 2011-06-14 17:10:32Z gibbs $
+ * $FreeBSD$
  */
 
 #ifndef _GEOM_GEOM_DISK_H_

@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/ia64/common/bootinfo.c 219691 2011-03-16 03:53:18Z marcel $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 #include <string.h>

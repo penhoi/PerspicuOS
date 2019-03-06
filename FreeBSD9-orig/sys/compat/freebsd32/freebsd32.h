@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/compat/freebsd32/freebsd32.h 224199 2011-07-18 20:06:15Z bz $
+ * $FreeBSD$
  */
 
 #ifndef _COMPAT_FREEBSD32_FREEBSD32_H_

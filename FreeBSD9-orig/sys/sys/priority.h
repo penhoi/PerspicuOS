@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/priority.h 221829 2011-05-13 05:27:58Z mdf $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_PRIORITY_H_

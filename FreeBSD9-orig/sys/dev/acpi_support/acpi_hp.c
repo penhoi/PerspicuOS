@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/acpi_support/acpi_hp.c 212457 2010-09-11 08:09:14Z avg $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for extra ACPI-controlled features found on HP laptops

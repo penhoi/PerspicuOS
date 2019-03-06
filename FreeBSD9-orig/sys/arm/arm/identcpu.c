@@ -42,7 +42,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/arm/identcpu.c 207954 2010-05-12 05:50:56Z kevlo $");
+__FBSDID("$FreeBSD$");
 #include <sys/systm.h>
 #include <sys/param.h>
 #include <sys/malloc.h>

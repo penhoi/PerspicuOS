@@ -23,7 +23,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/xscale/ixp425/if_npe.c 213893 2010-10-15 14:52:11Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Intel XScale NPE Ethernet driver.

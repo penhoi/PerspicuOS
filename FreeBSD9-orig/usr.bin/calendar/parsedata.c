@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/calendar/parsedata.c 223939 2011-07-11 22:01:39Z edwin $");
+__FBSDID("$FreeBSD$");
 
 #include <ctype.h>
 #include <math.h>

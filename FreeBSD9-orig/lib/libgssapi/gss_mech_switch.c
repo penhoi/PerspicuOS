@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/lib/libgssapi/gss_mech_switch.c 201145 2009-12-28 22:56:30Z antoine $
+ *	$FreeBSD$
  */
 
 #include <gssapi/gssapi.h>

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/make/sysmk/t2/2/1/test.t 201526 2010-01-04 18:57:22Z obrien $
+# $FreeBSD$
 
 cd `dirname $0`
 . ../../../../common.sh

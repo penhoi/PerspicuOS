@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/rdma/addr/Makefile 178794 2008-05-05 20:19:33Z kmacy $
+# $FreeBSD$
 
 RDMA=	${.CURDIR}/../../../contrib/rdma
 .PATH: ${RDMA}

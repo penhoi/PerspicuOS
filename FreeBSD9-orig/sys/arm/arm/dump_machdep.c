@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/arm/dump_machdep.c 221173 2011-04-28 16:02:05Z attilio $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_watchdog.h"
 

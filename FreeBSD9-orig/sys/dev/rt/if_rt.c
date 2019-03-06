@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/rt/if_rt.c 223929 2011-07-11 08:42:09Z ray $");
+__FBSDID("$FreeBSD$");
 
 #include "if_rtvar.h"
 #include "if_rtreg.h"

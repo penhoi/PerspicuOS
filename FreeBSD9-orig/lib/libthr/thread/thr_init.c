@@ -30,7 +30,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/thread/thr_init.c 223294 2011-06-19 13:35:36Z kan $
+ * $FreeBSD$
  */
 
 #include "namespace.h"

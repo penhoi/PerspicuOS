@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ipfilter 222007 2011-05-17 07:40:13Z hrs $
+# $FreeBSD$
 #
 
 # PROVIDE: ipfilter

@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/mountcritremote 223310 2011-06-19 22:48:40Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: mountcritremote

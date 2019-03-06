@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ia64/ia64/db_machdep.c 223526 2011-06-25 02:15:14Z marcel $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_xtrace.h"
 

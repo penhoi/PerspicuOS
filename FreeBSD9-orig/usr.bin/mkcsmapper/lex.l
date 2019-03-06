@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.bin/mkcsmapper/lex.l 219019 2011-02-25 00:04:39Z gabor $ */
+/* $FreeBSD$ */
 /* $NetBSD: lex.l,v 1.4 2006/02/09 22:03:15 dogcow Exp $	*/
 
 %{

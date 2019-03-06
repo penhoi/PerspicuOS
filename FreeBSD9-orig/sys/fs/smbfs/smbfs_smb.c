@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/smbfs/smbfs_smb.c 223843 2011-07-07 17:00:42Z jonathan $
+ * $FreeBSD$
  */
 #include <sys/param.h>
 #include <sys/systm.h>

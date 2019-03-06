@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/fdisk_pc98/fdisk.c 190027 2009-03-19 12:31:59Z nyan $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/disk.h>
 #include <sys/disklabel.h>

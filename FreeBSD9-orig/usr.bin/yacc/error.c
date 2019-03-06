@@ -36,7 +36,7 @@ static char sccsid[] = "@(#)error.c	5.3 (Berkeley) 6/1/90";
 #endif
 #endif
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/yacc/error.c 216370 2010-12-11 08:32:16Z joel $");
+__FBSDID("$FreeBSD$");
 
 /* routines for printing error messages  */
 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/cpio/test/Makefile 224155 2011-07-17 21:52:55Z mm $
+# $FreeBSD$
 
 # Where to find the cpio sources (for the internal unit tests)
 CPIO_SRCDIR=${.CURDIR}/..

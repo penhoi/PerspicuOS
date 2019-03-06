@@ -1,5 +1,5 @@
 /* $OpenBSD: sshd.c,v 1.381 2011/01/11 06:13:10 djm Exp $ */
-/* $FreeBSD: release/9.0.0/crypto/openssh/sshd.c 224638 2011-08-03 19:14:22Z brooks $ */
+/* $FreeBSD$ */
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>
  * Copyright (c) 1995 Tatu Ylonen <ylo@cs.hut.fi>, Espoo, Finland
@@ -44,7 +44,7 @@
  */
 
 #include "includes.h"
-__RCSID("$FreeBSD: release/9.0.0/crypto/openssh/sshd.c 224638 2011-08-03 19:14:22Z brooks $");
+__RCSID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/ioctl.h>

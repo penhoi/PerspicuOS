@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libkse/thread/thr_init.c 174689 2007-12-16 23:29:57Z deischen $
+ * $FreeBSD$
  */
 
 /* Allocate space for global thread variables here: */

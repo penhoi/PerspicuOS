@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/sade/sade.h 178946 2008-05-11 17:23:57Z obrien $
+ * $FreeBSD$
  */
 
 #ifndef _SADE_H_INCLUDE

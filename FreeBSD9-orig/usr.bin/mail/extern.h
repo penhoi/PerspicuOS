@@ -28,7 +28,7 @@
  *
  *	@(#)extern.h	8.2 (Berkeley) 4/20/95 
  *
- * $FreeBSD: release/9.0.0/usr.bin/mail/extern.h 216370 2010-12-11 08:32:16Z joel $
+ * $FreeBSD$
  */
 
 struct name *cat(struct name *, struct name *);

@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  *
- * $FreeBSD: release/9.0.0/sys/cddl/compat/opensolaris/sys/byteorder.h 219089 2011-02-27 19:41:40Z pjd $
+ * $FreeBSD$
  */
 
 /*

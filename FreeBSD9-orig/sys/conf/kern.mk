@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/kern.mk 222248 2011-05-24 09:01:56Z brucec $
+# $FreeBSD$
 
 #
 # Warning flags for compiling the kernel and components of the kernel:

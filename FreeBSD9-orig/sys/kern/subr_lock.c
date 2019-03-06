@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/subr_lock.c 217916 2011-01-27 00:34:12Z mdf $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 #include "opt_mprof.h"

@@ -1,2 +1,2 @@
-/* $FreeBSD: release/9.0.0/lib/clang/include/X86GenSubtargetInfo.inc 224145 2011-07-17 19:51:40Z dim $ */
+/* $FreeBSD$ */
 #include "X86GenSubtargetInfo.inc.h"

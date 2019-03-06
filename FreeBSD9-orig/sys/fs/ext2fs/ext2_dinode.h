@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/ext2fs/ext2_dinode.h 221126 2011-04-27 18:15:34Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _FS_EXT2FS_EXT2_DINODE_H_

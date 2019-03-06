@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/ntfs/ntfsmount.h 213664 2010-10-10 07:05:47Z kib $
+ * $FreeBSD$
  */
 
 #define	NTFS_MFLAG_CASEINS	0x00000001

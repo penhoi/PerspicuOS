@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/lib/libdtrace/Makefile 211725 2010-08-23 22:24:11Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/contrib/opensolaris/lib/libdtrace/common
 .PATH: ${.CURDIR}/../../../cddl/contrib/opensolaris/lib/libgen/common

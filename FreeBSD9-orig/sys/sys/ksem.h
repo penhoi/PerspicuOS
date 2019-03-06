@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/ksem.h 180059 2008-06-27 05:39:04Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _POSIX4_KSEM_H_

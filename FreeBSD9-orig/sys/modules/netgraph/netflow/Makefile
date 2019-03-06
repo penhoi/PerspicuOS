@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/netgraph/netflow/Makefile 219182 2011-03-02 16:15:11Z glebius $
+# $FreeBSD$
 #
 # Author: Gleb Smirnoff <glebius@freebsd.org>
 #

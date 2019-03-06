@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/geom/gate/g_gate.h 220062 2011-03-27 19:56:55Z trociny $
+ * $FreeBSD$
  */
 
 #ifndef _G_GATE_H_

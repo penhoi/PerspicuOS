@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.bin/mkesdb/ldef.h 219019 2011-02-25 00:04:39Z gabor $ */
+/* $FreeBSD$ */
 /* $NetBSD: ldef.h,v 1.2 2005/06/27 01:23:59 fvdl Exp $	*/
 
 /*-

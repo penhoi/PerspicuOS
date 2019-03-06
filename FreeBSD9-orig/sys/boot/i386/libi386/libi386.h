@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/i386/libi386/libi386.h 227400 2011-11-09 18:26:19Z jhb $
+ * $FreeBSD$
  */
 
 

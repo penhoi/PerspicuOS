@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/modules/snmp_target/Makefile 216594 2010-12-20 17:13:14Z syrinx $
+# $FreeBSD$
 #
 # Author: Shteryana Shopova <syrinx@freebsd.org>
 

@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/common/dev_net.c 201932 2010-01-09 21:23:39Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*-
  * This module implements a "raw device" interface suitable for

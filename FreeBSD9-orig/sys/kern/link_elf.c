@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/link_elf.c 223155 2011-06-16 17:41:21Z marcel $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 #include "opt_gdb.h"

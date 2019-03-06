@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/controller/xhci.h 217374 2011-01-13 20:03:55Z hselasky $ */
+/* $FreeBSD$ */
 
 /*-
  * Copyright (c) 2010 Hans Petter Selasky. All rights reserved.

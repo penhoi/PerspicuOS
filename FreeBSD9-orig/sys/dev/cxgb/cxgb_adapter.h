@@ -25,7 +25,7 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-$FreeBSD: release/9.0.0/sys/dev/cxgb/cxgb_adapter.h 219946 2011-03-24 01:16:48Z np $
+$FreeBSD$
 
 ***************************************************************************/
 

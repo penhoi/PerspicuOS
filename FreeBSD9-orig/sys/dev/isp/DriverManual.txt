@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/isp/DriverManual.txt 84631 2001-10-07 18:26:47Z mjacob $ */
+/* $FreeBSD$ */
 
 		Driver Theory of Operation Manual
 

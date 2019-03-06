@@ -26,7 +26,7 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-$FreeBSD: release/9.0.0/sys/dev/cxgb/ulp/toecore/cxgb_toedev.h 183062 2008-09-16 02:03:28Z kmacy $
+$FreeBSD$
 
 ***************************************************************************/
 

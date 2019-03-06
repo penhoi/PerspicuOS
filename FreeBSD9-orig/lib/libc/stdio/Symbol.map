@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/lib/libc/stdio/Symbol.map 189356 2009-03-04 03:38:51Z das $
+ * $FreeBSD$
  */
 
 FBSD_1.0 {

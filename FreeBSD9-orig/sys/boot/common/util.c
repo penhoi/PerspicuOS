@@ -15,7 +15,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/common/util.c 224722 2011-08-08 20:53:04Z dim $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

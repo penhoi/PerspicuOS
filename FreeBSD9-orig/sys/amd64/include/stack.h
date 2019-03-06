@@ -23,7 +23,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/amd64/include/stack.h 179886 2008-06-20 05:22:09Z alc $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_STACK_H_

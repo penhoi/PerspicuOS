@@ -1,5 +1,5 @@
 # Make `routed` for FreeBSD
-# $FreeBSD: release/9.0.0/sbin/routed/Makefile 204405 2010-02-27 10:17:27Z uqs $
+# $FreeBSD$
 
 PROG=	routed
 MAN=	routed.8

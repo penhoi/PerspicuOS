@@ -3,7 +3,7 @@
 # Makefile for amd
 # 	This file is under a "BSD" copyright (c) by David O'Brien 1998
 #
-# $FreeBSD: release/9.0.0/usr.sbin/amd/amd/Makefile 177718 2008-03-29 18:13:15Z ru $
+# $FreeBSD$
 #
 
 .include <bsd.own.mk>

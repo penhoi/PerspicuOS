@@ -33,7 +33,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)indent_globs.h	8.1 (Berkeley) 6/6/93
- * $FreeBSD: release/9.0.0/usr.bin/indent/indent_globs.h 205989 2010-03-31 17:05:30Z avg $
+ * $FreeBSD$
  */
 
 #define BACKSLASH '\\'

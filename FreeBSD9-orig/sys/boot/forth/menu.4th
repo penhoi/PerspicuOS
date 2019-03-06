@@ -24,7 +24,7 @@
 \ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 \ SUCH DAMAGE.
 \ 
-\ $FreeBSD: release/9.0.0/sys/boot/forth/menu.4th 225353 2011-09-02 19:29:37Z jh $
+\ $FreeBSD$
 
 marker task-menu.4th
 

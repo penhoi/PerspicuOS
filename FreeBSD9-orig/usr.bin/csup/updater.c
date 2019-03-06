@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/csup/updater.c 226834 2011-10-27 12:26:16Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

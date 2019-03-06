@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/fs/msdosfs/msdosfs_denode.c 215548 2010-11-19 21:17:34Z kib $ */
+/* $FreeBSD$ */
 /*	$NetBSD: msdosfs_denode.c,v 1.28 1998/02/10 14:10:00 mrg Exp $	*/
 
 /*-

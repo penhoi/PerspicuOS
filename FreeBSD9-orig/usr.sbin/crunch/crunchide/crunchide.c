@@ -1,5 +1,5 @@
 /*	$NetBSD: crunchide.c,v 1.8 1997/11/01 06:51:45 lukem Exp $	*/
-/* $FreeBSD: release/9.0.0/usr.sbin/crunch/crunchide/crunchide.c 173412 2007-11-07 10:53:41Z kevlo $ */
+/* $FreeBSD$ */
 /*
  * Copyright (c) 1997 Christopher G. Demetriou.  All rights reserved.
  * Copyright (c) 1994 University of Maryland

@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libutil/gr_util.c 200423 2009-12-12 00:11:40Z scf $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/nlm/tick.c 224110 2011-07-16 19:35:44Z jchandra $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_cputype.h"
 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/arm/conf/CAMBRIA.hints 215142 2010-11-11 20:18:33Z thompsa $
+# $FreeBSD$
 
 #
 # Device wiring for the Gateworks Cambria 2358.

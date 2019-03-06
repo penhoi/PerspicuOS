@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/cam/cam_xpt.h 224806 2011-08-12 20:09:38Z mjacob $
+ * $FreeBSD$
  */
 
 #ifndef _CAM_CAM_XPT_H

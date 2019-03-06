@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mwl/if_mwl.c 220935 2011-04-22 00:44:27Z adrian $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for the Marvell 88W8363 Wireless LAN controller.

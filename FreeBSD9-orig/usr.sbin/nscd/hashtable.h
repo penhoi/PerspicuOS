@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/nscd/hashtable.h 194109 2009-06-13 13:54:03Z des $
+ * $FreeBSD$
  */
 
 #ifndef __CACHELIB_HASHTABLE_H__

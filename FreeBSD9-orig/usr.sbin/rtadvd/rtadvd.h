@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/usr.sbin/rtadvd/rtadvd.h 224144 2011-07-17 19:24:54Z hrs $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: rtadvd.h,v 1.26 2003/08/05 12:34:23 itojun Exp $	*/
 
 /*

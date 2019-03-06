@@ -15,7 +15,7 @@
 # If you are in doubt as to the purpose or necessity of a line, check first 
 # in NOTES.
 #
-# $FreeBSD: release/9.0.0/sys/arm/conf/IQ31244 224699 2011-08-07 20:16:46Z rmacklem $
+# $FreeBSD$
 
 ident		IQ31244
 

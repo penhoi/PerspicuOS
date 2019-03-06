@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/agp/agppriv.h 189578 2009-03-09 13:27:33Z imp $
+ *	$FreeBSD$
  */
 
 #ifndef _PCI_AGPPRIV_H_

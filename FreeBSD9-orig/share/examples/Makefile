@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/examples/Makefile 222337 2011-05-27 03:27:28Z mav $
+# $FreeBSD$
 #
 # Doing a make install builds /usr/share/examples
 

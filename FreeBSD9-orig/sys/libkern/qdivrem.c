@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/libkern/qdivrem.c 183733 2008-10-09 20:43:42Z thompsa $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Multiprecision divide.  This algorithm is from Knuth vol. 2 (2nd ed),

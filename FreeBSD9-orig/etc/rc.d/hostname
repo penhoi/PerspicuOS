@@ -23,7 +23,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/hostname 197947 2009-10-10 22:17:03Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: hostname

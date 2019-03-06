@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/kldxref/ef_i386.c 186826 2009-01-06 14:21:17Z luigi $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

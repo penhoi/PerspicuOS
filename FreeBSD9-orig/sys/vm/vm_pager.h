@@ -32,7 +32,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)vm_pager.h	8.4 (Berkeley) 1/12/94
- * $FreeBSD: release/9.0.0/sys/vm/vm_pager.h 217529 2011-01-18 04:54:43Z alc $
+ * $FreeBSD$
  */
 
 /*

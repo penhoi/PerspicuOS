@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/powerpc/powerpc/pmap_dispatch.c 227712 2011-11-19 12:55:34Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Dispatch MI pmap calls to the appropriate MMU implementation

@@ -18,7 +18,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/dc/dc.c 208974 2010-06-10 10:17:00Z gabor $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/stat.h>
 

@@ -1,5 +1,5 @@
 #! /bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/make/syntax/directive-t0/test.t 201478 2010-01-04 09:49:23Z obrien $
+# $FreeBSD$
 
 cd `dirname $0`
 . ../../common.sh

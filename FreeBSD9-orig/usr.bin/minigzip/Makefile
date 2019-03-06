@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/minigzip/Makefile 205472 2010-03-22 21:19:17Z delphij $
+# $FreeBSD$
 
 SRCDIR=	${.CURDIR}/../../lib/libz
 .PATH:	${SRCDIR}

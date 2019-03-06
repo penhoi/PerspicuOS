@@ -48,7 +48,7 @@
  * or the SD Card Association to disclose or distribute any technical
  * information, know-how or other confidential information to any third party.
  *
- * $FreeBSD: release/9.0.0/sys/dev/mmc/mmcreg.h 188044 2009-02-03 04:28:45Z imp $
+ * $FreeBSD$
  */
 
 #ifndef DEV_MMC_MMCREG_H

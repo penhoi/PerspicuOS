@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/ifconfig/ifmac.c 194799 2009-06-23 23:49:52Z delphij $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

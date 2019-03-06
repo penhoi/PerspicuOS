@@ -62,7 +62,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net/bpf_buffer.c 215792 2010-11-24 05:50:19Z maxim $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bpf.h"
 

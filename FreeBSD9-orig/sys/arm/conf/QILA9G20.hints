@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/arm/conf/QILA9G20.hints 213499 2010-10-06 22:41:32Z cognet $
+# $FreeBSD$
 # Kernel configuration hits for Calao Syatems QIL-A9G20 development card 
 # http://www.calao-systems.com 
 

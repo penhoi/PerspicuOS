@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/gpioctl/Makefile 213238 2010-09-28 03:28:20Z gonzo $
+# $FreeBSD$
 
 PROG=	gpioctl
 MAN=	gpioctl.8

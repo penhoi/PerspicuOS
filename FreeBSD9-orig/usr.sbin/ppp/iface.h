@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/iface.h 218397 2011-02-07 11:18:18Z brian $
+ * $FreeBSD$
  */
 
 struct ifa_msghdr;

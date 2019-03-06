@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/examples/cvsup/stable-supfile 228131 2011-11-29 12:41:44Z pluknet $
+# $FreeBSD$
 #
 # This file contains all of the "CVSup collections" that make up the
 # FreeBSD-stable source tree.

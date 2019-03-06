@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)config.h	8.1 (Berkeley) 6/6/93
- * $FreeBSD: release/9.0.0/usr.sbin/config/config.h 219819 2011-03-21 09:40:01Z jeff $
+ * $FreeBSD$
  */
 
 /*

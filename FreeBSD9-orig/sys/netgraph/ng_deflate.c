@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_deflate.c 206049 2010-04-01 16:18:16Z mav $
+ * $FreeBSD$
  */
 
 /*

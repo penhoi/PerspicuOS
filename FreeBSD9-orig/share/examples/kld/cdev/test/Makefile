@@ -64,7 +64,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/share/examples/kld/cdev/test/Makefile 203349 2010-02-01 16:13:56Z wkoszek $
+# $FreeBSD$
 #
 PROG=	testcdev
 NO_MAN=

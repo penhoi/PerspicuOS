@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/distfetch/Makefile 218799 2011-02-18 14:54:34Z nwhitehorn $
+# $FreeBSD$
 
 BINDIR= /usr/libexec/bsdinstall
 PROG=	distfetch

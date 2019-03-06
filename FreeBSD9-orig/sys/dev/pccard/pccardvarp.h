@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/pccard/pccardvarp.h 189318 2009-03-03 18:57:59Z imp $
+ * $FreeBSD$
  */
 
 #ifndef _PCCARD_PCCARDVARP_H

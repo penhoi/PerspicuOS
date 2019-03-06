@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_pred1.c 187405 2009-01-18 19:25:36Z mav $
+ * $FreeBSD$
  */
 
 /*

@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/makefs/cd9660/cd9660_debug.c 214921 2010-11-07 16:05:04Z cognet $");
+__FBSDID("$FreeBSD$");
 #include <sys/param.h>
 
 #include <sys/mount.h>

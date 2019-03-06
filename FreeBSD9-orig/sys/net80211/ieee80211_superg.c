@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net80211/ieee80211_superg.c 193115 2009-05-30 20:11:23Z sam $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_wlan.h"
 

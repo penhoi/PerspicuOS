@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/ntfs/ntfs_vnops.c 215548 2010-11-19 21:17:34Z kib $
+ * $FreeBSD$
  *
  */
 

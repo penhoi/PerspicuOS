@@ -19,7 +19,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/gnu/lib/libodialog/msgbox.c 114603 2003-05-03 21:31:08Z obrien $");
+__FBSDID("$FreeBSD$");
 
 #include <dialog.h>
 #include "dialog.priv.h"

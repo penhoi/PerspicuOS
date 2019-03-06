@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/template/usb_template.c 223467 2011-06-23 07:54:03Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2007 Hans Petter Selasky. All rights reserved.
  *

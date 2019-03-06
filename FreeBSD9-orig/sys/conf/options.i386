@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/options.i386 216956 2011-01-04 14:49:54Z rwatson $
+# $FreeBSD$
 # Options specific to the i386 platform kernels
 
 AUTO_EOI_1		opt_auto_eoi.h

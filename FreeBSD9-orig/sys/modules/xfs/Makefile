@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/xfs/Makefile 192314 2009-05-18 17:20:24Z kan $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../gnu/fs/xfs \
 	${.CURDIR}/../../gnu/fs/xfs/FreeBSD \

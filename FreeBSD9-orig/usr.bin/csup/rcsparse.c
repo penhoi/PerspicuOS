@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/csup/rcsparse.c 213300 2010-09-30 14:28:48Z jhb $
+ * $FreeBSD$
  */
 
 #include <assert.h>

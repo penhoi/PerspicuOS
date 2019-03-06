@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/zfsboottest/Makefile 227710 2011-11-19 11:47:15Z pjd $
+# $FreeBSD$
 
 .PATH:		${.CURDIR}/../../../sys/boot/zfs ${.CURDIR}/../../../sys/cddl/boot/zfs
 

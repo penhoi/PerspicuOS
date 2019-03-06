@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/drm/Makefile 203288 2010-01-31 14:30:39Z rnoland $
+# $FreeBSD$
 
 SUBDIR = \
 	drm \

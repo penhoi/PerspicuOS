@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mps/mps_pci.c 216088 2010-11-30 22:39:46Z ken $");
+__FBSDID("$FreeBSD$");
 
 /* PCI/PCI-X/PCIe bus interface for the LSI MPT2 controllers */
 

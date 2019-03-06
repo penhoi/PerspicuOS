@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/iicbus/iicbus.h 181304 2008-08-04 21:03:06Z jhb $
+ * $FreeBSD$
  *
  */
 #ifndef __IICBUS_H

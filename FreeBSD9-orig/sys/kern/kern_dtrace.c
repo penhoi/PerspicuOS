@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_dtrace.c 219028 2011-02-25 10:11:01Z netchild $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kdb.h"
 

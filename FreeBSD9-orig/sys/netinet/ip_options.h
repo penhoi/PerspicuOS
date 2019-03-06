@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netinet/ip_options.h 189343 2009-03-04 02:51:22Z bms $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_IP_OPTIONS_H_

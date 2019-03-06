@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/gem/if_gem.c 225015 2011-08-19 19:13:31Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for Apple GMAC, Sun ERI and Sun GEM Ethernet controllers

@@ -59,7 +59,7 @@ static char copyright[] __unused =
 static char sccsid[] __unused = "@(#)strptime.c	0.1 (Powerdog) 94/03/27";
 #endif /* !defined NOID */
 #endif /* not lint */
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdtime/strptime.c 207830 2010-05-09 22:01:35Z edwin $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <time.h>

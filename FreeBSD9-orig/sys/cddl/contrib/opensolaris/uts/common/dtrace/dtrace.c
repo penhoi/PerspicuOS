@@ -18,7 +18,7 @@
  *
  * CDDL HEADER END
  *
- * $FreeBSD: release/9.0.0/sys/cddl/contrib/opensolaris/uts/common/dtrace/dtrace.c 225617 2011-09-16 13:58:51Z kmacy $
+ * $FreeBSD$
  */
 
 /*

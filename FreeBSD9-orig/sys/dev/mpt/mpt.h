@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/mpt/mpt.h 224493 2011-07-29 18:35:10Z marius $ */
+/* $FreeBSD$ */
 /*-
  * Generic defines for LSI '909 FC  adapters.
  * FreeBSD Version.

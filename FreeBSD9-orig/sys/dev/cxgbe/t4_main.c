@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/cxgbe/t4_main.c 222973 2011-06-11 04:50:54Z np $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet.h"
 

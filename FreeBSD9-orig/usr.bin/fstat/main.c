@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/fstat/main.c 221807 2011-05-12 10:11:39Z stas $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <libgen.h>

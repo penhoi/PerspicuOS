@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# $FreeBSD: release/9.0.0/etc/rc.d/netwait 223408 2011-06-22 06:27:32Z dougb $
+# $FreeBSD$
 #
 # PROVIDE: netwait
 # REQUIRE: NETWORKING

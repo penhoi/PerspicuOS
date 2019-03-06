@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/open/00.t 166232 2007-01-25 20:50:02Z pjd $
+# $FreeBSD$
 
 desc="open opens (and eventually creates) a file"
 

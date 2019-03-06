@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/splash/pcx/Makefile 133226 2004-08-06 20:37:08Z des $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../../dev/fb
 

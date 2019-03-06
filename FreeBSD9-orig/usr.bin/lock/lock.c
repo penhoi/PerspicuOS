@@ -42,7 +42,7 @@ static char sccsid[] = "@(#)lock.c	8.1 (Berkeley) 6/6/93";
 #endif
 #endif /* not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/lock/lock.c 216737 2010-12-27 15:05:15Z ed $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Lock a terminal up until the given key is entered or the given

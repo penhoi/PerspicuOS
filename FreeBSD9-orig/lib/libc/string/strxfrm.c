@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strxfrm.c 184055 2008-10-19 09:10:44Z delphij $");
+__FBSDID("$FreeBSD$");
 
 #include <stdlib.h>
 #include <string.h>

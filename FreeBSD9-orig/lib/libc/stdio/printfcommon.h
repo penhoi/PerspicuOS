@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/stdio/printfcommon.h 187582 2009-01-22 08:14:28Z das $
+ * $FreeBSD$
  */
 
 /*

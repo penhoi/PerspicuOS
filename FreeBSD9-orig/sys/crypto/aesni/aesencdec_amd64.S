@@ -132,4 +132,4 @@ ENTRY(aesni_decrypt_cbc)
 	.cfi_endproc
 END(aesni_decrypt_cbc)
 
-	.ident	"$FreeBSD: release/9.0.0/sys/crypto/aesni/aesencdec_amd64.S 210409 2010-07-23 11:00:46Z kib $"
+	.ident	"$FreeBSD$"

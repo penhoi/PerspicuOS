@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/sfxge/Makefile 227569 2011-11-16 17:11:13Z philip $
+# $FreeBSD$
 
 KMOD=	sfxge
 

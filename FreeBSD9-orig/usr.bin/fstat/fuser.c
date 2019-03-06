@@ -25,7 +25,7 @@
  *
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/fstat/fuser.c 223271 2011-06-18 21:53:36Z jilles $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/queue.h>
 #include <sys/stat.h>

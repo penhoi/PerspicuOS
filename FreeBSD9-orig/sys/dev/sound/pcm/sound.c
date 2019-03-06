@@ -42,7 +42,7 @@
 
 #include "feeder_if.h"
 
-SND_DECLARE_FILE("$FreeBSD: release/9.0.0/sys/dev/sound/pcm/sound.c 222826 2011-06-07 17:01:52Z mav $");
+SND_DECLARE_FILE("$FreeBSD$");
 
 devclass_t pcm_devclass;
 

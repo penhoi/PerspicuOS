@@ -35,7 +35,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/mac_seeotheruids/mac_seeotheruids.c 217325 2011-01-12 19:54:14Z mdf $
+ * $FreeBSD$
  */
 
 /*

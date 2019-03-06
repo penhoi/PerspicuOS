@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/x86/include/apicreg.h 214631 2010-11-01 18:18:46Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _X86_APICREG_H_

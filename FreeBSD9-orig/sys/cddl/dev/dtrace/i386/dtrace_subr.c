@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  *
- * $FreeBSD: release/9.0.0/sys/cddl/dev/dtrace/i386/dtrace_subr.c 223758 2011-07-04 12:04:52Z attilio $
+ * $FreeBSD$
  *
  */
 /*

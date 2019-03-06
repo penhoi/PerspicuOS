@@ -28,7 +28,7 @@
  * Dummynet portions related to packet handling.
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/ipfw/ip_dn_io.c 223358 2011-06-21 06:06:47Z ae $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet6.h"
 

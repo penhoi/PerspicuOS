@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/regression/file/flock/flock.c 192949 2009-05-28 02:39:07Z zml $
+ * $FreeBSD$
  */
 
 #include <sys/time.h>

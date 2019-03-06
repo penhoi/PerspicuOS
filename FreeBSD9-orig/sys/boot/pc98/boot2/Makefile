@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/pc98/boot2/Makefile 220361 2011-04-05 13:48:53Z nyan $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

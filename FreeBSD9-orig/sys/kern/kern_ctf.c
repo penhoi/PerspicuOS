@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/kern/kern_ctf.c 227969 2011-11-25 12:43:34Z rstone $
+ * $FreeBSD$
  */
 
 /*

@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/granular/05.t 210984 2010-08-06 23:58:54Z pjd $
+# $FreeBSD$
 
 desc="NFSv4 granular permissions checking - DELETE and DELETE_CHILD with directories"
 

@@ -1,4 +1,4 @@
- $FreeBSD: release/9.0.0/sys/i386/linux/syscalls.master 220028 2011-03-26 10:51:56Z avg $
+ $FreeBSD$
 
 ;	@(#)syscalls.master	8.1 (Berkeley) 7/19/93
 ; System call name/number master file (or rather, slave, from LINUX).

@@ -9,7 +9,7 @@
  *
  * nm libssh.a | awk '/[0-9a-z] [A-Z] / && $3 !~ /^ssh_/ { print "#define " $3 "\t\tssh_" $3 }'
  *
- * $FreeBSD: release/9.0.0/crypto/openssh/ssh_namespace.h 225983 2011-10-04 15:06:11Z des $
+ * $FreeBSD$
  */
 
 #define a2port					ssh_a2port

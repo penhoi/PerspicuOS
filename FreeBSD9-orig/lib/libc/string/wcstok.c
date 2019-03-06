@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/wcstok.c 174553 2007-12-12 18:33:06Z wes $");
+__FBSDID("$FreeBSD$");
 
 #include <wchar.h>
 

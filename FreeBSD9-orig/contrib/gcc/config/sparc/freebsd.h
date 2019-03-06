@@ -19,7 +19,7 @@ along with GCC; see the file COPYING.  If not, write to
 the Free Software Foundation, 51 Franklin Street, Fifth Floor,
 Boston, MA 02110-1301, USA.  */
 
-/* $FreeBSD: release/9.0.0/contrib/gcc/config/sparc/freebsd.h 219534 2011-03-11 21:24:02Z marius $ */
+/* $FreeBSD$ */
 
 #undef  SUBTARGET_EXTRA_SPECS
 #define SUBTARGET_EXTRA_SPECS \

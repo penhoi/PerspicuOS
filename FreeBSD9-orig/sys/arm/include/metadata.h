@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/metadata.h 217290 2011-01-11 22:07:39Z marcel $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_METADATA_H_

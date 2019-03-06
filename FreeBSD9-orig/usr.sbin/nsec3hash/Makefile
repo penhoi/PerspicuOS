@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/nsec3hash/Makefile 224093 2011-07-16 11:20:54Z dougb $
+# $FreeBSD$
 
 BIND_DIR=	${.CURDIR}/../../contrib/bind9
 LIB_BIND_REL=	../../lib/bind

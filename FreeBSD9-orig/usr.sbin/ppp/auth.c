@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/auth.c 174870 2007-12-22 19:29:32Z des $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

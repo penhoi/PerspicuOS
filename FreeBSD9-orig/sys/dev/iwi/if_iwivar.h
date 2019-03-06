@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/iwi/if_iwivar.h 213729 2010-10-12 16:52:13Z bschmidt $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2004, 2005

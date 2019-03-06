@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/linux/Makefile 218893 2011-02-20 19:33:47Z dim $
+# $FreeBSD$
 
 .if ${MACHINE_CPUARCH} == "amd64"
 SFX= 32

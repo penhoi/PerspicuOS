@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/rpc/crypt_client.c 111010 2003-02-16 17:29:11Z nectar $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <err.h>

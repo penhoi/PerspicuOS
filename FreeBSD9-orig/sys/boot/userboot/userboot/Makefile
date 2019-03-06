@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/userboot/userboot/Makefile 223712 2011-07-01 18:31:59Z marius $
+# $FreeBSD$
 
 NO_MAN=
 WITHOUT_SSP=

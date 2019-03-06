@@ -45,7 +45,7 @@
 #include <netinet/sctp_asconf.h>
 #include <netinet/sctp_dtrace_declare.h>
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_cc_functions.c 224641 2011-08-03 20:21:00Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #define SHIFT_MPTCP_MULTI_N 40
 #define SHIFT_MPTCP_MULTI_Z 16

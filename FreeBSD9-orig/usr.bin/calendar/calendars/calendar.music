@@ -1,7 +1,7 @@
 /*
  * Music
  *
- * $FreeBSD: release/9.0.0/usr.bin/calendar/calendars/calendar.music 193462 2009-06-04 21:48:04Z edwin $
+ * $FreeBSD$
  */
 
 #ifndef _calendar_music_

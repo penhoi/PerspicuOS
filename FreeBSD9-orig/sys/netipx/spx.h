@@ -58,7 +58,7 @@
  *
  *	@(#)spx.h
  *
- * $FreeBSD: release/9.0.0/sys/netipx/spx.h 194547 2009-06-20 18:24:25Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _NETIPX_SPX_H_

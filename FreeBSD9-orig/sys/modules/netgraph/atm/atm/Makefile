@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/netgraph/atm/atm/Makefile 193744 2009-06-08 19:57:35Z bz $
+# $FreeBSD$
 #
 # Author: Harti Brandt <harti@freebsd.org>
 #

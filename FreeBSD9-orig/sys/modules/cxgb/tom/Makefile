@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cxgb/tom/Makefile 193588 2009-06-06 17:01:44Z rwatson $
+# $FreeBSD$
 
 CXGB = ${.CURDIR}/../../../dev/cxgb
 .PATH: ${CXGB}/ulp/tom

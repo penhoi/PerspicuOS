@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mps/Makefile 213993 2010-10-17 20:01:56Z scottl $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/mps
 

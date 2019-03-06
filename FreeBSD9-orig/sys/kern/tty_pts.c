@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/tty_pts.c 225617 2011-09-16 13:58:51Z kmacy $");
+__FBSDID("$FreeBSD$");
 
 /* Add compatibility bits for FreeBSD. */
 #define PTS_COMPAT

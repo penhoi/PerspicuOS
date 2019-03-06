@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/distextract/distextract.c 219618 2011-03-13 18:26:16Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

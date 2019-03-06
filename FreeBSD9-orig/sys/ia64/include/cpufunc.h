@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/ia64/include/cpufunc.h 205713 2010-03-26 21:22:02Z marcel $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_CPUFUNC_H_

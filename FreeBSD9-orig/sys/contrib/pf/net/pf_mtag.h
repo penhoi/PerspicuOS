@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/contrib/pf/net/pf_mtag.h 223637 2011-06-28 11:57:25Z bz $	*/
+/*	$FreeBSD$	*/
 /*
  * Copyright (c) 2001 Daniel Hartmeier
  * All rights reserved.

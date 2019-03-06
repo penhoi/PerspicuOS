@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/ipmon.h 161357 2006-08-16 12:23:02Z guido $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Copyright (C) 1993-2001 by Darren Reed.

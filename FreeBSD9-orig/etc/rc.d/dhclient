@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/dhclient 178233 2008-04-15 23:03:35Z brooks $
+# $FreeBSD$
 #
 
 # PROVIDE: dhclient

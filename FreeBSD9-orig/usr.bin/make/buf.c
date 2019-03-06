@@ -41,7 +41,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/make/buf.c 187475 2009-01-20 17:15:12Z rdivacky $");
+__FBSDID("$FreeBSD$");
 
 /*
  * buf.c

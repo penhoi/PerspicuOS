@@ -29,7 +29,7 @@
 
 #ifdef __FreeBSD__
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/tar/getdate.c 203587 2010-02-07 01:16:05Z kientzle $");
+__FBSDID("$FreeBSD$");
 #endif
 
 #include <ctype.h>

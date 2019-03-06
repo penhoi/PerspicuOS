@@ -3,7 +3,7 @@
 # Copyright 2007. Petar Zhivkov Petrov 
 # pesho.petrov@gmail.com
 #
-# $FreeBSD: release/9.0.0/usr.bin/csup/cpasswd.sh 204556 2010-03-02 07:26:07Z lulf $
+# $FreeBSD$
 
 usage() {
 	echo "Usage: $0 clientName serverName"

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/lib/libradius/radlib.h 197086 2009-09-11 11:42:56Z mav $
+ *	$FreeBSD$
  */
 
 #ifndef _RADLIB_H_

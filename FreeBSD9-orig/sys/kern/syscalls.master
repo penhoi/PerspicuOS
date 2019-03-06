@@ -1,4 +1,4 @@
- $FreeBSD: release/9.0.0/sys/kern/syscalls.master 224987 2011-08-18 22:51:30Z jonathan $
+ $FreeBSD$
 ;	from: @(#)syscalls.master	8.2 (Berkeley) 1/13/94
 ;
 ; System call name/number master file.

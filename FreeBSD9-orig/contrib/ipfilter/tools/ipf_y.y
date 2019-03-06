@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/tools/ipf_y.y 214535 2010-10-29 21:23:34Z rpaulo $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Copyright (C) 2001-2006 by Darren Reed.

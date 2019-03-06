@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/chflags/01.t 211474 2010-08-18 22:06:43Z pjd $
+# $FreeBSD$
 
 desc="chflags returns ENOTDIR if a component of the path prefix is not a directory"
 

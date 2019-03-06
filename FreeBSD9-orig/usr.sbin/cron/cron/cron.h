@@ -17,7 +17,7 @@
 
 /* cron.h - header for vixie's cron
  *
- * $FreeBSD: release/9.0.0/usr.sbin/cron/cron/cron.h 184809 2008-11-10 06:35:30Z matteo $
+ * $FreeBSD$
  *
  * vix 14nov88 [rest of log is in RCS]
  * vix 14jan87 [0 or 7 can be sunday; thanks, mwm@berkeley]

@@ -1,5 +1,5 @@
 /* $OpenBSD: sshconnect.c,v 1.232 2011/01/16 11:50:36 djm Exp $ */
-/* $FreeBSD: release/9.0.0/crypto/openssh/sshconnect.c 224638 2011-08-03 19:14:22Z brooks $ */
+/* $FreeBSD$ */
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>
  * Copyright (c) 1995 Tatu Ylonen <ylo@cs.hut.fi>, Espoo, Finland

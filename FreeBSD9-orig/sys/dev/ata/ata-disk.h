@@ -23,7 +23,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ata/ata-disk.h 178067 2008-04-10 13:05:05Z sos $
+ * $FreeBSD$
  */
 
 /* structure describing an ATA disk */

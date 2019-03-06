@@ -34,7 +34,7 @@
  *      @(#)bpf.h	8.1 (Berkeley) 6/10/93
  *	@(#)bpf.h	1.34 (LBL)     6/16/96
  *
- * $FreeBSD: release/9.0.0/sys/net/bpf.h 214517 2010-10-29 18:41:09Z rpaulo $
+ * $FreeBSD$
  */
 
 #ifndef _NET_BPF_H_

@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/event.c 212049 2010-08-31 09:38:43Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <assert.h>
 #include <errno.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/usr.sbin/dtruss/Makefile 211841 2010-08-26 11:45:39Z rpaulo $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/contrib/dtracetoolkit
 

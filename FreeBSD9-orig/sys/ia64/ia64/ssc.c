@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/ia64/ia64/ssc.c 193018 2009-05-29 06:41:23Z ed $
+ *	$FreeBSD$
  */
 #include <sys/param.h>
 #include <sys/bus.h>

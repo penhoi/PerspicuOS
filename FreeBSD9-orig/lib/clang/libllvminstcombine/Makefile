@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvminstcombine/Makefile 212847 2010-09-19 10:54:58Z dim $
+# $FreeBSD$
 
 LIB=	llvminstcombine
 

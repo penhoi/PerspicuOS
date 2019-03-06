@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/ifconfig/ifieee80211.c 224224 2011-07-20 05:59:28Z adrian $
+ * $FreeBSD$
  */
 
 /*-

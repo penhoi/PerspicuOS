@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/netinet/ipfw/dummynet.txt 204591 2010-03-02 17:40:48Z luigi $
+# $FreeBSD$
 #
 
 Notes on the internal structure of dummynet (2010 version)

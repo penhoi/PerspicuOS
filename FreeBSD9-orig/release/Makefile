@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/release/Makefile 224978 2011-08-18 16:54:04Z sbruno $
+# $FreeBSD$
 #
 # Makefile for building releases and release media.
 # 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/runfw/Makefile 203148 2010-01-29 03:35:01Z thompsa $
+# $FreeBSD$
 
 KMOD=	runfw
 FIRMWS=	runfw:runfw:1

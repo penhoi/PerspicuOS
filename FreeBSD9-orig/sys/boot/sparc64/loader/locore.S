@@ -8,7 +8,7 @@
  */
 
 #include <machine/asm.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/sparc64/loader/locore.S 181398 2008-08-07 22:46:25Z marius $");
+__FBSDID("$FreeBSD$");
 
 #define	LOCORE
 

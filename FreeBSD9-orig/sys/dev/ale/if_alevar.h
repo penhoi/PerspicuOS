@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ale/if_alevar.h 217542 2011-01-18 16:27:40Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef	_IF_ALEVAR_H

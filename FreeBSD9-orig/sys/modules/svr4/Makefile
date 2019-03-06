@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/svr4/Makefile 211690 2010-08-23 06:13:29Z imp $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../${MACHINE_CPUARCH}/svr4 ${.CURDIR}/../../compat/svr4
 KMOD=	svr4

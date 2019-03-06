@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/chflags/05.t 185173 2008-11-22 13:27:15Z pjd $
+# $FreeBSD$
 
 desc="chflags returns EACCES when search permission is denied for a component of the path prefix"
 

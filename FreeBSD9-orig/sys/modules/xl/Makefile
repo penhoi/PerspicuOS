@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/xl/Makefile 227229 2011-11-06 17:23:49Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/xl
 

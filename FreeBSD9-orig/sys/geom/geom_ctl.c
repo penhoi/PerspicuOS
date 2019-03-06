@@ -34,7 +34,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/geom/geom_ctl.c 216952 2011-01-04 10:59:38Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_geom.h"
 

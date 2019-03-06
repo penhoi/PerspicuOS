@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/hast_compression.c 219354 2011-03-06 23:09:33Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/endian.h>
 

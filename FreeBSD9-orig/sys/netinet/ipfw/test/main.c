@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/test/main.c 204591 2010-03-02 17:40:48Z luigi $
+ * $FreeBSD$
  *
  * Testing program for schedulers
  *

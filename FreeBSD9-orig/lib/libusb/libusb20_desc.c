@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libusb/libusb20_desc.c 203815 2010-02-13 09:45:50Z wkoszek $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
  *

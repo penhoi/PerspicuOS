@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.bin/grep/regex/tre-fastmatch.c 226573 2011-10-20 16:08:11Z gabor $ */
+/* $FreeBSD$ */
 
 /*-
  * Copyright (c) 1999 James Howard and Dag-Erling Coïdan Smørgrav

@@ -32,7 +32,7 @@
  * SUCH DAMAGE.
  *
  *	from: @(#)vmparam.h	5.9 (Berkeley) 5/12/91
- * $FreeBSD: release/9.0.0/sys/i386/include/vmparam.h 221855 2011-05-13 19:35:01Z mdf $
+ * $FreeBSD$
  */
 
 

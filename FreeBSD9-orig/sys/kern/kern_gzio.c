@@ -12,7 +12,7 @@
  *
  */
 
-/* @(#) $FreeBSD: release/9.0.0/sys/kern/kern_gzio.c 207415 2010-04-30 03:10:53Z alfred $ */
+/* @(#) $FreeBSD$ */
 
 #include <sys/param.h>
 #include <sys/proc.h>

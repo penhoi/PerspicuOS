@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/skel/dot.cshrc 170119 2007-05-29 22:07:57Z dougb $
+# $FreeBSD$
 #
 # .cshrc - csh resource script, read at beginning of execution by each shell
 #

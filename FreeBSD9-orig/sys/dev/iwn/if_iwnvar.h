@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/iwn/if_iwnvar.h 221651 2011-05-08 12:06:12Z bschmidt $	*/
+/*	$FreeBSD$	*/
 /*	$OpenBSD: if_iwnvar.h,v 1.18 2010/04/30 16:06:46 damien Exp $	*/
 
 /*-

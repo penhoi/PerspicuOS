@@ -23,7 +23,7 @@
 # CRUNCH_SUPPRESS_LINK_$(NAME) to 1.
 #
 
-# $FreeBSD: release/9.0.0/share/mk/bsd.crunchgen.mk 215413 2010-11-16 22:23:20Z adrian $
+# $FreeBSD$
 
 ##################################################################
 #  The following is pretty nearly a generic crunchgen-handling makefile

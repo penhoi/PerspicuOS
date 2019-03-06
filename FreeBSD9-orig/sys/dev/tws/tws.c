@@ -31,7 +31,7 @@
  * ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/tws/tws.c 226582 2011-10-20 20:33:31Z delphij $
+ * $FreeBSD$
 */
 
 

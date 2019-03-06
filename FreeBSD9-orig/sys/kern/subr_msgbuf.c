@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/kern/subr_msgbuf.c 222550 2011-05-31 22:39:32Z ken $
+ * $FreeBSD$
  */
 
 /*

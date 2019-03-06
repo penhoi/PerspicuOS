@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libmemstat/memstat_uma.c 225330 2011-09-02 14:10:42Z pluknet $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/userboot/userboot/conf.c 223695 2011-06-30 16:08:56Z dfr $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 

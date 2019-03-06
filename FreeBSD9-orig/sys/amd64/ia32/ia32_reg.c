@@ -23,11 +23,11 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/amd64/ia32/ia32_reg.c 216634 2010-12-22 00:18:42Z jkim $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/amd64/ia32/ia32_reg.c 216634 2010-12-22 00:18:42Z jkim $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 

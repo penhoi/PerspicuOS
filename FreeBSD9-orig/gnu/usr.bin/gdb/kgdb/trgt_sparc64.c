@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/gnu/usr.bin/gdb/kgdb/trgt_sparc64.c 178713 2008-05-01 20:36:48Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <machine/asm.h>

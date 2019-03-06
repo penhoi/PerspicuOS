@@ -1,5 +1,5 @@
 #	From: @(#)bsd.prog.mk	5.26 (Berkeley) 6/25/91
-# $FreeBSD: release/9.0.0/sys/conf/kmod.mk 222229 2011-05-23 21:32:45Z imp $
+# $FreeBSD$
 #
 # The include file <bsd.kmod.mk> handles building and installing loadable
 # kernel modules.

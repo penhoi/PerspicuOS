@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/bm/Makefile 179645 2008-06-07 22:58:32Z marcel $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/bm
 

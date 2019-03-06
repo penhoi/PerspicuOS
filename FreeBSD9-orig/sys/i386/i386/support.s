@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/i386/support.s 224187 2011-07-18 15:19:40Z attilio $
+ * $FreeBSD$
  */
 
 #include "opt_npx.h"

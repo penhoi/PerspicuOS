@@ -64,7 +64,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mpt/mpt_debug.c 224493 2011-07-29 18:35:10Z marius $");
+__FBSDID("$FreeBSD$");
 
 #include <dev/mpt/mpt.h>
 

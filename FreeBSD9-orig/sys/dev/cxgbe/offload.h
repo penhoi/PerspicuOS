@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgbe/offload.h 222509 2011-05-30 21:07:26Z np $
+ * $FreeBSD$
  *
  */
 

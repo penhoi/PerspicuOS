@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/truss/truss.h 204977 2010-03-10 20:31:30Z imp $
+ * $FreeBSD$
  */
 
 #include <sys/queue.h>

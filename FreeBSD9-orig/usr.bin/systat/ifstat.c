@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/systat/ifstat.c 175239 2008-01-12 00:11:26Z delphij $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

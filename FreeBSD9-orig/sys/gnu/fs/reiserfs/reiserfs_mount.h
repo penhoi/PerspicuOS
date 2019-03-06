@@ -4,7 +4,7 @@
  * 
  * Ported to FreeBSD by Jean-Sébastien Pédron <jspedron@club-internet.fr>
  * 
- * $FreeBSD: release/9.0.0/sys/gnu/fs/reiserfs/reiserfs_mount.h 213664 2010-10-10 07:05:47Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _GNU_REISERFS_REISERFS_MOUNT_H

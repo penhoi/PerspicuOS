@@ -1,5 +1,5 @@
 /*	$NetBSD: if_gre.c,v 1.49 2003/12/11 00:22:29 itojun Exp $ */
-/*	 $FreeBSD: release/9.0.0/sys/net/if_gre.c 223223 2011-06-18 09:34:03Z bz $ */
+/*	 $FreeBSD$ */
 
 /*-
  * Copyright (c) 1998 The NetBSD Foundation, Inc.

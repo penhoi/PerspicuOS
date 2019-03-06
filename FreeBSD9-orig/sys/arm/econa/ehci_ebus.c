@@ -32,7 +32,7 @@
 
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/econa/ehci_ebus.c 220558 2011-04-12 07:49:11Z hselasky $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bus.h"
 

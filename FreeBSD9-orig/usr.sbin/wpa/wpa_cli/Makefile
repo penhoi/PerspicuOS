@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/wpa/wpa_cli/Makefile 220370 2011-04-05 18:41:01Z obrien $
+# $FreeBSD$
 
 .include "${.CURDIR}/../Makefile.inc"
 

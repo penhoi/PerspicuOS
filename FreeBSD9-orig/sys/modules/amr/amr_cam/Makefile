@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/amr/amr_cam/Makefile 184577 2008-11-03 04:13:27Z scottl $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../dev/amr
 

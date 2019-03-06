@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/portalfs/Makefile 224876 2011-08-15 07:32:44Z rwatson $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../fs/portalfs
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_nat.c 222808 2011-06-07 06:48:42Z ae $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

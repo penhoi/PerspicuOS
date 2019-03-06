@@ -25,7 +25,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/dn_sched_prio.c 205417 2010-03-21 16:30:32Z luigi $
+ * $FreeBSD$
  */
 #ifdef _KERNEL
 #include <sys/malloc.h>

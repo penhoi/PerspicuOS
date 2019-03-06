@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/chown/04.t 211410 2010-08-17 06:08:09Z pjd $
+# $FreeBSD$
 
 desc="chown returns ENOENT if the named file does not exist"
 

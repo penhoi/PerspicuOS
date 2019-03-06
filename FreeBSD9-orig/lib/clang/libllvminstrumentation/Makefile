@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvminstrumentation/Makefile 221345 2011-05-02 21:04:37Z dim $
+# $FreeBSD$
 
 LIB=	llvminstrumentation
 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/acpi/aibs/Makefile 209523 2010-06-25 15:32:46Z rpaulo $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../../dev/acpi_support
 

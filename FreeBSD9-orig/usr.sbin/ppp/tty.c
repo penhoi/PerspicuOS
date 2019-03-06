@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/tty.c 196513 2009-08-24 17:18:17Z brian $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

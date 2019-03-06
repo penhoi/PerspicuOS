@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/tgmath.h 166432 2007-02-02 18:30:23Z schweikh $
+ * $FreeBSD$
  */
 
 #ifndef _TGMATH_H_

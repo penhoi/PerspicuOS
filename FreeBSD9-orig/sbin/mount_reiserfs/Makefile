@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/mount_reiserfs/Makefile 198236 2009-10-19 16:00:24Z ru $
+# $FreeBSD$
 
 PROG = mount_reiserfs
 SRCS = mount_reiserfs.c getmntopts.c

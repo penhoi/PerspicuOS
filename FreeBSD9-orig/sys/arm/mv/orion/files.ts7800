@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/arm/mv/orion/files.ts7800 220653 2011-04-15 13:37:43Z philip $
+# $FreeBSD$
 
 arm/mv/orion/orion.c	standard
 

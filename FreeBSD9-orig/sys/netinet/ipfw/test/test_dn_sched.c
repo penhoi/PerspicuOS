@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/test/test_dn_sched.c 204736 2010-03-04 21:52:40Z luigi $
+ * $FreeBSD$
  *
  * library functions for userland testing of dummynet schedulers
  */

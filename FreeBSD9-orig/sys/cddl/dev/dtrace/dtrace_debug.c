@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
  * DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/cddl/dev/dtrace/dtrace_debug.c 209059 2010-06-11 18:46:34Z jhb $
+ * $FreeBSD$
  *
  */
 

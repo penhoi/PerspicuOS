@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/throughput.c 212829 2010-09-18 22:26:50Z n_hibma $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

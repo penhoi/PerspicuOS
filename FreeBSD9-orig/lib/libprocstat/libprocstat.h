@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libprocstat/libprocstat.h 224859 2011-08-14 00:42:09Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _LIBPROCSTAT_H_

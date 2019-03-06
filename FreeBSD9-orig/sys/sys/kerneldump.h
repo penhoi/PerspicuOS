@@ -32,7 +32,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/kerneldump.h 214903 2010-11-07 03:09:02Z gonzo $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_KERNELDUMP_H

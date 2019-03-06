@@ -26,7 +26,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
  * NETLOGIC_BSD
- * $FreeBSD: release/9.0.0/sys/mips/nlm/hal/mips-extns.h 225394 2011-09-05 10:45:29Z jchandra $
+ * $FreeBSD$
  */
 
 #ifndef __NLM_MIPS_EXTNS_H__

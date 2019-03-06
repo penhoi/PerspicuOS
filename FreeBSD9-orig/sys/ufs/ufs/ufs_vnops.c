@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ufs/ufs/ufs_vnops.c 227402 2011-11-09 18:51:41Z pho $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_quota.h"
 #include "opt_suiddir.h"

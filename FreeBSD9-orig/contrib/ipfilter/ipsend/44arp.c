@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/ipsend/44arp.c 186119 2008-12-15 06:10:57Z qingli $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Based upon 4.4BSD's /usr/sbin/arp

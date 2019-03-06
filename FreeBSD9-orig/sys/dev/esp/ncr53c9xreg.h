@@ -29,7 +29,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/sys/dev/esp/ncr53c9xreg.h 226917 2011-10-29 23:53:53Z marius $ */
+/* $FreeBSD$ */
 
 /*
  * Register addresses, relative to some base address

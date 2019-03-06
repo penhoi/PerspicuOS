@@ -32,7 +32,7 @@
 /* $KAME: sctp_pcb.h,v 1.21 2005/07/16 01:18:47 suz Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_pcb.h 225549 2011-09-14 08:15:21Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __sctp_pcb_h__
 #define __sctp_pcb_h__

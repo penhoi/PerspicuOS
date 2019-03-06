@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.sbin/sysinstall/dist.h 213386 2010-10-03 17:50:43Z nwhitehorn $  */
+/* $FreeBSD$  */
 
 #ifndef _DIST_H_INCLUDE
 #define _DIST_H_INCLUDE

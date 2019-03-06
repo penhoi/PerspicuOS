@@ -22,7 +22,7 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/ofw/ofwcall64.S 222613 2011-06-02 14:12:37Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/syscall.h>

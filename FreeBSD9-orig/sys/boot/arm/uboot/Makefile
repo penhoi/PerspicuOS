@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/arm/uboot/Makefile 211676 2010-08-23 01:37:55Z imp $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

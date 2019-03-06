@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/lib/libnvpair/Makefile 204597 2010-03-02 19:04:07Z uqs $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/contrib/opensolaris/lib/libnvpair
 .PATH: ${.CURDIR}/../../../sys/cddl/contrib/opensolaris/common/nvpair

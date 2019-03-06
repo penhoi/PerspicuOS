@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdlib/getenv.c 200198 2009-12-07 00:22:10Z scf $");
+__FBSDID("$FreeBSD$");
 
 
 #include "namespace.h"

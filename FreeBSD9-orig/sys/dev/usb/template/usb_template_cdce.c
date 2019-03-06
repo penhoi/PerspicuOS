@@ -1,5 +1,5 @@
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/template/usb_template_cdce.c 223467 2011-06-23 07:54:03Z hselasky $");
+__FBSDID("$FreeBSD$");
 
 /*-
  * Copyright (c) 2007 Hans Petter Selasky <hselasky@FreeBSD.org>

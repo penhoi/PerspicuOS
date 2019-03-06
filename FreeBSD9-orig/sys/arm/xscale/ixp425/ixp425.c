@@ -34,7 +34,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/xscale/ixp425/ixp425.c 215319 2010-11-14 20:41:22Z thompsa $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

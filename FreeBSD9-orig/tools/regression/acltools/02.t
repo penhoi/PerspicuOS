@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/tools/regression/acltools/02.t 219270 2011-03-04 18:46:19Z trasz $
+# $FreeBSD$
 #
 
 # This is a wrapper script to run tools-nfs4.test on UFS filesystem.

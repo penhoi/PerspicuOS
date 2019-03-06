@@ -25,7 +25,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/netinet/ipfw/ip_dn_glue.c 221521 2011-05-06 07:13:34Z ae $
+ * $FreeBSD$
  *
  * Binary compatibility support for /sbin/ipfw RELENG_7 and RELENG_8
  */

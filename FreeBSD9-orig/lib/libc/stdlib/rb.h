@@ -52,7 +52,7 @@
 #define	RB_H_
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdlib/rb.h 204493 2010-02-28 22:57:13Z jasone $");
+__FBSDID("$FreeBSD$");
 
 #ifdef RB_COMPACT
 /* Node structure. */

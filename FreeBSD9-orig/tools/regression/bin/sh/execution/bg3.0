@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/bin/sh/execution/bg3.0 221027 2011-04-25 20:54:12Z jilles $
+# $FreeBSD$
 
 f() { return 42; }
 f

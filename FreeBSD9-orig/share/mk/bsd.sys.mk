@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/mk/bsd.sys.mk 220863 2011-04-19 18:09:21Z dim $
+# $FreeBSD$
 #
 # This file contains common settings used for building FreeBSD
 # sources.

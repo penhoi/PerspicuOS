@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/snc/Makefile 181391 2008-08-07 20:51:51Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/snc
 

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/mps/mpi/mpi2_init.h 212420 2010-09-10 15:03:56Z ken $ */
+/* $FreeBSD$ */
 /*
  *  Copyright (c) 2000-2009 LSI Corporation.
  *

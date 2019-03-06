@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/locale/lmonetary.c 116875 2003-06-26 10:46:16Z phantom $");
+__FBSDID("$FreeBSD$");
 
 #include <limits.h>
 #include <stddef.h>

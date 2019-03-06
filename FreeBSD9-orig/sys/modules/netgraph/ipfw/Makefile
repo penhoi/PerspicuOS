@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/netgraph/ipfw/Makefile 225586 2011-09-15 12:28:17Z ae $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/esp/Makefile 227305 2011-11-07 13:40:54Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/esp
 

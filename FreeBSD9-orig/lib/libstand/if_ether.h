@@ -30,7 +30,7 @@
  *
  *	@(#)if_ether.h	8.1 (Berkeley) 6/10/93
  *
- * $FreeBSD: release/9.0.0/lib/libstand/if_ether.h 186119 2008-12-15 06:10:57Z qingli $
+ * $FreeBSD$
  */
 
 /*

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/loginclass.h 220137 2011-03-29 17:47:25Z trasz $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_LOGINCLASS_H_

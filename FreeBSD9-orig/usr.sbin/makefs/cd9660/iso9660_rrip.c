@@ -42,7 +42,7 @@
 #include <stdio.h>
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/makefs/cd9660/iso9660_rrip.c 224762 2011-08-10 19:12:21Z marius $");
+__FBSDID("$FreeBSD$");
 
 static void cd9660_rrip_initialize_inode(cd9660node *);
 static int cd9660_susp_handle_continuation(cd9660node *);

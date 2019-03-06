@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/cxgb/ulp/tom/cxgb_tcp_offload.c 183292 2008-09-23 03:16:54Z kmacy $");
+__FBSDID("$FreeBSD$");
 
 /*
  * grab bag of accessor routines that will either be moved to netinet

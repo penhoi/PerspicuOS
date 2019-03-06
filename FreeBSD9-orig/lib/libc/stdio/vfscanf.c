@@ -34,7 +34,7 @@
 static char sccsid[] = "@(#)vfscanf.c	8.1 (Berkeley) 6/4/93";
 #endif /* LIBC_SCCS and not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdio/vfscanf.c 187422 2009-01-19 06:19:51Z das $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <ctype.h>

@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/uboot/lib/libuboot.h 191829 2009-05-05 16:29:08Z raj $
+ * $FreeBSD$
  */
 
 struct uboot_devdesc

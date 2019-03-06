@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/an/if_an_pci.c 199756 2009-11-24 16:54:54Z jhb $");
+__FBSDID("$FreeBSD$");
 
 /*
  * This is a PCI shim for the Aironet PC4500/4800 wireless network

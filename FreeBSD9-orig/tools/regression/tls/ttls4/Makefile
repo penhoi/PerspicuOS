@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/tls/ttls4/Makefile 204311 2010-02-25 14:42:26Z ru $
+# $FreeBSD$
 
 PROG=	ttls4
 DPADD=	${LIBPTHREAD}

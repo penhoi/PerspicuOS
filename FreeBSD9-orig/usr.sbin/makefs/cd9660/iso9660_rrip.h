@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
  * OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/makefs/cd9660/iso9660_rrip.h 214921 2010-11-07 16:05:04Z cognet $
+ * $FreeBSD$
  */
 #ifndef __ISO9660_RRIP_H__
 #define __ISO9660_RRIP_H__

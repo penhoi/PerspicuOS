@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/bind/config.h 225361 2011-09-03 07:13:45Z dougb $ */
+/* $FreeBSD$ */
 
 /* config.h.  Generated from config.h.in by configure.  */
 /* config.h.in.  Generated from configure.in by autoheader.  */

@@ -28,7 +28,7 @@
 
 /* $Header: /home/daffy/u0/vern/flex/RCS/tblcmp.c,v 2.11 94/11/05 17:08:28 vern Exp $ */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/lex/tblcmp.c 179549 2008-06-04 19:50:34Z dwmalone $");
+__FBSDID("$FreeBSD$");
 
 #include "flexdef.h"
 

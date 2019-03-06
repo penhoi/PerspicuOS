@@ -15,7 +15,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_urtw.c 223486 2011-06-24 02:30:02Z hselasky $");
+__FBSDID("$FreeBSD$");
 #include <sys/param.h>
 #include <sys/sockio.h>
 #include <sys/sysctl.h>

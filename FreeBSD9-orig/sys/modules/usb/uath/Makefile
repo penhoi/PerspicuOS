@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/usb/uath/Makefile 190688 2009-04-04 11:23:00Z weongyo $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../dev/usb/wlan
 

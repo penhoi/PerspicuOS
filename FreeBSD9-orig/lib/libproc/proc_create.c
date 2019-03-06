@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libproc/proc_create.c 224632 2011-08-03 09:55:59Z avg $
+ * $FreeBSD$
  */
 
 #include "_libproc.h"

@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/include/pcpu.h 223485 2011-06-23 22:21:28Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_PCPU_H_

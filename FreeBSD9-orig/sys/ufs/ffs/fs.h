@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)fs.h	8.13 (Berkeley) 3/21/95
- * $FreeBSD: release/9.0.0/sys/ufs/ffs/fs.h 224061 2011-07-15 16:20:33Z mckusick $
+ * $FreeBSD$
  */
 
 #ifndef _UFS_FFS_FS_H_

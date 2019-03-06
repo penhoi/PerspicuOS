@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/amd64/amd64/intr_machdep.c 224187 2011-07-18 15:19:40Z attilio $
+ * $FreeBSD$
  */
 
 /*

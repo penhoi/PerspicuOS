@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/bktr/msp34xx.c 172836 2007-10-20 23:23:23Z julian $
+ * $FreeBSD$
  */
 
 /*

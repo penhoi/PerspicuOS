@@ -34,7 +34,7 @@ static char sccsid[] = "@(#)atalk.c	1.1 (Whistle) 6/6/96";
 #endif
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/netstat/atalk.c 216370 2010-12-11 08:32:16Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/queue.h>

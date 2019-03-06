@@ -31,7 +31,7 @@
  *
  * so there!
  *
- * $FreeBSD: release/9.0.0/sbin/ifconfig/ifconfig.h 194799 2009-06-23 23:49:52Z delphij $
+ * $FreeBSD$
  */
 
 #define	__constructor	__attribute__((constructor))

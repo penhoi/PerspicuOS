@@ -23,7 +23,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/sys/dev/agp/agp_if.m 173573 2007-11-12 21:51:38Z jhb $
+# $FreeBSD$
 #
 
 #include <sys/bus.h>

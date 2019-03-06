@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/cam/cam_xpt_internal.h 223081 2011-06-14 14:53:17Z gibbs $
+ * $FreeBSD$
  */
 
 #ifndef _CAM_CAM_XPT_INTERNAL_H

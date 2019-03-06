@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libc/powerpc/Makefile.inc 156613 2006-03-13 01:15:01Z deischen $
+# $FreeBSD$
 
 # Long double is 64-bits
 MDSRCS+=machdep_ldisd.c

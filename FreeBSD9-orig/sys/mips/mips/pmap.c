@@ -66,7 +66,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/mips/pmap.c 225418 2011-09-06 10:30:11Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libusb/libusb20.h 225659 2011-09-19 08:52:06Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008-2009 Hans Petter Selasky. All rights reserved.
  * Copyright (c) 2007-2008 Daniel Drake.  All rights reserved.

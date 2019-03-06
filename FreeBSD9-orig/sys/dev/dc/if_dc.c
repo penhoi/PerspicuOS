@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/dc/if_dc.c 227277 2011-11-06 21:09:10Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * DEC "tulip" clone ethernet driver. Supports the DEC/Intel 21143

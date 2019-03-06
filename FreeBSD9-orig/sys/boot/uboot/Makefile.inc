@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/uboot/Makefile.inc 209920 2010-07-12 00:49:22Z nwhitehorn $
+# $FreeBSD$
 
 .if ${MACHINE_ARCH} == "powerpc64"
 CFLAGS+=	-m32 -mcpu=powerpc

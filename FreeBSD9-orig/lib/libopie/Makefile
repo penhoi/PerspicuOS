@@ -1,6 +1,6 @@
 # Makefile for libopie
 #
-# $FreeBSD: release/9.0.0/lib/libopie/Makefile 225227 2011-08-28 09:26:48Z kib $
+# $FreeBSD$
 #
 OPIE_DIST?=	${.CURDIR}/../../contrib/opie
 DIST_DIR=	${OPIE_DIST}/${.CURDIR:T}

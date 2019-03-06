@@ -13,7 +13,7 @@
  * The functions in this file provide an interface for performing 
  * operations directly on RCS files. 
  *
- * $FreeBSD: release/9.0.0/contrib/cvs/src/rcscmds.c 175282 2008-01-13 06:20:11Z obrien $
+ * $FreeBSD$
  */
 
 #include "cvs.h"

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/i386/common/drv.h 213136 2010-09-24 19:49:12Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef _DRV_H_

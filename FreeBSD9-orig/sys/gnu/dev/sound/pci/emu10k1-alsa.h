@@ -23,7 +23,7 @@
  *
  */
 
-/* $FreeBSD: release/9.0.0/sys/gnu/dev/sound/pci/emu10k1-alsa.h 160382 2006-07-15 19:19:54Z netchild $ */
+/* $FreeBSD$ */
 
 #ifdef __KERNEL__
 

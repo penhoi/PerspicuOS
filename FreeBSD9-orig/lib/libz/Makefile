@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/lib/libz/Makefile 224196 2011-07-18 19:23:50Z delphij $
+# $FreeBSD$
 #
 
 LIB=		z

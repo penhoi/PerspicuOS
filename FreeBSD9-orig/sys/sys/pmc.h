@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/pmc.h 209196 2010-06-15 09:12:31Z fabient $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_PMC_H_

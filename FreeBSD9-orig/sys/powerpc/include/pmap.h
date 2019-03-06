@@ -26,7 +26,7 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/include/pmap.h 224746 2011-08-09 21:01:36Z kib $
+ * $FreeBSD$
  */
 /*-
  * Copyright (C) 1995, 1996 Wolfgang Solfrank.

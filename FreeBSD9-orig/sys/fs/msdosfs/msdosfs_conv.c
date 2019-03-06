@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/fs/msdosfs/msdosfs_conv.c 203827 2010-02-13 12:41:07Z kib $ */
+/* $FreeBSD$ */
 /*	$NetBSD: msdosfs_conv.c,v 1.25 1997/11/17 15:36:40 ws Exp $	*/
 
 /*-

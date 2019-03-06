@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/man/man9/Makefile 227712 2011-11-19 12:55:34Z marius $
+# $FreeBSD$
 
 MAN=	accept_filter.9 \
 	accf_data.9 \

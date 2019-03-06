@@ -34,7 +34,7 @@
  * tmpfs vnode interface for named pipes.
  */
 #include <sys/cdefs.h>
- __FBSDID("$FreeBSD: release/9.0.0/sys/fs/tmpfs/tmpfs_fifoops.c 182739 2008-09-03 18:53:48Z delphij $");
+ __FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/filedesc.h>

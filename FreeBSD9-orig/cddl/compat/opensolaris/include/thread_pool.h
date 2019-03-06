@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/cddl/compat/opensolaris/include/thread_pool.h 219089 2011-02-27 19:41:40Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef _OPENSOLARIS_THREAD_POOL_H_

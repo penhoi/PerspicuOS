@@ -25,7 +25,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-/* $FreeBSD: release/9.0.0/usr.sbin/bluetooth/btpand/sdp.h 187938 2009-01-30 22:23:21Z emax $ */
+/* $FreeBSD$ */
 
 #include <bluetooth.h>
 #include <sdp.h>

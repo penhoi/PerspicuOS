@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/lib/libc/gen/test-wordexp.c 198406 2009-10-23 14:50:11Z jilles $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/wait.h>
 

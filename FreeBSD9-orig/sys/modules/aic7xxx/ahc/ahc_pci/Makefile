@@ -1,5 +1,5 @@
 
-# $FreeBSD: release/9.0.0/sys/modules/aic7xxx/ahc/ahc_pci/Makefile 101131 2002-08-01 01:36:39Z scottl $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../../../dev/aic7xxx
 KMOD=	ahc_pci

@@ -56,7 +56,7 @@ static const char sccsid[] = "@(#)rbootd.c	8.1 (Berkeley) 6/4/93";
 #endif
 #endif /* not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/libexec/rbootd/rbootd.c 216583 2010-12-20 08:37:26Z charnier $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/time.h>

@@ -7,7 +7,7 @@
 **
 *******************************************************************/
 
-/* $FreeBSD: release/9.0.0/sys/boot/ficl/arm/sysdep.c 161454 2006-08-18 21:41:43Z imp $ */
+/* $FreeBSD$ */
 
 #ifdef TESTMAIN
 #include <stdio.h>

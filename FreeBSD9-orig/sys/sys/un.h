@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)un.h	8.3 (Berkeley) 2/19/95
- * $FreeBSD: release/9.0.0/sys/sys/un.h 183650 2008-10-06 18:43:11Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_UN_H_

@@ -30,7 +30,7 @@
  */
 
 #include <machine/asm.h>
-__FBSDID("$FreeBSD: release/9.0.0/libexec/rtld-elf/arm/rtld_start.S 203973 2010-02-16 21:49:36Z imp $");
+__FBSDID("$FreeBSD$");
 
 	.text
 	.align	0

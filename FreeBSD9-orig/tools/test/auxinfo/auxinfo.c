@@ -2,7 +2,7 @@
  * This file is in public domain.
  * Written by Konstantin Belousov <kib@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/tools/test/auxinfo/auxinfo.c 211418 2010-08-17 09:42:50Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/mman.h>

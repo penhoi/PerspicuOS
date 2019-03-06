@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ieee488/tnt4882.h 203360 2010-02-01 21:21:10Z joerg $
+ * $FreeBSD$
  */
 
 enum tnt4882reg {

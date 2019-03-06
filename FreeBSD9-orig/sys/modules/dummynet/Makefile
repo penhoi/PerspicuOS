@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dummynet/Makefile 206341 2010-04-07 13:02:20Z luigi $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

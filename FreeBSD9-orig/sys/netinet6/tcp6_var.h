@@ -56,7 +56,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)tcp_var.h	8.4 (Berkeley) 5/24/95
- * $FreeBSD: release/9.0.0/sys/netinet6/tcp6_var.h 195727 2009-07-16 21:13:04Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_TCP6_VAR_H_

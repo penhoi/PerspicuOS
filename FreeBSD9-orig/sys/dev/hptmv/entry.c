@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/hptmv/entry.c 209341 2010-06-19 13:42:14Z mav $
+ * $FreeBSD$
  */
  
 #include <sys/param.h>

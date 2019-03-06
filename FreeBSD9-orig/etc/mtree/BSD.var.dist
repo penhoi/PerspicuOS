@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/mtree/BSD.var.dist 219820 2011-03-21 09:58:24Z jeff $
+# $FreeBSD$
 #
 # Please see the file src/etc/mtree/README before making changes to this file.
 #

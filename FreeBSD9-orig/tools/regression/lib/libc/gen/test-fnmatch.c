@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/lib/libc/gen/test-fnmatch.c 207821 2010-05-09 16:15:40Z jilles $");
+__FBSDID("$FreeBSD$");
 
 #include <errno.h>
 #include <stdio.h>

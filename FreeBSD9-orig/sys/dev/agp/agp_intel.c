@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/agp/agp_intel.c 190169 2009-03-20 18:30:20Z rnoland $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bus.h"
 

@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net/netisr.c 222531 2011-05-31 15:11:43Z nwhitehorn $");
+__FBSDID("$FreeBSD$");
 
 /*
  * netisr is a packet dispatch service, allowing synchronous (directly

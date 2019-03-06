@@ -36,7 +36,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/arm/econa/econa_machdep.c 218666 2011-02-13 20:02:46Z cognet $");
+__FBSDID("$FreeBSD$");
 
 #define	_ARM32_BUS_DMA_PRIVATE
 #include <sys/param.h>

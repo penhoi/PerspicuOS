@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ufs/ufs/ufs_inode.c 223769 2011-07-04 20:52:23Z jeff $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_quota.h"
 #include "opt_ufs.h"

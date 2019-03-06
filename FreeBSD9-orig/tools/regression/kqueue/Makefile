@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/kqueue/Makefile 204585 2010-03-02 16:58:04Z uqs $
+# $FreeBSD$
 #
 # svn://mark.heily.com/libkqueue/trunk/test
 # Last update: r114

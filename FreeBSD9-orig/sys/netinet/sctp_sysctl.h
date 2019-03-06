@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_sysctl.h 224641 2011-08-03 20:21:00Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __sctp_sysctl_h__
 #define __sctp_sysctl_h__

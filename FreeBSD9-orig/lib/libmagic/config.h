@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libmagic/config.h 208341 2010-05-20 08:56:50Z marius $ */
+/* $FreeBSD$ */
 
 /* config.h.  Generated from config.h.in by configure.  */
 /* config.h.in.  Generated from configure.ac by autoheader.  */

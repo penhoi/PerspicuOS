@@ -1,7 +1,7 @@
 /*
  * Miscellaneous support routines..
  *
- * $FreeBSD: release/9.0.0/usr.sbin/sysinstall/misc.c 209359 2010-06-20 04:14:49Z randi $
+ * $FreeBSD$
  *
  * Copyright (c) 1995
  *	Jordan Hubbard.  All rights reserved.

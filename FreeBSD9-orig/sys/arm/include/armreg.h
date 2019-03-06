@@ -35,7 +35,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/armreg.h 204121 2010-02-20 14:52:07Z kevlo $
+ * $FreeBSD$
  */
 
 #ifndef MACHINE_ARMREG_H

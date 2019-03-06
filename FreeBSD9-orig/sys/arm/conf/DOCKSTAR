@@ -1,7 +1,7 @@
 #
 # Custom kernel for Seagate DockStar (Marvell SheevaPlug based) devices.
 #
-# $FreeBSD: release/9.0.0/sys/arm/conf/DOCKSTAR 224699 2011-08-07 20:16:46Z rmacklem $
+# $FreeBSD$
 #
 
 ident		DOCKSTAR

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/usb_dev.c 225617 2011-09-16 13:58:51Z kmacy $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2006-2008 Hans Petter Selasky. All rights reserved.
  *

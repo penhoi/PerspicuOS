@@ -29,7 +29,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_dtrace_declare.h 219397 2011-03-08 11:58:25Z rrs $");
+__FBSDID("$FreeBSD$");
 #ifndef __sctp_dtrace_declare_h__
 #include "opt_kdtrace.h"
 #include <sys/kernel.h>

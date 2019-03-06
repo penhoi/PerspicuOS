@@ -65,7 +65,7 @@
 #include <gnu/dev/sound/pci/maestro3_reg.h>
 #include <gnu/dev/sound/pci/maestro3_dsp.h>
 
-SND_DECLARE_FILE("$FreeBSD: release/9.0.0/sys/dev/sound/pci/maestro3.c 201758 2010-01-07 21:01:37Z mbr $");
+SND_DECLARE_FILE("$FreeBSD$");
 
 /* -------------------------------------------------------------------- */
 

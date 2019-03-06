@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/usr.sbin/usbconfig/dump.c 219048 2011-02-26 09:28:52Z hselasky $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
  *

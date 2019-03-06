@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/adjkerntz/Makefile 202532 2010-01-17 21:56:27Z ed $
+# $FreeBSD$
 
 PROG=   adjkerntz
 MAN=	adjkerntz.8

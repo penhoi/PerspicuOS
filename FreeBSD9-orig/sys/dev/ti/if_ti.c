@@ -77,7 +77,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ti/if_ti.c 219547 2011-03-11 22:32:17Z marius $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ti.h"
 

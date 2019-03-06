@@ -32,7 +32,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/en/midway.c 217556 2011-01-18 21:14:23Z mdf $");
+__FBSDID("$FreeBSD$");
 
 /*
  *

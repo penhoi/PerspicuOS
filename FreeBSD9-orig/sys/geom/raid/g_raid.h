@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/geom/raid/g_raid.h 219974 2011-03-24 21:31:32Z mav $
+ * $FreeBSD$
  */
 
 #ifndef	_G_RAID_H_

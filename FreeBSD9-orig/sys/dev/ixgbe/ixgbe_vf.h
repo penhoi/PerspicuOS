@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/ixgbe/ixgbe_vf.h 215911 2010-11-26 22:46:32Z jfv $*/
+/*$FreeBSD$*/
 
 #ifndef __IXGBE_VF_H__
 #define __IXGBE_VF_H__

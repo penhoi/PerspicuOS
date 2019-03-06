@@ -27,7 +27,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGES.
  *
- * $FreeBSD: release/9.0.0/sys/dev/mwl/mwlhal.c 216835 2010-12-31 09:50:15Z bschmidt $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

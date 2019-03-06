@@ -37,7 +37,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/i386/i386/mem.c 217515 2011-01-17 22:58:28Z jkim $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Memory special file

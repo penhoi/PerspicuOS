@@ -23,11 +23,11 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/csu/i386-elf/crt1_c.c 216338 2010-12-09 21:31:21Z dim $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/csu/i386-elf/crt1_c.c 216338 2010-12-09 21:31:21Z dim $");
+__FBSDID("$FreeBSD$");
 
 #ifndef lint
 #ifndef __GNUC__

@@ -27,7 +27,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_read_format_isojoliet_bz2.c 225167 2011-08-25 08:35:09Z mm $");
+__FBSDID("$FreeBSD$");
 
 /*
 Execute the following to rebuild the data for this program:

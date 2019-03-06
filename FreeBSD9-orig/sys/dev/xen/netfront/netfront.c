@@ -26,7 +26,7 @@
 
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/xen/netfront/netfront.c 225709 2011-09-21 00:15:29Z gibbs $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet.h"
 

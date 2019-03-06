@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/include/bootinfo.h 206381 2010-04-07 18:52:51Z rpaulo $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_BOOTINFO_H_

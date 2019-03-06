@@ -33,7 +33,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ffs_extern.h	8.3 (Berkeley) 4/16/94
- * $FreeBSD: release/9.0.0/sys/fs/ext2fs/ext2_extern.h 221166 2011-04-28 14:27:17Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _FS_EXT2FS_EXT2_EXTERN_H_

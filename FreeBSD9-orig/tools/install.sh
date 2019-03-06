@@ -26,7 +26,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 # THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/tools/install.sh 218940 2011-02-22 08:07:17Z uqs $
+# $FreeBSD$
 
 # parse install's options and ignore them completely.
 dirmode=""

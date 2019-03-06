@@ -33,7 +33,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libstand/mips/_setjmp.S 182290 2008-08-27 17:58:51Z obrien $
+ * $FreeBSD$
  */
 
 #include <machine/regnum.h>

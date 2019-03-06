@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/usr.sbin/acpi/acpidump/acpi.c 211278 2010-08-13 09:58:17Z takawata $
+ *	$FreeBSD$
  */
 
 #include <sys/param.h>

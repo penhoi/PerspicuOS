@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/periodic/weekly/Makefile 208320 2010-05-19 23:56:26Z jkim $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

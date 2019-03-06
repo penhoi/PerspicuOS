@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/contrib/bzip2/FREEBSD-Xlist 146297 2005-05-16 18:56:30Z obrien $
+# $FreeBSD$
 *README.XML.STUFF
 *bz-common.xsl
 *bz-fo.xsl

@@ -31,7 +31,7 @@
  * SUCH DAMAGE.
  *
  *	from: @(#)segments.h	7.1 (Berkeley) 5/9/91
- * $FreeBSD: release/9.0.0/sys/amd64/include/segments.h 227946 2011-11-24 18:44:14Z rstone $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_SEGMENTS_H_

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/fs/msdosfs/msdosfs_vfsops.c 222167 2011-05-22 01:07:54Z rmacklem $ */
+/* $FreeBSD$ */
 /*	$NetBSD: msdosfs_vfsops.c,v 1.51 1997/11/17 15:36:58 ws Exp $	*/
 
 /*-

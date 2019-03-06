@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libpmc/Makefile 218532 2011-02-11 02:34:26Z imp $
+# $FreeBSD$
 
 LIB=	pmc
 

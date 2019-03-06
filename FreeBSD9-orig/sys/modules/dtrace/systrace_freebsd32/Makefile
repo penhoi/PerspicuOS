@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dtrace/systrace_freebsd32/Makefile 219561 2011-03-12 09:09:25Z avg $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/dev/systrace
 

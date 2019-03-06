@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/secure/lib/libcrypto/Makefile.inc 216167 2010-12-03 23:07:45Z simon $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

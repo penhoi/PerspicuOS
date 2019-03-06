@@ -25,7 +25,7 @@
 # IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 # POSSIBILITY OF SUCH DAMAGE.
 
-# $FreeBSD: release/9.0.0/usr.sbin/portsnap/portsnap/portsnap.sh 226312 2011-10-12 17:57:57Z jilles $
+# $FreeBSD$
 
 #### Usage function -- called from command-line handling code.
 

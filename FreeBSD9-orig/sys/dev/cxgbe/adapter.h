@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgbe/adapter.h 222973 2011-06-11 04:50:54Z np $
+ * $FreeBSD$
  *
  */
 

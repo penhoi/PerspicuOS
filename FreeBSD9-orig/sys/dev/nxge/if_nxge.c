@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/nxge/if_nxge.c 207554 2010-05-03 07:32:50Z sobomax $
+ * $FreeBSD$
  */
 
 #include <dev/nxge/if_nxge.h>

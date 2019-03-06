@@ -28,7 +28,7 @@
  *
  * RMI_BSD */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/rmi/fmn.c 223562 2011-06-26 10:07:48Z kevlo $");
+__FBSDID("$FreeBSD$");
 #include <sys/types.h>
 #include <sys/systm.h>
 #include <sys/param.h>

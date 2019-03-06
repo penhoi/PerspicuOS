@@ -28,7 +28,7 @@
  * Freescale integrated Three-Speed Ethernet Controller (TSEC) driver.
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/tsec/if_tsec.c 213893 2010-10-15 14:52:11Z marius $");
+__FBSDID("$FreeBSD$");
 
 #ifdef HAVE_KERNEL_OPTION_HEADERS
 #include "opt_device_polling.h"

@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ddb/db_break.c 225214 2011-08-27 14:24:27Z rwatson $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

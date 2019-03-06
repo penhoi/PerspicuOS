@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sbin/mount_msdosfs/Makefile 198236 2009-10-19 16:00:24Z ru $
+# $FreeBSD$
 #
 
 PROG=	mount_msdosfs

@@ -1,6 +1,6 @@
 /*	$NetBSD: grep.h,v 1.5 2011/02/27 17:33:37 joerg Exp $	*/
 /*	$OpenBSD: grep.h,v 1.15 2010/04/05 03:03:55 tedu Exp $	*/
-/*	$FreeBSD: release/9.0.0/usr.bin/grep/grep.h 226261 2011-10-11 15:03:42Z gabor $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 1999 James Howard and Dag-Erling Coïdan Smørgrav

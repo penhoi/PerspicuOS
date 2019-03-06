@@ -30,7 +30,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/sysinstall/package.c 203690 2010-02-08 21:29:34Z brucec $
+ * $FreeBSD$
  */
 
 #include "sysinstall.h"

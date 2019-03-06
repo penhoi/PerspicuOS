@@ -25,7 +25,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/modules/snmp_hostres/Makefile 202206 2010-01-13 18:17:53Z ed $
+# $FreeBSD$
 #
 
 LPRSRC=	${.CURDIR}/../../../lpr/common_source

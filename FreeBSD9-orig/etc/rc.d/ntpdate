@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ntpdate 203200 2010-01-30 16:34:52Z ume $
+# $FreeBSD$
 #
 
 # PROVIDE: ntpdate

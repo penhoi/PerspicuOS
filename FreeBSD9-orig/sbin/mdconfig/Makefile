@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/mdconfig/Makefile 202784 2010-01-22 08:51:58Z jh $
+# $FreeBSD$
 
 PROG=		mdconfig
 MAN=		mdconfig.8

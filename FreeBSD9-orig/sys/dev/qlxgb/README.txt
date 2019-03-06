@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/dev/qlxgb/README.txt 227064 2011-11-03 21:20:22Z bz $
+# $FreeBSD$
 
 			README File
 	QLogic 3200 and 8200 series Single/Dual Port

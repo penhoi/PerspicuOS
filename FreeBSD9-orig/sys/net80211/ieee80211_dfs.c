@@ -25,7 +25,7 @@
 
 #include <sys/cdefs.h>
 #ifdef __FreeBSD__
-__FBSDID("$FreeBSD: release/9.0.0/sys/net80211/ieee80211_dfs.c 223583 2011-06-27 05:57:14Z adrian $");
+__FBSDID("$FreeBSD$");
 #endif
 
 /*

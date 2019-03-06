@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)unistd.h	8.12 (Berkeley) 4/27/95
- * $FreeBSD: release/9.0.0/include/unistd.h 228843 2011-12-23 15:00:37Z cperciva $
+ * $FreeBSD$
  */
 
 #ifndef _UNISTD_H_

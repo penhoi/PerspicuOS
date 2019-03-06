@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/net/bpf_zerocopy.h 180310 2008-07-05 20:11:28Z csjp $
+ * $FreeBSD$
  */
 
 #ifndef _NET_BPF_ZEROCOPY_H_

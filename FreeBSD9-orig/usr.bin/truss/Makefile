@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/truss/Makefile 211935 2010-08-28 15:04:53Z nwhitehorn $
+# $FreeBSD$
 
 NO_WERROR=
 PROG=	truss

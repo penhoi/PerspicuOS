@@ -23,7 +23,7 @@ THIS SOFTWARE.
 ****************************************************************/
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/contrib/one-true-awk/run.c 224731 2011-08-09 12:54:43Z ru $");
+__FBSDID("$FreeBSD$");
 
 #define DEBUG
 #include <stdio.h>

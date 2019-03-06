@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/bin/sh/builtins/command11.0 205154 2010-03-14 14:24:35Z jilles $
+# $FreeBSD$
 
 failures=0
 

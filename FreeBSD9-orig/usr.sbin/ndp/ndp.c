@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/usr.sbin/ndp/ndp.c 219819 2011-03-21 09:40:01Z jeff $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: ndp.c,v 1.104 2003/06/27 07:48:39 itojun Exp $	*/
 
 /*

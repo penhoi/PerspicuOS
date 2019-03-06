@@ -24,7 +24,7 @@
 # SUCH DAMAGE.
 #
 # from: src/sys/kern/bus_if.m,v 1.21 2002/04/21 11:16:10 markm Exp
-# $FreeBSD: release/9.0.0/sys/powerpc/powerpc/iommu_if.m 216154 2010-12-03 16:37:37Z nwhitehorn $
+# $FreeBSD$
 #
 
 #include <machine/bus.h>

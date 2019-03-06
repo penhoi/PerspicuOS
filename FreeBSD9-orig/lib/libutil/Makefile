@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/4/93
-#	$FreeBSD: release/9.0.0/lib/libutil/Makefile 221807 2011-05-12 10:11:39Z stas $
+#	$FreeBSD$
 
 SHLIBDIR?= /lib
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/csup/idcache.h 204556 2010-03-02 07:26:07Z lulf $
+ * $FreeBSD$
  */
 #ifndef _IDCACHE_H_
 #define _IDCACHE_H_

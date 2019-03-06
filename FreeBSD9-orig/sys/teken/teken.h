@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/teken/teken.h 221698 2011-05-09 16:27:39Z ed $
+ * $FreeBSD$
  */
 
 #ifndef _TEKEN_H_

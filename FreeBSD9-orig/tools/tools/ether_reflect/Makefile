@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/tools/tools/ether_reflect/Makefile 219524 2011-03-11 19:19:47Z brucec $
+# $FreeBSD$
 #
 # A Makefile that builds both the ether_reflect program and its manual page.
 

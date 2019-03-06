@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/kgssapi/Makefile 184588 2008-11-03 10:38:00Z dfr $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../kgssapi ${.CURDIR}/../../rpc/rpcsec_gss
 KMOD=	kgssapi

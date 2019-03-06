@@ -4,7 +4,7 @@
  *  Aug 1995, Godmar Back (gback@cs.utah.edu)
  *  University of Utah, Department of Computer Science
  *
- * $FreeBSD: release/9.0.0/sys/fs/ext2fs/ext2fs.h 221126 2011-04-27 18:15:34Z jhb $
+ * $FreeBSD$
  */
 /*-
  * Copyright (c) 2009 Aditya Sarawgi

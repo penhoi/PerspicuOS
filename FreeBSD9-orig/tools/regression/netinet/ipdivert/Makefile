@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/tools/regression/netinet/ipdivert/Makefile 222689 2011-06-04 16:25:12Z rwatson $
+# $FreeBSD$
 #
 
 PROG=	ipdivert

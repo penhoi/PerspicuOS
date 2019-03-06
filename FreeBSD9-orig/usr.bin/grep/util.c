@@ -1,5 +1,5 @@
 /*	$NetBSD: util.c,v 1.9 2011/02/27 17:33:37 joerg Exp $	*/
-/*	$FreeBSD: release/9.0.0/usr.bin/grep/util.c 228180 2011-12-01 13:53:33Z gabor $	*/
+/*	$FreeBSD$	*/
 /*	$OpenBSD: util.c,v 1.39 2010/07/02 22:18:03 tedu Exp $	*/
 
 /*-
@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/grep/util.c 228180 2011-12-01 13:53:33Z gabor $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/stat.h>
 #include <sys/types.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sbin/geom/class/virstor/Makefile 216472 2010-12-16 00:00:28Z obrien $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../misc ${.CURDIR}/../../../../sys/geom/virstor
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/osd.h 216615 2010-12-21 13:45:29Z lstewart $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_OSD_H_

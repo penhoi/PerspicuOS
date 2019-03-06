@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/sparc64/pci/fire.c 223960 2011-07-12 17:56:42Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for `Fire' JBus to PCI Express and `Oberon' Uranus to PCI Express

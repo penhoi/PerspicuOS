@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGES.
  *
- * $FreeBSD: release/9.0.0/tools/tools/ath/athrd/athrd.c 219398 2011-03-08 12:08:23Z adrian $
+ * $FreeBSD$
  */
 #include "opt_ah.h"
 

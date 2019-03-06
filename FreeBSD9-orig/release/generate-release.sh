@@ -17,7 +17,7 @@
 # 
 #  Note: Since this requires a chroot, release cross-builds will not work!
 #
-# $FreeBSD: release/9.0.0/release/generate-release.sh 223897 2011-07-09 23:01:54Z nwhitehorn $
+# $FreeBSD$
 #
 
 mkdir -p $2/usr/src

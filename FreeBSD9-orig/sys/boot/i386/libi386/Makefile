@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/i386/libi386/Makefile 227400 2011-11-09 18:26:19Z jhb $
+# $FreeBSD$
 #
 LIB=			i386
 INTERNALLIB=

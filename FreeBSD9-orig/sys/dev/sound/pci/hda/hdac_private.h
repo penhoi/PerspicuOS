@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sound/pci/hda/hdac_private.h 202127 2010-01-11 22:57:52Z mav $
+ * $FreeBSD$
  */
 
 #ifndef _HDAC_PRIVATE_H_

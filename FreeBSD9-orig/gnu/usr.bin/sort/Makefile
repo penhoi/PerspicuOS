@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/sort/Makefile 172595 2007-10-12 18:15:40Z obrien $
+# $FreeBSD$
 
 SORTDIR= ${.CURDIR}/../../../contrib/gnu-sort
 .PATH: ${SORTDIR}/lib ${SORTDIR}/src ${SORTDIR}/man

@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/vge/if_vge.c 225440 2011-09-07 16:57:43Z yongari $");
+__FBSDID("$FreeBSD$");
 
 /*
  * VIA Networking Technologies VT612x PCI gigabit ethernet NIC driver.

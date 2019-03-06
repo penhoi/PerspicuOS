@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/dpt/dpt_scsi.c 201807 2010-01-08 17:20:41Z trasz $");
+__FBSDID("$FreeBSD$");
 
 /*
  * dpt_scsi.c: SCSI dependant code for the DPT driver

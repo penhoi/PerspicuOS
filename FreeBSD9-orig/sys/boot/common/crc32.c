@@ -43,7 +43,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/common/crc32.c 213136 2010-09-24 19:49:12Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 

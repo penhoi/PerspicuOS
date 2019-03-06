@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/pdq/if_fpa.c 199542 2009-11-19 19:25:47Z jhb $");
+__FBSDID("$FreeBSD$");
 
 /*
  * DEC PDQ FDDI Controller; code for BSD derived operating systems

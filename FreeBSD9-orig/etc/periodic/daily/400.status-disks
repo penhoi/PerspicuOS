@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/periodic/daily/400.status-disks 197552 2009-09-28 03:32:35Z cperciva $
+# $FreeBSD$
 #
 
 # If there is a global system configuration file, suck it in.

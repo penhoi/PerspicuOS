@@ -1,7 +1,7 @@
 /* include/config.h.  Generated from config.h.in by configure.  */
 /* include/config.h.in.  Generated from configure.in by autoheader.  */
 
-/* $FreeBSD: release/9.0.0/kerberos5/include/config.h 194272 2009-06-15 23:03:38Z delphij $ */
+/* $FreeBSD$ */
 
 #include <osreldate.h>
 

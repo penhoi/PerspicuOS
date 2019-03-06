@@ -40,7 +40,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/make/job.c 202070 2010-01-11 09:16:42Z harti $");
+__FBSDID("$FreeBSD$");
 
 /*-
  * job.c --

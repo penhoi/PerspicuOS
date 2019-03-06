@@ -1,4 +1,4 @@
-/*      $FreeBSD: release/9.0.0/sys/dev/ipw/if_ipwvar.h 206767 2010-04-17 18:18:46Z bschmidt $	*/
+/*      $FreeBSD$	*/
 
 /*-
  * Copyright (c) 2004-2006

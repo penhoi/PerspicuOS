@@ -41,7 +41,7 @@ static char sccsid[] = "@(#)lpc.c	8.3 (Berkeley) 4/28/95";
 #endif
 
 #include "lp.cdefs.h"		/* A cross-platform version of <sys/cdefs.h> */
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/lpr/lpc/lpc.c 216372 2010-12-11 09:38:12Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/inttypes.h 205954 2010-03-31 02:12:24Z jmallett $
+ * $FreeBSD$
  */
 
 #ifndef _INTTYPES_H_

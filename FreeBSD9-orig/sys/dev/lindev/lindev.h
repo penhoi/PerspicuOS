@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/lindev/lindev.h 197518 2009-09-26 12:45:28Z bz $
+ * $FreeBSD$
  */
 
 #ifndef	_DEV_LINDEV_LINDEV_H

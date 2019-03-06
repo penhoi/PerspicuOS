@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libarchive/Makefile 224152 2011-07-17 21:27:38Z mm $
+# $FreeBSD$
 .include <bsd.own.mk>
 
 LIB=	archive

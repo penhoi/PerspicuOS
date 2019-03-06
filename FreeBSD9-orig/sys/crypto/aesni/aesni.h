@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/crypto/aesni/aesni.h 213069 2010-09-23 11:57:25Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef _AESNI_H_

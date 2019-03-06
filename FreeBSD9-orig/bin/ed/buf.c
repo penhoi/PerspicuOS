@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/bin/ed/buf.c 225215 2011-08-27 15:28:57Z brueffer $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/file.h>
 #include <sys/stat.h>

@@ -25,7 +25,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/syscons/snake/snake_saver.c 204249 2010-02-23 15:27:07Z ivoras $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

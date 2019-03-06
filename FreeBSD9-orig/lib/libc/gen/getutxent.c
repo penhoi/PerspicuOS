@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/gen/getutxent.c 218846 2011-02-19 11:31:56Z ed $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <sys/endian.h>

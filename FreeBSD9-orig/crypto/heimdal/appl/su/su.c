@@ -31,7 +31,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. */
 
 /*
- * $FreeBSD: release/9.0.0/crypto/heimdal/appl/su/su.c 178828 2008-05-07 13:53:12Z dfr $
+ * $FreeBSD$
  */
 
 #include <config.h>

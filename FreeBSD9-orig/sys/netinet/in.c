@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/in.c 227002 2011-11-01 18:29:06Z qingli $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_mpath.h"
 

@@ -19,7 +19,7 @@ along with GCC; see the file COPYING.  If not, write to
 the Free Software Foundation, 51 Franklin Street, Fifth Floor,
 Boston, MA 02110-1301, USA.  */
 
-/* $FreeBSD: release/9.0.0/contrib/gcc/config/mips/freebsd.h 208737 2010-06-02 11:06:03Z jmallett $ */
+/* $FreeBSD$ */
 
 /* This defines which switch letters take arguments.  -G is a MIPS
    special.  */

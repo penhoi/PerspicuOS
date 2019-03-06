@@ -39,7 +39,7 @@
  * Authors: Archie Cobbs <archie@freebsd.org>
  *	    Julian Elischer <julian@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_ether.c 224307 2011-07-25 09:12:48Z avg $
+ * $FreeBSD$
  */
 
 /*

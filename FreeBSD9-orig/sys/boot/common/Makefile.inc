@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/common/Makefile.inc 223695 2011-06-30 16:08:56Z dfr $
+# $FreeBSD$
 
 SRCS+=	boot.c commands.c console.c devopen.c disk.c interp.c 
 SRCS+=	interp_backslash.c interp_parse.c ls.c misc.c 

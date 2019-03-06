@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/bwn/if_bwn.c 226387 2011-10-15 12:33:24Z brueffer $");
+__FBSDID("$FreeBSD$");
 
 /*
  * The Broadcom Wireless LAN controller driver.

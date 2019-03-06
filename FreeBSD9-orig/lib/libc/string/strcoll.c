@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strcoll.c 188080 2009-02-03 17:58:20Z danger $");
+__FBSDID("$FreeBSD$");
 
 #include <stdlib.h>
 #include <string.h>

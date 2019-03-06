@@ -36,7 +36,7 @@
 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/rpc/rpcsec_gss/rpcsec_gss_prot.c 201853 2010-01-08 23:26:10Z brooks $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/systm.h>

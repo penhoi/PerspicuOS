@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_cons.c 211102 2010-08-09 14:48:31Z gavin $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

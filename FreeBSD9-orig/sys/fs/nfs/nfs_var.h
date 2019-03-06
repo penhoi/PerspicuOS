@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nfs/nfs_var.h 224078 2011-07-16 08:05:17Z zack $
+ * $FreeBSD$
  */
 
 /*

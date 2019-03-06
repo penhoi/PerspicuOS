@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/uboot/lib/devicename.c 191829 2009-05-05 16:29:08Z raj $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/disklabel.h>
 

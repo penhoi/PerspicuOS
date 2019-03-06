@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/i386/boot2/Makefile 224131 2011-07-17 13:50:21Z dim $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

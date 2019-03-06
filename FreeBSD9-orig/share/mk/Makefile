@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/mk/Makefile 215412 2010-11-16 22:22:16Z adrian $
+# $FreeBSD$
 #	@(#)Makefile	8.1 (Berkeley) 6/8/93
 
 FILES=	bsd.README

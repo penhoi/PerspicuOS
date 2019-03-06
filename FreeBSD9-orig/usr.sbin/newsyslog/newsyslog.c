@@ -54,7 +54,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/newsyslog/newsyslog.c 221873 2011-05-14 03:00:55Z sobomax $");
+__FBSDID("$FreeBSD$");
 
 #define	OSF
 

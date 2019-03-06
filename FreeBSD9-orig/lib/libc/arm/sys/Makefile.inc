@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libc/arm/sys/Makefile.inc 184789 2008-11-09 10:45:13Z ed $
+# $FreeBSD$
 
 MDASM= Ovfork.S brk.S cerror.S pipe.S ptrace.S sbrk.S shmat.S sigreturn.S syscall.S
 

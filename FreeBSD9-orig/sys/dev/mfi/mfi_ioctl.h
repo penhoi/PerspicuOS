@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mfi/mfi_ioctl.h 196200 2009-08-13 23:18:45Z scottl $");
+__FBSDID("$FreeBSD$");
 
 #include <dev/mfi/mfireg.h>
 

@@ -34,7 +34,7 @@
  *
  * From:
  *	$Id: procfs_ctl.c,v 1.51 2003/12/07 17:40:00 des Exp $
- * $FreeBSD: release/9.0.0/sys/fs/procfs/procfs_ctl.c 225617 2011-09-16 13:58:51Z kmacy $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

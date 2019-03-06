@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/zfs 195938 2009-07-29 05:23:52Z pjd $
+# $FreeBSD$
 #
 
 # PROVIDE: zfs

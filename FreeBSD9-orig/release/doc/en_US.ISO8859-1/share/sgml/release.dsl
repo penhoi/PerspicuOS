@@ -1,4 +1,4 @@
-<!-- $FreeBSD: release/9.0.0/release/doc/en_US.ISO8859-1/share/sgml/release.dsl 229044 2011-12-30 22:50:16Z hrs $ -->
+<!-- $FreeBSD$ -->
 
 <!DOCTYPE style-sheet PUBLIC "-//James Clark//DTD DSSSL Style Sheet//EN" [
 <!ENTITY release.dsl PUBLIC "-//FreeBSD//DOCUMENT Release Notes DocBook Language Neutral Stylesheet//EN" CDATA DSSSL>

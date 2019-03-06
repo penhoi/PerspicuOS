@@ -30,7 +30,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/bge/if_bgereg.h 221818 2011-05-12 17:15:57Z yongari $
+ * $FreeBSD$
  */
 
 /*

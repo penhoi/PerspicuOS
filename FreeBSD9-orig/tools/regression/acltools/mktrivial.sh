@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/tools/regression/acltools/mktrivial.sh 213169 2010-09-25 14:33:35Z trasz $
+# $FreeBSD$
 #
 
 # This shell script generates an input file for the "run" script, used

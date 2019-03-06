@@ -20,7 +20,7 @@
  *
  * Portions Copyright 2010 The FreeBSD Foundation
  *
- * $FreeBSD: release/9.0.0/sys/cddl/contrib/opensolaris/uts/common/dtrace/fasttrap.c 212494 2010-09-12 14:12:16Z rpaulo $
+ * $FreeBSD$
  */
 
 /*

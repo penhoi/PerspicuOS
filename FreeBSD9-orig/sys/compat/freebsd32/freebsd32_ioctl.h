@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/compat/freebsd32/freebsd32_ioctl.h 220280 2011-04-02 15:47:23Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _COMPAT_FREEBSD32_IOCTL_H_

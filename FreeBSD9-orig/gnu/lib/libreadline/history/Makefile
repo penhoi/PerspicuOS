@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/libreadline/history/Makefile 211243 2010-08-12 20:46:49Z will $
+# $FreeBSD$
 
 SUBDIR= doc
 

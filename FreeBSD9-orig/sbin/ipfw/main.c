@@ -17,7 +17,7 @@
  *
  * Command line interface for IP firewall facility
  *
- * $FreeBSD: release/9.0.0/sbin/ipfw/main.c 223661 2011-06-29 06:45:44Z ae $
+ * $FreeBSD$
  */
 
 #include <sys/wait.h>

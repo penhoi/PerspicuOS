@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  * 
- * $FreeBSD: release/9.0.0/sys/dev/firewire/if_fwe.c 193096 2009-05-30 15:14:44Z attilio $
+ * $FreeBSD$
  */
 
 #ifdef HAVE_KERNEL_OPTION_HEADERS

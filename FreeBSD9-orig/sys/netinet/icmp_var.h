@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)icmp_var.h	8.1 (Berkeley) 6/10/93
- * $FreeBSD: release/9.0.0/sys/netinet/icmp_var.h 196039 2009-08-02 19:43:32Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _NETINET_ICMP_VAR_H_

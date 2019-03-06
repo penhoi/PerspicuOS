@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/x86bios/Makefile 211058 2010-08-08 06:18:05Z jkim $
+# $FreeBSD$
 
 KMOD=	x86bios
 SRCS=	opt_x86bios.h

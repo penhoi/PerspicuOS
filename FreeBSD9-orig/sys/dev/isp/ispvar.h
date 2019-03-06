@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/isp/ispvar.h 224856 2011-08-13 23:34:17Z mjacob $ */
+/* $FreeBSD$ */
 /*-
  *  Copyright (c) 1997-2009 by Matthew Jacob
  *  All rights reserved.

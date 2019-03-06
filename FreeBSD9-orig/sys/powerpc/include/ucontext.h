@@ -29,7 +29,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  * $NetBSD: signal.h,v 1.4 1998/09/14 02:48:34 thorpej Exp $
- * $FreeBSD: release/9.0.0/sys/powerpc/include/ucontext.h 209975 2010-07-13 05:32:19Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_UCONTEXT_H_

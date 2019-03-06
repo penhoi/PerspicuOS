@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ipmon 210734 2010-08-01 15:41:00Z jilles $
+# $FreeBSD$
 #
 
 # PROVIDE: ipmon

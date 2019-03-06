@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ufsmount.h	8.6 (Berkeley) 3/30/95
- * $FreeBSD: release/9.0.0/sys/ufs/ufs/ufsmount.h 224061 2011-07-15 16:20:33Z mckusick $
+ * $FreeBSD$
  */
 
 #ifndef _UFS_UFS_UFSMOUNT_H_

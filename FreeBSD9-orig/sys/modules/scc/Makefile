@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/scc/Makefile 212523 2010-09-13 02:05:42Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/scc
 

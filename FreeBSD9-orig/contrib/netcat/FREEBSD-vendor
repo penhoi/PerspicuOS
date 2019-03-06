@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/contrib/netcat/FREEBSD-vendor 205570 2010-03-23 23:56:22Z delphij $
+# $FreeBSD$
 Project:	netcat (aka src/usr.bin/nc in OpenBSD)
 ProjectURL:	http://www.openbsd.org/
 Version:	4.7

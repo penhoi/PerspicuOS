@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/safe/safe.c 223026 2011-06-12 23:33:08Z delphij $");
+__FBSDID("$FreeBSD$");
 
 /*
  * SafeNet SafeXcel-1141 hardware crypto accelerator

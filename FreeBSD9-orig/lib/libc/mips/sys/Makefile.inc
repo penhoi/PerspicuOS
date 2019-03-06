@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libc/mips/sys/Makefile.inc 209233 2010-06-16 14:13:36Z jchandra $
+# $FreeBSD$
 
 MDASM=  Ovfork.S brk.S cerror.S exect.S \
 	fork.S pipe.S ptrace.S sbrk.S syscall.S

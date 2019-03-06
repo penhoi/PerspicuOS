@@ -22,7 +22,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/drm/drm_vm.c 207066 2010-04-22 18:21:25Z rnoland $");
+__FBSDID("$FreeBSD$");
 
 /** @file drm_vm.c
  * Support code for mmaping of DRM maps.

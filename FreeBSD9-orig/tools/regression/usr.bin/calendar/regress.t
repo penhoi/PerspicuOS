@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/calendar/regress.t 170231 2007-06-03 03:29:32Z grog $
+# $FreeBSD$
 
 cd `dirname $0`
 

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/hwpmc/hwpmc_mips24k.h 204635 2010-03-03 15:05:58Z gnn $
+ * $FreeBSD$
  */
 
 #ifndef _DEV_HWPMC_MIPS24K_H_

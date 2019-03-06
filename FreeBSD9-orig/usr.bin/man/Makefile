@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/man/Makefile 213317 2010-10-01 03:59:18Z gordon $
+# $FreeBSD$
 
 SCRIPTS= man.sh
 LINKS=	${BINDIR}/man ${BINDIR}/apropos \

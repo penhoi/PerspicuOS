@@ -1,7 +1,7 @@
 /*
  * Birthday
  *
- * $FreeBSD: release/9.0.0/usr.bin/calendar/calendars/calendar.birthday 227146 2011-11-06 07:50:25Z dougb $
+ * $FreeBSD$
  */
  
 #ifndef _calendar_birthday_

@@ -29,7 +29,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sf/if_sfreg.h 175526 2008-01-21 06:38:23Z yongari $
+ * $FreeBSD$
  */
 
 /*

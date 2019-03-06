@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/doc/legal/intel_iwn/Makefile 208588 2010-05-27 08:21:52Z rpaulo $
+# $FreeBSD$
 
 NO_OBJ=
 FILES=		${.CURDIR}/../../../../sys/contrib/dev/iwn/LICENSE

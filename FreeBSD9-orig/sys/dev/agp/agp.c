@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/agp/agp.c 219902 2011-03-23 13:10:15Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_agp.h"
 #include "opt_bus.h"

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/thread/thr_pspinlock.c 172694 2007-10-16 07:36:02Z davidxu $
+ * $FreeBSD$
  */
 
 #include "namespace.h"

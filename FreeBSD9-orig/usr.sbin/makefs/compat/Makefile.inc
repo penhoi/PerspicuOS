@@ -1,4 +1,4 @@
-#	$FreeBSD: release/9.0.0/usr.sbin/makefs/compat/Makefile.inc 214921 2010-11-07 16:05:04Z cognet $
+#	$FreeBSD$
 #
 
 .PATH:	${.CURDIR}/compat

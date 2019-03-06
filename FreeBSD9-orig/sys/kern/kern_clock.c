@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_clock.c 225799 2011-09-27 15:08:59Z mav $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kdb.h"
 #include "opt_device_polling.h"

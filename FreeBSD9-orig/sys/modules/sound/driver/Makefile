@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/sound/driver/Makefile 211690 2010-08-23 06:13:29Z imp $
+# $FreeBSD$
 
 SUBDIR=		ad1816 als4000 atiixp cs4281 csa ds1 emu10k1 emu10kx
 SUBDIR+=	envy24 envy24ht es137x ess fm801 hda ich maestro maestro3

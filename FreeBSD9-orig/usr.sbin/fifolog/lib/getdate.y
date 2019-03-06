@@ -12,7 +12,7 @@
 **  Picked up from CVS and slightly cleaned up by to WARNS=5 level by
 **  Poul-Henning Kamp <phk@FreeBSD.org>
 **
-** $FreeBSD: release/9.0.0/usr.sbin/fifolog/lib/getdate.y 201227 2009-12-29 22:53:27Z ed $
+** $FreeBSD$
 */
 
 #include <stdio.h>

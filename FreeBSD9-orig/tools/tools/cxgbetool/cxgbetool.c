@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/tools/cxgbetool/cxgbetool.c 222974 2011-06-11 04:55:15Z np $");
+__FBSDID("$FreeBSD$");
 
 #include <stdint.h>
 #include <stdlib.h>

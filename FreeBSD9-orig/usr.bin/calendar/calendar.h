@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/calendar/calendar.h 218797 2011-02-18 13:41:45Z osa $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

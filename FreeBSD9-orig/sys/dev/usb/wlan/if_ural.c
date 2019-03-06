@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_ural.c 223486 2011-06-24 02:30:02Z hselasky $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2005, 2006
@@ -21,7 +21,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_ural.c 223486 2011-06-24 02:30:02Z hselasky $");
+__FBSDID("$FreeBSD$");
 
 /*-
  * Ralink Technology RT2500USB chipset driver

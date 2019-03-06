@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/i386/isa/npx.c 216394 2010-12-12 16:16:39Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_cpu.h"
 #include "opt_isa.h"

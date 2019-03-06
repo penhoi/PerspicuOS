@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nwfs/nwfs_vnops.c 215052 2010-11-09 20:41:10Z jhb $
+ * $FreeBSD$
  */
 #include <sys/param.h>
 #include <sys/systm.h>

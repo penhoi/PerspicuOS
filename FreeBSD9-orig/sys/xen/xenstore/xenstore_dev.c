@@ -31,7 +31,7 @@
 
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/xen/xenstore/xenstore_dev.c 214077 2010-10-19 20:53:30Z gibbs $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/cdefs.h>

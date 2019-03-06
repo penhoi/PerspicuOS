@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/route.c 191316 2009-04-20 14:38:48Z bz $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

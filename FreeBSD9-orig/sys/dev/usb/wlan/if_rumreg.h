@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_rumreg.h 196970 2009-09-08 13:19:05Z phk $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2005, 2006 Damien Bergamini <damien.bergamini@free.fr>

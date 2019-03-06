@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libc/powerpc/gen/Makefile.inc 143658 2005-03-15 15:53:39Z das $
+# $FreeBSD$
 
 SRCS += _ctx_start.S fabs.S flt_rounds.c fpgetmask.c fpgetround.c \
 	fpgetsticky.c fpsetmask.c fpsetround.c \

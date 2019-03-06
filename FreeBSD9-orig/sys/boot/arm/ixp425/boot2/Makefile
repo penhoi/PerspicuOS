@@ -1,4 +1,4 @@
-#  $FreeBSD: release/9.0.0/sys/boot/arm/ixp425/boot2/Makefile 211725 2010-08-23 22:24:11Z imp $
+#  $FreeBSD$
 
 # We get a lot of the std lib functions from here.
 .PATH: ${.CURDIR}/../../at91/libat91

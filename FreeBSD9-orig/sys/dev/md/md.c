@@ -6,7 +6,7 @@
  * this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp
  * ----------------------------------------------------------------------------
  *
- * $FreeBSD: release/9.0.0/sys/dev/md/md.c 223920 2011-07-11 05:19:28Z ae $
+ * $FreeBSD$
  *
  */
 

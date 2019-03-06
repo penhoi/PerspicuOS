@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/kern.post.mk 222229 2011-05-23 21:32:45Z imp $
+# $FreeBSD$
 
 # Part of a unified Makefile for building kernels.  This part includes all
 # the definitions that need to be after all the % directives except %RULES

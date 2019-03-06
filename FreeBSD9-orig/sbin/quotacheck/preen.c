@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/quotacheck/preen.c 207736 2010-05-07 00:41:12Z mckusick $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

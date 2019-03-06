@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libgeom/geom_xml2tree.c 213451 2010-10-05 15:27:44Z emaste $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

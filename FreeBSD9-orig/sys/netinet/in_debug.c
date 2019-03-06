@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/in_debug.c 226572 2011-10-20 15:58:05Z glebius $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

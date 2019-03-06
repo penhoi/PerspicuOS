@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/libkern/strnlen.c 226229 2011-10-10 19:07:55Z jkim $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/libkern.h>
 

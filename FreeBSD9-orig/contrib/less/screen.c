@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/contrib/less/screen.c 221715 2011-05-09 21:51:59Z delphij $ */
+/* $FreeBSD$ */
 /*
  * Copyright (C) 1984-2011  Mark Nudelman
  *

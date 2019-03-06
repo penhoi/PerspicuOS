@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/cpio/test/test_option_lzma.c 224154 2011-07-17 21:42:22Z mm $");
+__FBSDID("$FreeBSD$");
 
 DEFINE_TEST(test_option_lzma)
 {

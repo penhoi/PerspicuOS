@@ -27,7 +27,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/mips/busdma_machdep.c 212284 2010-09-07 06:02:43Z jchandra $");
+__FBSDID("$FreeBSD$");
 
 /*
  * MIPS bus dma support routines

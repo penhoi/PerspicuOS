@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/libdialog/Makefile 224014 2011-07-14 14:01:36Z nwhitehorn $
+# $FreeBSD$
 
 DIALOG=		${.CURDIR}/../../../contrib/dialog
 

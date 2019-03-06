@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/clang/clang/Makefile 226409 2011-10-15 23:13:24Z dim $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

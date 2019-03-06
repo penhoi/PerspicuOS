@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	from: FreeBSD: src/sys/i386/include/md_var.h,v 1.40 2001/07/12
- * $FreeBSD: release/9.0.0/sys/arm/include/md_var.h 207954 2010-05-12 05:50:56Z kevlo $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_MD_VAR_H_

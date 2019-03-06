@@ -22,7 +22,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/cpio/test/test.h 224154 2011-07-17 21:42:22Z mm $
+ * $FreeBSD$
  */
 
 /* Every test program should #include "test.h" as the first thing. */

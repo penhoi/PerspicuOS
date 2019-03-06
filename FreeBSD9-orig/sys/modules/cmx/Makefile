@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/cmx/Makefile 176868 2008-03-06 08:09:45Z rink $
+# $FreeBSD$
 #
 MAINTAINER=	daniel@roe.ch
 

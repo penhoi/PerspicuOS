@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/regression/netinet/udpzerobyte/udpzerobyte.c 183676 2008-10-07 21:01:23Z rwatson $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

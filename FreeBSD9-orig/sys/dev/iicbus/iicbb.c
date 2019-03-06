@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/iicbus/iicbb.c 188461 2009-02-10 22:50:23Z imp $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Generic I2C bit-banging code

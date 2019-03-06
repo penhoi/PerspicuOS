@@ -36,7 +36,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_mib.c 224159 2011-07-17 23:05:24Z rwatson $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 #include "opt_posix.h"

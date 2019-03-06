@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/aim/interrupt.c 222614 2011-06-02 14:15:44Z nwhitehorn $
+ * $FreeBSD$
  */
 
 /*

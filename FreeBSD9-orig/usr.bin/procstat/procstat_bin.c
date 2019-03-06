@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/procstat/procstat_bin.c 221807 2011-05-12 10:11:39Z stas $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

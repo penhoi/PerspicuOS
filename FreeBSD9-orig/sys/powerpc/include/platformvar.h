@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/include/platformvar.h 192067 2009-05-14 00:34:26Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_PLATFORMVAR_H_

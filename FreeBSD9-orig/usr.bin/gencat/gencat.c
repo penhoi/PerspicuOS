@@ -65,7 +65,7 @@ up-to-date.  Many thanks.
 ******************************************************************/
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/gencat/gencat.c 203971 2010-02-16 21:43:57Z imp $");
+__FBSDID("$FreeBSD$");
 
 #define _NLS_PRIVATE
 

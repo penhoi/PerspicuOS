@@ -37,7 +37,7 @@
 #include "opt_inet6.h"
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/contrib/pf/net/pf_if.c 223637 2011-06-28 11:57:25Z bz $");
+__FBSDID("$FreeBSD$");
 #endif
 
 #include <sys/param.h>

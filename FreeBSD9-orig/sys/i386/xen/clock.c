@@ -37,7 +37,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/i386/xen/clock.c 221835 2011-05-13 12:39:37Z mav $");
+__FBSDID("$FreeBSD$");
 
 /* #define DELAYDEBUG */
 /*

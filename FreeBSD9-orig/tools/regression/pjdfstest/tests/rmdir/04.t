@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/rmdir/04.t 166065 2007-01-17 01:42:12Z pjd $
+# $FreeBSD$
 
 desc="rmdir returns ENOENT if the named directory does not exist"
 

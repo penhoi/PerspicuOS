@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/powerd/Makefile 203482 2010-02-04 07:26:26Z imp $
+# $FreeBSD$
 
 PROG=	powerd
 MAN=	powerd.8

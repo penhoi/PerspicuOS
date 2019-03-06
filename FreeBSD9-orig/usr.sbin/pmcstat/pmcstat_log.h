@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/pmcstat/pmcstat_log.h 212176 2010-09-03 13:54:02Z fabient $
+ * $FreeBSD$
  */
 
 #ifndef	_PMCSTAT_LOG_H_

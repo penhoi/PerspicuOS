@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/include/libc_private.h 228843 2011-12-23 15:00:37Z cperciva $
+ * $FreeBSD$
  *
  * Private definitions for libc, libc_r and libpthread.
  *

@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/lib/libsbuf/Symbol.map 222033 2011-05-17 17:37:58Z phk $
+ * $FreeBSD$
  */
 
 FBSD_1.2 {

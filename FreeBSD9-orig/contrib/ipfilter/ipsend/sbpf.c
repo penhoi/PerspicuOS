@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/contrib/ipfilter/ipsend/sbpf.c 204925 2010-03-09 20:58:15Z ed $ */
+/* $FreeBSD$ */
 /*
  * (C)opyright 1995-1998 Darren Reed. (from tcplog)
  *

@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sound/pcm/mixer.h 193979 2009-06-11 09:06:09Z ariff $
+ * $FreeBSD$
  */
 
 struct snd_mixer *mixer_create(device_t dev, kobj_class_t cls, void *devinfo,

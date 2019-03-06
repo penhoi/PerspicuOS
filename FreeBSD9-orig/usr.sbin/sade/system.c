@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/usr.sbin/sade/system.c 178946 2008-05-11 17:23:57Z obrien $
+ * $FreeBSD$
  *
  * Jordan Hubbard
  *

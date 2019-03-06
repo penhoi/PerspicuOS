@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/secure/usr.bin/sftp/Makefile 197679 2009-10-01 17:12:52Z des $
+# $FreeBSD$
 
 PROG=	sftp
 SRCS=   sftp.c sftp-client.c sftp-common.c sftp-glob.c progressmeter.c

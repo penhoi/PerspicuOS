@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/csu/powerpc64/Makefile 223599 2011-06-27 16:24:36Z nwhitehorn $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../common
 

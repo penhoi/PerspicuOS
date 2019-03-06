@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/acpica/acpi_wakecode.S 215200 2010-11-12 20:55:14Z jkim $
+ * $FreeBSD$
  */
 
 #include <machine/asmacros.h>

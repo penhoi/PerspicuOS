@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/boot/ia64/ski/libski.h 219691 2011-03-16 03:53:18Z marcel $
+ * $FreeBSD$
  */
 
 #define	MAXDEV	31	/* maximum number of distinct devices */

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/rtadvctl/Makefile 224144 2011-07-17 19:24:54Z hrs $
+# $FreeBSD$
 #
 .PATH:	${.CURDIR}/../rtadvd
 

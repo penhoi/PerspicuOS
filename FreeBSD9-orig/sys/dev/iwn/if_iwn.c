@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/iwn/if_iwn.c 227968 2011-11-25 12:20:14Z bschmidt $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/sockio.h>

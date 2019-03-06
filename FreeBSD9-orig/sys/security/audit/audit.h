@@ -26,7 +26,7 @@
  * IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/audit/audit.h 224181 2011-07-18 12:58:18Z jonathan $
+ * $FreeBSD$
  */
 
 /*

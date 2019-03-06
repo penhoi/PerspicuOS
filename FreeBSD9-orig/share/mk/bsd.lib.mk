@@ -1,5 +1,5 @@
 #	from: @(#)bsd.lib.mk	5.26 (Berkeley) 5/2/91
-# $FreeBSD: release/9.0.0/share/mk/bsd.lib.mk 220863 2011-04-19 18:09:21Z dim $
+# $FreeBSD$
 #
 
 .include <bsd.init.mk>

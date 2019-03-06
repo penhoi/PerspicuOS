@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/sysent.h 225617 2011-09-16 13:58:51Z kmacy $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_SYSENT_H_

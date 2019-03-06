@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_fork.c 226092 2011-10-07 06:46:46Z trasz $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kdtrace.h"
 #include "opt_ktrace.h"

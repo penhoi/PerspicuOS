@@ -3,7 +3,7 @@
  * For conditions of distribution and use, see copyright notice in zlib.h
  */
 
-/* $FreeBSD: release/9.0.0/lib/libz/gzlib.c 206924 2010-04-20 21:14:30Z delphij $ */
+/* $FreeBSD$ */
 
 #include "gzguts.h"
 #include "zutil.h"

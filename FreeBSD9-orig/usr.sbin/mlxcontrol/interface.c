@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/usr.sbin/mlxcontrol/interface.c 182965 2008-09-12 17:40:17Z sepotvin $
+ *	$FreeBSD$
  */
 
 #include <fcntl.h>

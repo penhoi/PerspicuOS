@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_exit.c 225641 2011-09-17 19:55:32Z trasz $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 #include "opt_kdtrace.h"

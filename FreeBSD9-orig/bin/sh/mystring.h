@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)mystring.h	8.2 (Berkeley) 5/4/95
- * $FreeBSD: release/9.0.0/bin/sh/mystring.h 127958 2004-04-06 20:06:54Z markm $
+ * $FreeBSD$
  */
 
 #include <string.h>

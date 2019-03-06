@@ -1,5 +1,5 @@
 /*	$NetBSD: ucomvar.h,v 1.9 2001/01/23 21:56:17 augustss Exp $	*/
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/serial/usb_serial.h 214843 2010-11-05 19:12:48Z n_hibma $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2001-2002, Shunsuke Akiyama <akiyama@jp.FreeBSD.org>.

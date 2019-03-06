@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/ciss/ciss.c 226067 2011-10-06 19:15:51Z ken $
+ *	$FreeBSD$
  */
 
 /*

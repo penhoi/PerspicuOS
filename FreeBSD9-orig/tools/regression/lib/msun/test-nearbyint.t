@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/lib/msun/test-nearbyint.t 216139 2010-12-03 00:44:31Z das $
+# $FreeBSD$
 
 cd `dirname $0`
 

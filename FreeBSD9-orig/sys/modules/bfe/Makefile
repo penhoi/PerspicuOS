@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/bfe/Makefile 150636 2005-09-27 18:10:43Z mlaier $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/bfe
 

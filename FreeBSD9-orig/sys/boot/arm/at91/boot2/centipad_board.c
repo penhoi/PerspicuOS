@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/arm/at91/boot2/centipad_board.c 183635 2008-10-05 23:39:28Z imp $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 

@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/usr.bin/tar/COPYING 175047 2008-01-02 00:19:49Z kientzle $
+$FreeBSD$
 
 All of the C source code and documentation in this package is subject
 to the following:

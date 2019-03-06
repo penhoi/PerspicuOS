@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/age/Makefile 179101 2008-05-19 01:53:47Z yongari $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/age
 

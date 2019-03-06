@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/modules/usb/rue/Makefile 227229 2011-11-06 17:23:49Z marius $
+# $FreeBSD$
 #
 # Copyright (c) 2008 Hans Petter Selasky. All rights reserved.
 #

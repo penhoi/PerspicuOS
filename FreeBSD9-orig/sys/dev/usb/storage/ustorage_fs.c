@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/storage/ustorage_fs.c 222051 2011-05-18 07:40:12Z avg $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (C) 2003-2005 Alan Stern
  * Copyright (C) 2008 Hans Petter Selasky

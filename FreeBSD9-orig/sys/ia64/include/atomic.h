@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/ia64/include/atomic.h 185163 2008-11-22 06:56:49Z marcel $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_ATOMIC_H_

@@ -1,6 +1,6 @@
 #! /usr/bin/perl
 #
-# $FreeBSD: release/9.0.0/tools/regression/bin/pax/regress.t 211963 2010-08-29 11:56:56Z brian $
+# $FreeBSD$
 
 use strict;
 use warnings;

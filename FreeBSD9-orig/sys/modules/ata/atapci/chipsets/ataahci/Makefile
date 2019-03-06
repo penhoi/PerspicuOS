@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ata/atapci/chipsets/ataahci/Makefile 183724 2008-10-09 12:56:57Z sos $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../../../dev/ata/chipsets
 

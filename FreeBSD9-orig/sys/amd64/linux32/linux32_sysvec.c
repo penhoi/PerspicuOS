@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/amd64/linux32/linux32_sysvec.c 220026 2011-03-26 09:25:35Z dchagin $");
+__FBSDID("$FreeBSD$");
 #include "opt_compat.h"
 
 #ifndef COMPAT_FREEBSD32

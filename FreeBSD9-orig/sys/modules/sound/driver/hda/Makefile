@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/sound/driver/hda/Makefile 162922 2006-10-01 11:13:00Z ariff $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../../dev/sound/pci/hda
 

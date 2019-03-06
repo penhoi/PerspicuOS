@@ -36,7 +36,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/contrib/rdma/rdma_cache.c 178784 2008-05-05 18:35:55Z kmacy $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 

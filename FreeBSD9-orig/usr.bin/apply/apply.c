@@ -37,7 +37,7 @@ static char sccsid[] = "@(#)apply.c	8.4 (Berkeley) 4/4/94";
 #endif
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/apply/apply.c 216370 2010-12-11 08:32:16Z joel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/sbuf.h>

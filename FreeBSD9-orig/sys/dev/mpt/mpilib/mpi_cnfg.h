@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/mpt/mpilib/mpi_cnfg.h 170251 2007-06-03 22:58:27Z scottl $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2000-2005, LSI Logic Corporation and its contributors.
  * All rights reserved.

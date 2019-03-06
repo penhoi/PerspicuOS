@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/usb/input/uep.c 223521 2011-06-24 22:01:56Z hselasky $
+ * $FreeBSD$
  */
 
 /*

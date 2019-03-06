@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/netipsec/ipcomp_var.h 207369 2010-04-29 11:52:42Z bz $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: ipcomp.h,v 1.8 2000/09/26 07:55:14 itojun Exp $	*/
 
 /*-

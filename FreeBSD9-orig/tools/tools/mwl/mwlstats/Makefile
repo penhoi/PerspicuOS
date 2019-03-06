@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/mwl/mwlstats/Makefile 193242 2009-06-01 18:27:16Z sam $
+# $FreeBSD$
 
 PROG=	mwlstats
 BINDIR=	/usr/local/bin

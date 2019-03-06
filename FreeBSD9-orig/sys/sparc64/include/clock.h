@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sparc64/include/clock.h 182730 2008-09-03 17:39:19Z marius $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_CLOCK_H_

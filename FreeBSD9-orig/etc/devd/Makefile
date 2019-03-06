@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/devd/Makefile 223543 2011-06-25 17:01:46Z hselasky $
+# $FreeBSD$
 
 FILES=	asus.conf uath.conf usb.conf
 

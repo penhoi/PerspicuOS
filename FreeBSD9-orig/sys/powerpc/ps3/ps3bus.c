@@ -23,7 +23,7 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/ps3/ps3bus.c 223462 2011-06-23 04:06:33Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

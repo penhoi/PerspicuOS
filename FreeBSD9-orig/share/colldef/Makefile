@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/colldef/Makefile 196788 2009-09-03 16:53:11Z ache $
+# $FreeBSD$
 
 LOCALES=	bg_BG.CP1251 \
 		be_BY.CP1131 \

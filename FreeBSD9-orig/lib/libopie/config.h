@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/libopie/config.h 202196 2010-01-13 18:02:30Z ed $ */
+/* $FreeBSD$ */
 /* config.h.  Generated automatically by configure.  */
 /* config.h.in.  Generated automatically from configure.in by autoheader.  */
 

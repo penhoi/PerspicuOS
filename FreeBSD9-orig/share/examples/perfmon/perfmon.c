@@ -26,7 +26,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/share/examples/perfmon/perfmon.c 209455 2010-06-23 04:42:47Z kevlo $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

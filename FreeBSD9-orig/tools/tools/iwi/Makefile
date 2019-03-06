@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/iwi/Makefile 219527 2011-03-11 19:32:15Z brucec $
+# $FreeBSD$
 
 PROG=	iwistats
 NO_MAN=

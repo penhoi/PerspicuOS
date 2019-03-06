@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/i386/libi386/time.c 179825 2008-06-16 17:04:04Z olli $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 #include <btxv86.h>

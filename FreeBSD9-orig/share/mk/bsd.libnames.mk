@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/mk/bsd.libnames.mk 222035 2011-05-17 19:11:47Z flz $
+# $FreeBSD$
 
 # The include file <bsd.libnames.mk> define library names.
 # Other include files (e.g. bsd.prog.mk, bsd.lib.mk) include this

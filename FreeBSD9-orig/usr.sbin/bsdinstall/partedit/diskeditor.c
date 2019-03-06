@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/partedit/diskeditor.c 226212 2011-10-10 13:59:33Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

@@ -38,7 +38,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/security/mac/mac_framework.h 225344 2011-09-02 17:40:39Z rwatson $
+ * $FreeBSD$
  */
 
 /*

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/pf.os 225452 2011-09-08 23:46:07Z delphij $
+# $FreeBSD$
 # $OpenBSD: pf.os,v 1.25 2010/10/18 15:55:27 deraadt Exp $
 # passive OS fingerprinting
 # -------------------------

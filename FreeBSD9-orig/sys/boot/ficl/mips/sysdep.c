@@ -7,7 +7,7 @@
 **
 *******************************************************************/
 
-/* $FreeBSD: release/9.0.0/sys/boot/ficl/mips/sysdep.c 188824 2009-02-19 18:52:31Z imp $ */
+/* $FreeBSD$ */
 
 #ifdef TESTMAIN
 #include <stdio.h>

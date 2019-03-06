@@ -26,7 +26,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/net/if_mib.c 196019 2009-08-01 19:26:27Z rwatson $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

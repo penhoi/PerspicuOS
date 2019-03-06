@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/powerpc/aim/trap_subr32.S 223570 2011-06-26 15:08:14Z nwhitehorn $ */
+/* $FreeBSD$ */
 /* $NetBSD: trap_subr.S,v 1.20 2002/04/22 23:20:08 kleink Exp $	*/
 
 /*-

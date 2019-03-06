@@ -29,7 +29,7 @@
 /*%
  *      from nameser.h	8.1 (Berkeley) 6/2/93
  *	$Id: nameser_compat.h,v 1.5.18.3 2006/05/19 02:36:00 marka Exp $
- * $FreeBSD: release/9.0.0/include/arpa/nameser_compat.h 203965 2010-02-16 19:46:46Z imp $
+ * $FreeBSD$
  */
 
 #ifndef _ARPA_NAMESER_COMPAT_

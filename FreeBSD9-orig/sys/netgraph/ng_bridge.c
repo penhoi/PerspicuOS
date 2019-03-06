@@ -37,7 +37,7 @@
  *
  * Author: Archie Cobbs <archie@freebsd.org>
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_bridge.c 220768 2011-04-18 09:12:27Z glebius $
+ * $FreeBSD$
  */
 
 /*

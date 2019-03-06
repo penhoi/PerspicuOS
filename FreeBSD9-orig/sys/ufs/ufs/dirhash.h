@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/ufs/ufs/dirhash.h 219384 2011-03-07 18:33:29Z jhb $
+ * $FreeBSD$
  */
 
 #ifndef _UFS_UFS_DIRHASH_H_

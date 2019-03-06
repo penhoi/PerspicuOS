@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libjail/Makefile 201381 2010-01-02 09:58:07Z ed $
+# $FreeBSD$
 
 LIB=	jail
 SHLIBDIR?= /lib

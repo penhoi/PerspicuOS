@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/fifolog/lib/fifolog_reader.c 219027 2011-02-25 09:40:17Z phk $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

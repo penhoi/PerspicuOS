@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/iostat/iostat.c 216372 2010-12-11 09:38:12Z joel $
+ * $FreeBSD$
  */
 /*
  * Parts of this program are derived from the original FreeBSD iostat

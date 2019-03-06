@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/apmd/Makefile 208289 2010-05-19 08:52:51Z uqs $
+# $FreeBSD$
 
 PROG=	apmd
 MAN=	apmd.8

@@ -18,7 +18,7 @@
  * only.
  * END_BLOCK
  *
- * $FreeBSD: release/9.0.0/sys/boot/arm/at91/libat91/eeprom.c 172991 2007-10-25 22:50:25Z cognet $
+ * $FreeBSD$
  *****************************************************************************/
 
 #include "at91rm9200_lowlevel.h"

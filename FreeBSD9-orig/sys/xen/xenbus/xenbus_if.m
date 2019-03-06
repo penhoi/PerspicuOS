@@ -23,7 +23,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/sys/xen/xenbus/xenbus_if.m 222975 2011-06-11 04:59:01Z gibbs $
+# $FreeBSD$
 #
 
 #include <sys/bus.h>

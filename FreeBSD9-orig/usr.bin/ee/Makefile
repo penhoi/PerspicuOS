@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/ee/Makefile 203699 2010-02-09 10:47:44Z gabor $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../contrib/ee
 

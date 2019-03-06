@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/sound/pci/emu10kx.h 172150 2007-09-12 07:43:43Z ariff $
+ * $FreeBSD$
  */
 
 #ifndef EMU10KX_H

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/mfiutil/mfiutil.h 223345 2011-06-20 21:28:50Z bz $
+ * $FreeBSD$
  */
 
 #ifndef __MFIUTIL_H__

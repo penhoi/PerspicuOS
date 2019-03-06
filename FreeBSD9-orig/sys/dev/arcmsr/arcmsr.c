@@ -70,7 +70,7 @@
 **     1.20.00.21	03/03/2011		Ching Huang			 if a command timeout, then wait its ccb back before free it
 **     1.20.00.22	07/04/2011		Ching Huang			 Fixed multiple MTX panic
 ******************************************************************************************
-* $FreeBSD: release/9.0.0/sys/dev/arcmsr/arcmsr.c 224905 2011-08-16 08:41:37Z delphij $
+* $FreeBSD$
 */
 #if 0
 #define ARCMSR_DEBUG1			1

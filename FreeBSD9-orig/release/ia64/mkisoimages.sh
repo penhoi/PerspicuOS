@@ -4,7 +4,7 @@
 # Author: Jordan K Hubbard
 # Date:   22 June 2001
 #
-# $FreeBSD: release/9.0.0/release/ia64/mkisoimages.sh 228044 2011-11-27 20:14:00Z marcel $
+# $FreeBSD$
 #
 # This script is used by release/Makefile to build the (optional) ISO images
 # for a FreeBSD release.  It is considered architecture dependent since each

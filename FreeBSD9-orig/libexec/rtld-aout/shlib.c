@@ -27,7 +27,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/libexec/rtld-aout/shlib.c 201217 2009-12-29 21:07:17Z ed $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

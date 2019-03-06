@@ -1,7 +1,7 @@
 /*
  * Playstation 3 LV1 hypercall interface
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/ps3/ps3-hvcall.h 223460 2011-06-23 03:20:11Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

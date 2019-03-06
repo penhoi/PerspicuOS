@@ -1,6 +1,6 @@
 newcode	:
 /* $Header: /src/pub/tcsh/host.defs,v 1.31 2001/06/10 02:19:11 christos Exp $ */
-/* $FreeBSD: release/9.0.0/bin/csh/host.defs 127958 2004-04-06 20:06:54Z markm $ */
+/* $FreeBSD$ */
 /*
  * host.defs: Hosttype/Machtype etc.
  */

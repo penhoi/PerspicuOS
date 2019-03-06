@@ -1,6 +1,6 @@
 /*
  * $NetBSD: util.c,v 1.4 2000/08/03 00:04:30 fvdl Exp $
- * $FreeBSD: release/9.0.0/usr.sbin/rpcbind/util.c 224001 2011-07-14 07:28:49Z delphij $
+ * $FreeBSD$
  */
 
 /*-

@@ -1,5 +1,5 @@
 #	from @(#)Makefile.inc	8.1 (Berkeley) 6/4/93
-# $FreeBSD: release/9.0.0/lib/libc/locale/Makefile.inc 211774 2010-08-24 20:54:43Z imp $
+# $FreeBSD$
 
 # locale sources
 .PATH: ${.CURDIR}/${LIBC_ARCH}/locale ${.CURDIR}/locale

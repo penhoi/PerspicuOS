@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/efi/libefi/efinet.c 217067 2011-01-06 20:50:16Z marcel $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <netinet/in.h>

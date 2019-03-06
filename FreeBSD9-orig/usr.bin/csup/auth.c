@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/csup/auth.c 225536 2011-09-13 20:35:34Z brueffer $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

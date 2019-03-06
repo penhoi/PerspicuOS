@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/nfs_common/Makefile 203968 2010-02-16 20:00:21Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../nfs
 

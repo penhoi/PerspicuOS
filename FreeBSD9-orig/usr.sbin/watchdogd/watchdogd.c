@@ -29,7 +29,7 @@
  */
 
 #include <sys/types.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/watchdogd/watchdogd.c 213181 2010-09-26 01:45:33Z emaste $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/mman.h>
 #include <sys/param.h>

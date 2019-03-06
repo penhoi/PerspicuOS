@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/siba/sibavar.h 204922 2010-03-09 19:58:00Z weongyo $
+ * $FreeBSD$
  */
 
 #ifndef _SIBA_SIBAVAR_H_

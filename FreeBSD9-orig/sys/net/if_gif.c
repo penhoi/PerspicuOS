@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/net/if_gif.c 223741 2011-07-03 16:08:38Z bz $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: if_gif.c,v 1.87 2001/10/19 08:50:27 itojun Exp $	*/
 
 /*-

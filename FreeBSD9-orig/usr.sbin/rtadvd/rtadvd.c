@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/usr.sbin/rtadvd/rtadvd.c 225683 2011-09-20 00:32:30Z hrs $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: rtadvd.c,v 1.82 2003/08/05 12:34:23 itojun Exp $	*/
 
 /*

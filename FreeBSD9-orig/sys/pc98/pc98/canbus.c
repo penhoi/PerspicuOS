@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/pc98/pc98/canbus.c 212413 2010-09-10 11:19:03Z avg $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

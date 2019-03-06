@@ -1,4 +1,4 @@
-#	$FreeBSD: release/9.0.0/libexec/tftp-proxy/Makefile 201380 2010-01-02 09:50:19Z ed $
+#	$FreeBSD$
 
 .PATH:	${.CURDIR}/../../contrib/pf/tftp-proxy
 

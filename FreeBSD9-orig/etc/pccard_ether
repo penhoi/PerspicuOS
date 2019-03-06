@@ -1,6 +1,6 @@
 #!/bin/sh -
 #
-# $FreeBSD: release/9.0.0/etc/pccard_ether 179961 2008-06-23 20:50:11Z mtm $
+# $FreeBSD$
 #
 # pccard_ether interfacename [start|stop|restart]
 #

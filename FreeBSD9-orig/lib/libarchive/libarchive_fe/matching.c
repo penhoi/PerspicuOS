@@ -24,7 +24,7 @@
  */
 
 #include "lafe_platform.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/libarchive_fe/matching.c 224152 2011-07-17 21:27:38Z mm $");
+__FBSDID("$FreeBSD$");
 
 #ifdef HAVE_ERRNO_H
 #include <errno.h>

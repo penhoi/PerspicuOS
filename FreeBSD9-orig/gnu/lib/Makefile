@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/Makefile 220755 2011-04-17 21:03:23Z dim $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

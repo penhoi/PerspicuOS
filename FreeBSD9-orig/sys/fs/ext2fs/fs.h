@@ -33,7 +33,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)fs.h	8.7 (Berkeley) 4/19/94
- * $FreeBSD: release/9.0.0/sys/fs/ext2fs/fs.h 202283 2010-01-14 14:30:54Z lulf $
+ * $FreeBSD$
  */
 
 /*

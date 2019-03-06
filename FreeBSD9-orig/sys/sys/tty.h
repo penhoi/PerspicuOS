@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/tty.h 223722 2011-07-02 13:54:20Z ed $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_TTY_H_

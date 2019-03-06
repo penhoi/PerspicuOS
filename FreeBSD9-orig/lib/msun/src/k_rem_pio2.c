@@ -12,7 +12,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/msun/src/k_rem_pio2.c 176550 2008-02-25 11:43:20Z bde $");
+__FBSDID("$FreeBSD$");
 
 /*
  * __kernel_rem_pio2(x,y,e0,nx,prec)

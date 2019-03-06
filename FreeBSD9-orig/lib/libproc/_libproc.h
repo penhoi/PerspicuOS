@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libproc/_libproc.h 210688 2010-07-31 16:10:20Z rpaulo $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/arm/conf/HL201.hints 210040 2010-07-14 00:48:53Z cognet $
+# $FreeBSD$
 #
 
 # These are the wiring for the at91sam9261.  These are the built-in devices

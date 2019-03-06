@@ -29,7 +29,7 @@
 
 #include <sys/cdefs.h>
 #ifndef lint
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/stdlib/ptsname.c 223576 2011-06-26 18:27:17Z ed $");
+__FBSDID("$FreeBSD$");
 #endif /* not lint */
 
 #include "namespace.h"

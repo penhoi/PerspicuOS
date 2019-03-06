@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/dtrace/dtrace_test/Makefile 179065 2008-05-17 02:31:19Z jb $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/dev/dtrace
 

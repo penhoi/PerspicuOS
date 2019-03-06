@@ -26,7 +26,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/ia64/ia64/nexus.c 224184 2011-07-18 14:04:37Z jhb $
+ * $FreeBSD$
  */
 
 /*

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/cxgb/ulp/tom/cxgb_tcp_offload.h 181011 2008-07-30 20:08:34Z kmacy $ */
+/* $FreeBSD$ */
 
 #ifndef CXGB_TCP_OFFLOAD_H_
 #define CXGB_TCP_OFFLOAD_H_

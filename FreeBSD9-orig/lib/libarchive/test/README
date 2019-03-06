@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/lib/libarchive/test/README 175044 2008-01-01 22:28:04Z kientzle $
+$FreeBSD$
 
 This is the test harness for libarchive.
 

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/procdesc.h 224987 2011-08-18 22:51:30Z jonathan $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_PROCDESC_H_

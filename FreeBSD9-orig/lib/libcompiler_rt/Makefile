@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libcompiler_rt/Makefile 222656 2011-06-03 17:49:16Z ed $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

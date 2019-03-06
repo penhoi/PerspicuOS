@@ -26,7 +26,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
  * NETLOGIC_BSD
- * $FreeBSD: release/9.0.0/sys/mips/nlm/hal/uart.h 225394 2011-09-05 10:45:29Z jchandra $
+ * $FreeBSD$
  */
 
 #ifndef __XLP_HAL_UART_H__

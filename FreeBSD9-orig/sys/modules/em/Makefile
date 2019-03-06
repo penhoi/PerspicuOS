@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/em/Makefile 211400 2010-08-16 17:48:55Z yongari $
+# $FreeBSD$
 .PATH:  ${.CURDIR}/../../dev/e1000
 KMOD    = if_em
 SRCS    = device_if.h bus_if.h pci_if.h opt_inet.h

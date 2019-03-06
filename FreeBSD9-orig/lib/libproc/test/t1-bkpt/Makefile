@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libproc/test/t1-bkpt/Makefile 210688 2010-07-31 16:10:20Z rpaulo $
+# $FreeBSD$
 
 PROG=	t1-bkpt
 

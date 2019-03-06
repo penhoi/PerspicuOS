@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/geom_eli/setkey.t 182452 2008-08-29 18:10:18Z pjd $
+# $FreeBSD$
 
 base=`basename $0`
 no=45

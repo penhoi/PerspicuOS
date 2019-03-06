@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/activemap.c 223654 2011-06-28 20:57:54Z trociny $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>	/* powerof2() */
 #include <sys/queue.h>

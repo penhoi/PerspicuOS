@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/share/examples/ses/srcs/eltsub.c 222339 2011-05-27 03:44:47Z mav $ */
+/* $FreeBSD$ */
 /*
  * Copyright (c) 2000 by Matthew Jacob
  * All rights reserved.

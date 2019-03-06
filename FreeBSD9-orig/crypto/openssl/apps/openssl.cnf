@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/crypto/openssl/apps/openssl.cnf 205137 2010-03-13 22:37:07Z simon $
+# $FreeBSD$
 #
 # OpenSSL example configuration file.
 # This is mostly being used for generation of certificate requests.

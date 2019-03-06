@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/etc/gettytab 209954 2010-07-12 19:09:18Z bcr $
+# $FreeBSD$
 #	from: @(#)gettytab	5.14 (Berkeley) 3/27/91
 #
 # Most of the table entries here are just copies of the old getty table,

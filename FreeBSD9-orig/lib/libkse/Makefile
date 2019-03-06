@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libkse/Makefile 209118 2010-06-13 01:27:29Z imp $
+# $FreeBSD$
 #
 # All library objects contain FreeBSD revision strings by default; they may be
 # excluded as a space-saving measure.  To produce a library that does

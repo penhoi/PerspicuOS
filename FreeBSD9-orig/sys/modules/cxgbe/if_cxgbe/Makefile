@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/sys/modules/cxgbe/if_cxgbe/Makefile 223483 2011-06-23 20:31:52Z uqs $
+# $FreeBSD$
 #
 
 CXGBE = ${.CURDIR}/../../../dev/cxgbe

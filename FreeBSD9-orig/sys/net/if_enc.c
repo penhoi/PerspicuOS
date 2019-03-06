@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/net/if_enc.c 221130 2011-04-27 19:30:44Z bz $
+ * $FreeBSD$
  */
 
 #include "opt_inet.h"

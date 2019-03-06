@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)nfsm_subs.h	8.2 (Berkeley) 3/30/95
- * $FreeBSD: release/9.0.0/sys/nfs/nfs_common.h 203732 2010-02-09 23:45:14Z marius $
+ * $FreeBSD$
  */
 
 #ifndef _NFS_NFS_COMMON_H_

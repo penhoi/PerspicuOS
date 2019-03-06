@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/smbus/smbus.h 189580 2009-03-09 13:30:00Z imp $
+ * $FreeBSD$
  *
  */
 #ifndef __SMBUS_H

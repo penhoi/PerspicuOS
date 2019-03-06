@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/locale/mbstowcs.c 187302 2009-01-15 18:53:52Z rdivacky $");
+__FBSDID("$FreeBSD$");
 
 #include <limits.h>
 #include <stdlib.h>

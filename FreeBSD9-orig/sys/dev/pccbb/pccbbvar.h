@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/pccbb/pccbbvar.h 188701 2009-02-17 02:14:04Z imp $
+ * $FreeBSD$
  */
 
 /*

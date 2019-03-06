@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netncp/ncp_ncp.h 206361 2010-04-07 16:50:38Z joel $
+ * $FreeBSD$
  */
 #ifndef _NETNCP_NCP_NCP_H_
 #define _NETNCP_NCP_NCP_H_

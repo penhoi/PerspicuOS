@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/partedit/Makefile 221869 2011-05-14 01:53:38Z attilio $
+# $FreeBSD$
 
 BINDIR= /usr/libexec/bsdinstall
 PROG=	partedit

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/include/sf_buf.h 190681 2009-04-04 00:22:44Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_SF_BUF_H_

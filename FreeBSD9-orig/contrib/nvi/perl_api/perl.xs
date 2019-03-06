@@ -10,7 +10,7 @@
  *
  * See the LICENSE file for redistribution information.
  *
- * $FreeBSD: release/9.0.0/contrib/nvi/perl_api/perl.xs 69474 2000-12-01 12:11:24Z sheldonh $
+ * $FreeBSD$
  */
 
 #include "config.h"

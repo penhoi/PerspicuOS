@@ -11,7 +11,7 @@
  */
 
 #ifndef lint
-static char rcsid[] = "$FreeBSD: release/9.0.0/lib/msun/src/s_logbl.c 174698 2007-12-17 03:53:38Z das $";
+static char rcsid[] = "$FreeBSD$";
 #endif
 
 #include <float.h>

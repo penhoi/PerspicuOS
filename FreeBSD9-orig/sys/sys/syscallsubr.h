@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/syscallsubr.h 220238 2011-04-01 11:16:29Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_SYSCALLSUBR_H_

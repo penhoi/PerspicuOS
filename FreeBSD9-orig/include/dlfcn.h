@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/dlfcn.h 205606 2010-03-24 15:59:51Z gahr $
+ * $FreeBSD$
  */
 
 #ifndef _DLFCN_H_

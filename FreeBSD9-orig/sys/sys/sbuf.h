@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *      $FreeBSD: release/9.0.0/sys/sys/sbuf.h 221993 2011-05-16 16:18:40Z phk $
+ *      $FreeBSD$
  */
 
 #ifndef _SYS_SBUF_H_

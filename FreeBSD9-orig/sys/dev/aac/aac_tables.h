@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/aac/aac_tables.h 206555 2010-04-13 12:10:55Z emaste $
+ *	$FreeBSD$
  */
 
 /*

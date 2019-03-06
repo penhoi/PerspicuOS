@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/smbfs/smbfs_vfsops.c 213363 2010-10-02 17:58:57Z alc $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

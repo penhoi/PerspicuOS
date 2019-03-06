@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/usr.sbin/pmcstat/Makefile 204329 2010-02-25 20:24:19Z ru $
+# $FreeBSD$
 #
 
 PROG=	pmcstat

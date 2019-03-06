@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/i386/libi386/biossmap.c 191111 2009-04-15 17:31:22Z jkim $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Obtain memory configuration information from the BIOS

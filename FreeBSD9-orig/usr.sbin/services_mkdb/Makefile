@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/services_mkdb/Makefile 206156 2010-04-04 08:38:14Z ume $
+# $FreeBSD$
 
 PROG=	services_mkdb
 MAN=	services_mkdb.8

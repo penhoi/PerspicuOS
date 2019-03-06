@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libstand/zalloc_protos.h 223905 2011-07-10 07:25:34Z avatar $
+ * $FreeBSD$
  */
 
 Library void *znalloc(struct MemPool *mpool, uintptr_t bytes);

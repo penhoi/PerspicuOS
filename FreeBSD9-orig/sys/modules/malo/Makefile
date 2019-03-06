@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/malo/Makefile 178354 2008-04-20 20:35:46Z sam $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/malo
 

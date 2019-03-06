@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/ps3/ps3pic.c 223463 2011-06-23 04:35:45Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

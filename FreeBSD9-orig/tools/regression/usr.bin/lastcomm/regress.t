@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/lastcomm/regress.t 201479 2010-01-04 09:50:30Z obrien $
+# $FreeBSD$
 #
 
 DIR=`dirname $0`

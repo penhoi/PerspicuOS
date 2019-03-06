@@ -1,5 +1,5 @@
 /* $OpenBSD: channels.c,v 1.310 2010/11/24 01:24:14 djm Exp $ */
-/* $FreeBSD: release/9.0.0/crypto/openssh/channels.c 224640 2011-08-03 20:00:36Z brooks $ */
+/* $FreeBSD$ */
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>
  * Copyright (c) 1995 Tatu Ylonen <ylo@cs.hut.fi>, Espoo, Finland

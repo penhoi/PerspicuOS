@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/sparc64/sparc64/rtc.c 201008 2009-12-25 22:53:46Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * The `rtc' device is found on the ISA bus and the EBus.  The ISA version

@@ -39,7 +39,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/make/str.c 209951 2010-07-12 17:18:58Z emaste $");
+__FBSDID("$FreeBSD$");
 
 #include <stdlib.h>
 #include <string.h>

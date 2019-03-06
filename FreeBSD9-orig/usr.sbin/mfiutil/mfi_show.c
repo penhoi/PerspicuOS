@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/mfiutil/mfi_show.c 225804 2011-09-27 17:11:09Z emaste $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

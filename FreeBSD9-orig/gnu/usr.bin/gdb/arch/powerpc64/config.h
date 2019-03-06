@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/gdb/arch/powerpc64/config.h 209867 2010-07-10 02:29:22Z nwhitehorn $ */
+/* $FreeBSD$ */
 
 /* config.h.  Generated automatically by configure.  */
 /* config.in.  Generated automatically from configure.in by autoheader.  */

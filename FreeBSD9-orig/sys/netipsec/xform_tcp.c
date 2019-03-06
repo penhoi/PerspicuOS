@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/netipsec/xform_tcp.c 196019 2009-08-01 19:26:27Z rwatson $ */
+/*	$FreeBSD$ */
 
 /*-
  * Copyright (c) 2003 Bruce M. Simpson <bms@spc.org>

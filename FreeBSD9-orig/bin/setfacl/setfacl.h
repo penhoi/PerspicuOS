@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/bin/setfacl/setfacl.h 204819 2010-03-07 07:59:05Z joel $
+ * $FreeBSD$
  */
 
 #ifndef _SETFACL_H

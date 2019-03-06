@@ -14,7 +14,7 @@
  * warranties of merchantability and fitness for a particular
  * purpose.
  *
- * $FreeBSD: release/9.0.0/sys/boot/i386/boot0/boot0.S 186598 2008-12-30 09:40:50Z luigi $
+ * $FreeBSD$
  */
 
 /* build options: */

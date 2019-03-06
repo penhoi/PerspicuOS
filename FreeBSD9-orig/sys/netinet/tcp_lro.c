@@ -30,7 +30,7 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
-$FreeBSD: release/9.0.0/sys/netinet/tcp_lro.c 223797 2011-07-05 18:43:54Z cperciva $ 
+$FreeBSD$ 
 ***************************************************************************/
 
 #include <sys/param.h>

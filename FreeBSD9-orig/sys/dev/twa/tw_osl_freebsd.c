@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/twa/tw_osl_freebsd.c 212210 2010-09-04 16:27:14Z bz $
+ *	$FreeBSD$
  */
 
 /*

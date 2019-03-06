@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/glxiic/Makefile 221961 2011-05-15 14:01:23Z brix $
+# $FreeBSD$
 
 #CFLAGS+=	-DGLXIIC_DEBUG
 

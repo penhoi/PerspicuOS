@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/modules/dtrace/dtraceall/dtraceall.c 223280 2011-06-18 23:02:53Z rmacklem $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

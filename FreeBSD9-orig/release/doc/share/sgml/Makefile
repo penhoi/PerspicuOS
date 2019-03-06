@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/release/doc/share/sgml/Makefile 166778 2007-02-16 02:10:12Z bmah $
+# $FreeBSD$
 
 RELN_ROOT?= ${.CURDIR}/../..
 

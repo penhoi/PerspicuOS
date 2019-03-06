@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/include/vm.h 195649 2009-07-12 23:31:20Z alc $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_VM_H_

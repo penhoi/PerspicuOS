@@ -28,7 +28,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/pc-sysinstall/backend/functions-networking.sh 227219 2011-11-06 15:58:56Z jpaetzel $
+# $FreeBSD$
 
 # Functions which perform our networking setup
 

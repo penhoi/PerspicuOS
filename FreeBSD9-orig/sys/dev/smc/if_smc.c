@@ -23,7 +23,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/smc/if_smc.c 227277 2011-11-06 21:09:10Z marius $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Driver for SMSC LAN91C111, may work for older variants.

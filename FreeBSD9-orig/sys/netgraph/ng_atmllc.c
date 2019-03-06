@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_atmllc.c 220768 2011-04-18 09:12:27Z glebius $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

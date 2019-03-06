@@ -26,7 +26,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/bce/if_bcefw.h 218529 2011-02-11 00:41:49Z davidch $
+ * $FreeBSD$
  */
 
 /*

@@ -28,7 +28,7 @@
 # SUCH DAMAGE.
 #
 #	@(#)newvers.sh	8.1 (Berkeley) 4/20/94
-# $FreeBSD: release/9.0.0/sys/conf/newvers.sh 229283 2012-01-02 14:45:30Z kensmith $
+# $FreeBSD$
 
 TYPE="FreeBSD"
 REVISION="9.0"

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/ficl/Makefile 217033 2011-01-05 22:24:33Z dim $
+# $FreeBSD$
 #
 .PATH: ${.CURDIR}/${MACHINE_CPUARCH:S/amd64/i386/}
 BASE_SRCS=	dict.c ficl.c fileaccess.c float.c loader.c math64.c \

@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/hastd/hast.h 222228 2011-05-23 21:15:19Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef	_HAST_H_

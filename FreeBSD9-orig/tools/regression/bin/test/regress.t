@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/bin/test/regress.t 215022 2010-11-08 23:15:10Z jilles $
+# $FreeBSD$
 
 cd `dirname $0`
 

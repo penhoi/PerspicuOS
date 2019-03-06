@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/hastd/token.l 222117 2011-05-20 11:10:39Z pjd $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

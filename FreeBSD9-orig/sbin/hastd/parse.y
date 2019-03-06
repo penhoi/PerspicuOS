@@ -28,7 +28,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/hastd/parse.y 222120 2011-05-20 11:16:25Z pjd $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>	/* MAXHOSTNAMELEN */

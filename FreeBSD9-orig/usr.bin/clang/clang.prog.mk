@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/clang/clang.prog.mk 208963 2010-06-09 19:32:20Z rdivacky $
+# $FreeBSD$
 
 LLVM_SRCS=${.CURDIR}/../../../contrib/llvm
 

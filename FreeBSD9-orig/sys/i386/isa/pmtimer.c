@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/i386/isa/pmtimer.c 184386 2008-10-28 04:32:41Z imp $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Timer device driver for power management events.

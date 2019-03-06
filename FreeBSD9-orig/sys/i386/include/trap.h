@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	from: @(#)trap.h	5.4 (Berkeley) 5/9/91
- * $FreeBSD: release/9.0.0/sys/i386/include/trap.h 227946 2011-11-24 18:44:14Z rstone $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_TRAP_H_

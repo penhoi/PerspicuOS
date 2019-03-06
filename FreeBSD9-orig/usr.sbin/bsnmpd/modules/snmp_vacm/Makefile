@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/bsnmpd/modules/snmp_vacm/Makefile 216294 2010-12-08 13:51:38Z syrinx $
+# $FreeBSD$
 #
 # Author: Shteryana Shopova <syrinx@freebsd.org>
 

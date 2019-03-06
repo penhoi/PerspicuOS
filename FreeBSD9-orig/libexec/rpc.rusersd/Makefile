@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/libexec/rpc.rusersd/Makefile 202210 2010-01-13 18:28:58Z ed $
+# $FreeBSD$
 
 PROG =	rpc.rusersd
 SRCS =	rusersd.c rusers_proc.c

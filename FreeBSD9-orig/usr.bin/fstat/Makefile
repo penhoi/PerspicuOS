@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/6/93
-# $FreeBSD: release/9.0.0/usr.bin/fstat/Makefile 221807 2011-05-12 10:11:39Z stas $
+# $FreeBSD$
 
 PROG=	fstat
 SRCS=	fstat.c fuser.c main.c

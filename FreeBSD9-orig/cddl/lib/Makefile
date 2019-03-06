@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/lib/Makefile 211550 2010-08-21 11:14:50Z rpaulo $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

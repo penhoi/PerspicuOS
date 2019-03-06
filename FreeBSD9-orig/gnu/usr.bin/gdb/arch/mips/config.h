@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/gdb/arch/mips/config.h 178583 2008-04-26 12:22:46Z imp $ */
+/* $FreeBSD$ */
 
 /* config.h.  Generated automatically by configure.  */
 /* config.in.  Generated automatically from configure.in by autoheader.  */

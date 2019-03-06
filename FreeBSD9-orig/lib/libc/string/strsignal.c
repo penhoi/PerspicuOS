@@ -31,7 +31,7 @@
 static char sccsid[] = "@(#)strerror.c	8.1 (Berkeley) 6/4/93";
 #endif /* LIBC_SCCS and not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strsignal.c 202916 2010-01-24 10:35:26Z ume $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #if defined(NLS)

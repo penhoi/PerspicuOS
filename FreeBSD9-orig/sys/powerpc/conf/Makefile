@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/powerpc/conf/Makefile 211483 2010-08-19 03:19:26Z nwhitehorn $
+# $FreeBSD$
 
 TARGET=powerpc
 .if ${MACHINE_ARCH} == powerpc || ${MACHINE_ARCH} == powerpc64

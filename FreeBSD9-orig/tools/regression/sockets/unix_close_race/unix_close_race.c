@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/regression/sockets/unix_close_race/unix_close_race.c 208602 2010-05-27 15:28:55Z rwatson $
+ * $FreeBSD$
  */
 
 /*

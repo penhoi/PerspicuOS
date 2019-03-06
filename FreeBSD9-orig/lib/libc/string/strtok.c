@@ -36,7 +36,7 @@
 static char sccsid[] = "@(#)strtok.c	8.1 (Berkeley) 6/4/93";
 #endif /* LIBC_SCCS and not lint */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strtok.c 174553 2007-12-12 18:33:06Z wes $");
+__FBSDID("$FreeBSD$");
 
 #include <stddef.h>
 #ifdef DEBUG_STRTOK

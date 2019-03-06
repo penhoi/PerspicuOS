@@ -14,7 +14,7 @@
 # Copyright (c) 2001, 2004-2005, Juniper Networks, Inc.
 # All rights reserved.
 # JNPR: files.mips,v 1.11 2007/08/09 12:25:35 katta
-# $FreeBSD: release/9.0.0/sys/conf/files.mips 223927 2011-07-11 08:23:59Z ray $
+# $FreeBSD$
 #
 # ----------------------------------------------------------------------
 # Phase 2

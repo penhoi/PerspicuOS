@@ -12,7 +12,7 @@
  * warranties of merchantability and fitness for a particular
  * purpose.
  *
- * $FreeBSD: release/9.0.0/sys/boot/i386/btx/btxldr/btxldr.S 185781 2008-12-09 00:25:57Z sobomax $
+ * $FreeBSD$
  */
 
 #define	RBX_MUTE	0x10	/* -m */

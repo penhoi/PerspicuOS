@@ -33,7 +33,7 @@
 /* $KAME: sctp_asconf.c,v 1.24 2005/03/06 16:04:16 itojun Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_asconf.c 225584 2011-09-15 12:20:52Z tuexen $");
+__FBSDID("$FreeBSD$");
 #include <netinet/sctp_os.h>
 #include <netinet/sctp_var.h>
 #include <netinet/sctp_sysctl.h>

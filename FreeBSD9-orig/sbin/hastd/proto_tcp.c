@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/hastd/proto_tcp.c 222118 2011-05-20 11:14:05Z pjd $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>	/* MAXHOSTNAMELEN */
 #include <sys/socket.h>

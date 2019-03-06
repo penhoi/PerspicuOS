@@ -23,7 +23,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/sio/sio_isa.c 174116 2007-11-30 21:45:07Z peter $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_sio.h"
 

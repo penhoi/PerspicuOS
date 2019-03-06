@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/mlx/mlxvar.h 195534 2009-07-10 08:18:08Z scottl $
+ *	$FreeBSD$
  */
 
 /*

@@ -32,7 +32,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/fs/nfsclient/nfs_clkrpc.c 223309 2011-06-19 22:08:55Z rmacklem $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet6.h"
 #include "opt_kgssapi.h"

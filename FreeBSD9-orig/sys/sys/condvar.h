@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/condvar.h 177085 2008-03-12 06:31:06Z jeff $
+ * $FreeBSD$
  */
 
 #ifndef	_SYS_CONDVAR_H_

@@ -1,5 +1,5 @@
 /* $OpenBSD: readconf.h,v 1.88 2010/11/13 23:27:50 djm Exp $ */
-/* $FreeBSD: release/9.0.0/crypto/openssh/readconf.h 224640 2011-08-03 20:00:36Z brooks $ */
+/* $FreeBSD$ */
 
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>

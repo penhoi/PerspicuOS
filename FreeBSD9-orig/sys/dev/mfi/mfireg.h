@@ -54,7 +54,7 @@
 #define _MFIREG_H
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mfi/mfireg.h 224041 2011-07-14 20:20:33Z jhb $");
+__FBSDID("$FreeBSD$");
 
 /*
  * MegaRAID SAS MFI firmware definitions

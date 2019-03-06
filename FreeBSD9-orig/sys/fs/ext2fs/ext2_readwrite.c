@@ -33,7 +33,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ufs_readwrite.c	8.7 (Berkeley) 1/21/94
- * $FreeBSD: release/9.0.0/sys/fs/ext2fs/ext2_readwrite.c 221261 2011-04-30 13:49:03Z kib $
+ * $FreeBSD$
  */
 
 /* XXX TODO: remove these obfuscations (as in ffs_vnops.c). */

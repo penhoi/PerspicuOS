@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libc/arm/Makefile.inc 193145 2009-05-31 02:03:40Z marcel $
+# $FreeBSD$
 #
 # Machine dependent definitions for the arm architecture.
 #

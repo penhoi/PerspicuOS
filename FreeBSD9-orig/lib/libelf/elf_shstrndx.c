@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libelf/elf_shstrndx.c 210345 2010-07-21 12:14:50Z kaiw $");
+__FBSDID("$FreeBSD$");
 
 #include <ar.h>
 #include <libelf.h>

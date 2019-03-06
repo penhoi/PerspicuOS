@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/sys/arm/at91/if_macbvar.h 210040 2010-07-14 00:48:53Z cognet $
+ * $FreeBSD$
  */
 
 #ifndef	_IF_MACB_H

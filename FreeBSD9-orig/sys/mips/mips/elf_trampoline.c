@@ -23,7 +23,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/mips/elf_trampoline.c 224105 2011-07-16 17:22:01Z jchandra $");
+__FBSDID("$FreeBSD$");
 #include <machine/asm.h>
 #include <sys/param.h>
 

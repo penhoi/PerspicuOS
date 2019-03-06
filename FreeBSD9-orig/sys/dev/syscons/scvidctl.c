@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/syscons/scvidctl.c 216079 2010-11-30 16:46:15Z jkim $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 #include "opt_syscons.h"

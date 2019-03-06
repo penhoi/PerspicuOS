@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/sio/sio.c 225214 2011-08-27 14:24:27Z rwatson $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 #include "opt_gdb.h"

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/watchdog.h 221121 2011-04-27 16:43:03Z attilio $
+ * $FreeBSD$
  */
 #ifndef _SYS_WATCHDOG_H
 #define	_SYS_WATCHDOG_H

@@ -30,7 +30,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/sysinstall/doc.c 195132 2009-06-28 08:59:46Z blackend $
+ * $FreeBSD$
  */
 
 #include "sysinstall.h"

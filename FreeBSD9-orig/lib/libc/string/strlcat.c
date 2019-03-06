@@ -17,7 +17,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/string/strlcat.c 189133 2009-02-28 05:15:02Z das $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <string.h>

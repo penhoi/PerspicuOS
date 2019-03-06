@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/rmlock.h 212112 2010-09-01 19:50:03Z mlaier $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_RMLOCK_H_

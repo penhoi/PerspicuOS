@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/periodic/daily/800.scrub-zfs 223117 2011-06-15 19:33:02Z jpaetzel $
+# $FreeBSD$
 #
 
 # If there is a global system configuration file, suck it in.

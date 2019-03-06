@@ -21,7 +21,7 @@
  * Name to id translation routines used by the scanner.
  * These functions are not time critical.
  *
- * $FreeBSD: release/9.0.0/contrib/libpcap/nametoaddr.c 214518 2010-10-29 18:43:23Z rpaulo $
+ * $FreeBSD$
  */
 
 #ifndef lint

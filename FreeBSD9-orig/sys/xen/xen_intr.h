@@ -12,7 +12,7 @@
 *     are bound using the provided bind/unbind functions.
 *
 *
-* $FreeBSD: release/9.0.0/sys/xen/xen_intr.h 214077 2010-10-19 20:53:30Z gibbs $
+* $FreeBSD$
 */
 
 #define PIRQ_BASE   0

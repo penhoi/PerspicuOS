@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/tools/regression/security/cap_test/cap_test_capmode.c 224651 2011-08-04 14:20:13Z jonathan $
+ * $FreeBSD$
  */
 
 /*
@@ -34,7 +34,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/security/cap_test/cap_test_capmode.c 224651 2011-08-04 14:20:13Z jonathan $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/capability.h>

@@ -12,7 +12,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/msun/src/e_hypot.c 177758 2008-03-30 20:03:06Z das $");
+__FBSDID("$FreeBSD$");
 
 /* __ieee754_hypot(x,y)
  *

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmasmprinter/Makefile 223017 2011-06-12 18:01:31Z dim $
+# $FreeBSD$
 
 LIB=	llvmasmprinter
 

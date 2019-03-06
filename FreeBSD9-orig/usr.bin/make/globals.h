@@ -35,7 +35,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/make/globals.h 200417 2009-12-11 23:20:02Z delphij $
+ * $FreeBSD$
  */
 
 #ifndef globals_h_1c1edb96

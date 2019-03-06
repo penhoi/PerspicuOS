@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/ia64/conf/NOTES 223365 2011-06-21 12:38:40Z alc $
+# $FreeBSD$
 #
 # This file contains machine dependent kernel configuration notes.  For
 # machine independent notes, look in /sys/conf/NOTES.

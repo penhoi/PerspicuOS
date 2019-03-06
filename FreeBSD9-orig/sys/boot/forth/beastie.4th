@@ -24,7 +24,7 @@
 \ OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 \ SUCH DAMAGE.
 \ 
-\ $FreeBSD: release/9.0.0/sys/boot/forth/beastie.4th 222417 2011-05-28 08:50:38Z julian $
+\ $FreeBSD$
 
 marker task-beastie.4th
 

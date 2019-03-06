@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_compat_tar_hardlink.c 181555 2008-08-11 01:19:36Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Background:  There are two written standards for the tar file format.

@@ -16,7 +16,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/gnu/lib/libodialog/TESTS/check3.c 209200 2010-06-15 10:01:49Z ae $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/wait.h>
 #include <dialog.h>

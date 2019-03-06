@@ -34,7 +34,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/ksched.c 222802 2011-06-07 02:50:14Z davidxu $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_posix.h"
 

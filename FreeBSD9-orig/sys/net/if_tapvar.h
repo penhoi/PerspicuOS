@@ -34,7 +34,7 @@
  */
 
 /*
- * $FreeBSD: release/9.0.0/sys/net/if_tapvar.h 147256 2005-06-10 16:49:24Z brooks $
+ * $FreeBSD$
  * $Id: if_tapvar.h,v 0.6 2000/07/11 02:16:08 max Exp $
  */
 

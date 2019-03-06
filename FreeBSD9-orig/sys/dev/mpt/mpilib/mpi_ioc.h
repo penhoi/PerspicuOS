@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/mpt/mpilib/mpi_ioc.h 224761 2011-08-10 19:05:22Z marius $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2000-2005, LSI Logic Corporation and its contributors.
  * All rights reserved.

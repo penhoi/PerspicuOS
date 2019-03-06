@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/i386/libi386/biosacpi.c 223262 2011-06-18 13:56:33Z benl $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 #include <machine/stdarg.h>

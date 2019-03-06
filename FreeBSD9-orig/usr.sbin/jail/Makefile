@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/jail/Makefile 222465 2011-05-29 21:03:40Z bz $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

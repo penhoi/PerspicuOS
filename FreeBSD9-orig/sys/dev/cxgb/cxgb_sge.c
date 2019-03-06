@@ -28,7 +28,7 @@ POSSIBILITY OF SUCH DAMAGE.
 ***************************************************************************/
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/cxgb/cxgb_sge.c 219946 2011-03-24 01:16:48Z np $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_inet.h"
 

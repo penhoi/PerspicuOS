@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)ps.h	8.1 (Berkeley) 5/31/93
- * $FreeBSD: release/9.0.0/bin/ps/ps.h 220574 2011-04-12 20:10:15Z trasz $
+ * $FreeBSD$
  */
 
 #include <sys/queue.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libdevinfo/Makefile 201381 2010-01-02 09:58:07Z ed $
+# $FreeBSD$
 
 LIB=	devinfo
 SRCS=	devinfo.c

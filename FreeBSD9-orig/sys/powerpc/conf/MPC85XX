@@ -1,7 +1,7 @@
 #
 # Custom kernel for Freescale MPC85XX development boards like the CDS etc.
 #
-# $FreeBSD: release/9.0.0/sys/powerpc/conf/MPC85XX 224553 2011-07-31 18:34:38Z marcel $
+# $FreeBSD$
 #
 
 cpu		E500

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/bind/lwres/Makefile 193149 2009-05-31 05:42:58Z dougb $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

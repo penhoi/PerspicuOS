@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_uralreg.h 196219 2009-08-14 20:03:53Z jhb $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2005, 2006

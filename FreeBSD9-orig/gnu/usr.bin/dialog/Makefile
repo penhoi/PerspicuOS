@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/dialog/Makefile 217536 2011-01-18 14:58:12Z nwhitehorn $
+# $FreeBSD$
 
 DIALOG=	${.CURDIR}/../../../contrib/dialog
 PROG=   dialog

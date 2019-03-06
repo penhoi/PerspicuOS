@@ -5,7 +5,7 @@
  *
  * Largely rewritten by J.T. Conklin (jtc@wimsey.com)
  *
- * $FreeBSD: release/9.0.0/bin/expr/expr.y 223883 2011-07-09 12:20:15Z se $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

@@ -24,7 +24,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  *
  * $NetBSD: spr.h,v 1.25 2002/08/14 15:38:40 matt Exp $
- * $FreeBSD: release/9.0.0/sys/powerpc/include/spr.h 222433 2011-05-29 00:27:42Z marcel $
+ * $FreeBSD$
  */
 #ifndef _POWERPC_SPR_H_
 #define	_POWERPC_SPR_H_

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/usr.bin/comm/regress.sh 200442 2009-12-12 18:18:46Z jh $
+# $FreeBSD$
 
 LC_ALL=C; export LC_ALL
 

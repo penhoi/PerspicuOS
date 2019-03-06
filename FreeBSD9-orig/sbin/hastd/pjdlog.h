@@ -27,7 +27,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/hastd/pjdlog.h 218132 2011-01-31 15:52:00Z pjd $
+ * $FreeBSD$
  */
 
 #ifndef	_PJDLOG_H_

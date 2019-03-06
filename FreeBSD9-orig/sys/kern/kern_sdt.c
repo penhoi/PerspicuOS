@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/kern/kern_sdt.c 209390 2010-06-21 09:55:56Z ed $
+ * $FreeBSD$
  *
  * Backend for the Statically Defined Tracing (SDT) kernel support. This is
  * required to allow a module to load even though DTrace kernel support may

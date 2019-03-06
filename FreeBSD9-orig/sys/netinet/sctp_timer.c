@@ -33,7 +33,7 @@
 /* $KAME: sctp_timer.c,v 1.29 2005/03/06 16:04:18 itojun Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_timer.c 224641 2011-08-03 20:21:00Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #define _IP_VHL
 #include <netinet/sctp_os.h>

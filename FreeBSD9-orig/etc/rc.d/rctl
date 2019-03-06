@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/rctl 220167 2011-03-30 18:32:45Z trasz $
+# $FreeBSD$
 #
 
 # PROVIDE: rctl

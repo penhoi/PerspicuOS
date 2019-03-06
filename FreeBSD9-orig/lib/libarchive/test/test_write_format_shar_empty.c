@@ -23,7 +23,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_write_format_shar_empty.c 182592 2008-09-01 05:38:33Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 /*
  * Check that an "empty" shar archive is correctly created as an empty file.

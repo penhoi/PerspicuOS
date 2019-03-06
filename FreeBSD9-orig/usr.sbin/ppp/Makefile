@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/ppp/Makefile 202440 2010-01-16 12:20:26Z antoine $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

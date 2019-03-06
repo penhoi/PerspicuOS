@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/ldconfig 217073 2011-01-06 21:09:22Z imp $
+# $FreeBSD$
 #
 
 # PROVIDE: ldconfig

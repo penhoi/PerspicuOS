@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/lib/libuutil/Makefile 204597 2010-03-02 19:04:07Z uqs $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../cddl/contrib/opensolaris/lib/libuutil/common
 .PATH: ${.CURDIR}/../../../sys/cddl/contrib/opensolaris/common/avl

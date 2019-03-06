@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/release/scripts/doFS.sh 188606 2009-02-14 14:50:27Z nyan $
+# $FreeBSD$
 #
 
 set -ex

@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/lib/libc/string/test-wcscasecmp.c 189140 2009-02-28 06:34:04Z das $");
+__FBSDID("$FreeBSD$");
 
 #include <assert.h>
 #include <locale.h>

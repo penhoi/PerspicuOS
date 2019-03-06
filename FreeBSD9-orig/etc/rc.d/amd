@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/amd 193197 2009-06-01 04:55:13Z dougb $
+# $FreeBSD$
 #
 
 # PROVIDE: amd

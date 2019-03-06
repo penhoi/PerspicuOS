@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/netgraph/ng_ipfw.c 225586 2011-09-15 12:28:17Z ae $
+ * $FreeBSD$
  */
 
 #include "opt_inet.h"

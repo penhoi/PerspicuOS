@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sparc64/include/intr_machdep.h 216961 2011-01-04 16:11:32Z marius $
+ * $FreeBSD$
  */
 
 #ifndef	_MACHINE_INTR_MACHDEP_H_

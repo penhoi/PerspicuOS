@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/ia64/include/bootinfo.h 220313 2011-04-03 23:49:20Z marcel $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 1994, 1995, 1996 Carnegie-Mellon University.
  * All rights reserved.

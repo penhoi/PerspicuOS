@@ -35,7 +35,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libc/powerpc64/gen/fpgetsticky.c 209878 2010-07-10 14:45:03Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/cdefs.h>

@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/pjdfstest/tests/chmod/08.t 211336 2010-08-15 14:44:48Z pjd $
+# $FreeBSD$
 
 desc="chmod returns EPERM if the named file has its immutable or append-only flag set"
 

@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/pci/viapm.c 189317 2009-03-03 18:54:57Z imp $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_isa.h"
 

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/powerpc/aim/swtch64.S 223485 2011-06-23 22:21:28Z nwhitehorn $ */
+/* $FreeBSD$ */
 /* $NetBSD: locore.S,v 1.24 2000/05/31 05:09:17 thorpej Exp $ */
 
 /*-

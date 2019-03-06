@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/ia64/common/Makefile 222798 2011-06-07 00:39:15Z marcel $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 MK_SSP=		no

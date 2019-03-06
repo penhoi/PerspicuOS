@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/5/93
-# $FreeBSD: release/9.0.0/share/man/man7/Makefile 218998 2011-02-24 13:03:47Z remko $
+# $FreeBSD$
 
 #MISSING: eqnchar.7 ms.7 term.7
 MAN=	adding_user.7 \

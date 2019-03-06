@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/binutils/ranlib/Makefile 176737 2008-03-02 11:10:46Z ru $
+# $FreeBSD$
 
 .include "../Makefile.inc0"
 

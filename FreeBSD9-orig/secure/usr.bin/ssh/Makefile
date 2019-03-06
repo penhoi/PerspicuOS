@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/secure/usr.bin/ssh/Makefile 204917 2010-03-09 19:16:43Z des $
+# $FreeBSD$
 #
 
 .include <bsd.own.mk>

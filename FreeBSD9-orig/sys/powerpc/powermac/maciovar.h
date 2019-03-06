@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/powermac/maciovar.h 221519 2011-05-06 03:26:24Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #ifndef _MACIO_MACIOVAR_H_

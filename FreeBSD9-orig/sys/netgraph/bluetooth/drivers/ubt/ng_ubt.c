@@ -28,7 +28,7 @@
  * SUCH DAMAGE.
  *
  * $Id: ng_ubt.c,v 1.16 2003/10/10 19:15:06 max Exp $
- * $FreeBSD: release/9.0.0/sys/netgraph/bluetooth/drivers/ubt/ng_ubt.c 223486 2011-06-24 02:30:02Z hselasky $
+ * $FreeBSD$
  */
 
 /*

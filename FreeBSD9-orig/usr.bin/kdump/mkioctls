@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/usr.bin/kdump/mkioctls 195751 2009-07-18 10:36:18Z bz $
+# $FreeBSD$
 
 set -e
 

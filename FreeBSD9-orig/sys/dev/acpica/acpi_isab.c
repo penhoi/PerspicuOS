@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/acpica/acpi_isab.c 193530 2009-06-05 18:44:36Z jkim $");
+__FBSDID("$FreeBSD$");
 
 /*
  * ISA Bridge driver for Generic ISA Bus Devices.  See section 10.7 of the

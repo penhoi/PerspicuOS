@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ieee488/ibfoo.c 216364 2010-12-10 22:20:11Z joerg $");
+__FBSDID("$FreeBSD$");
 
 #  define	IBDEBUG
 #  undef	IBDEBUG

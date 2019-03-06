@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/sshd 221420 2011-05-04 07:34:44Z des $
+# $FreeBSD$
 #
 
 # PROVIDE: sshd

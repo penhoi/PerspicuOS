@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nfs/nfs.h 221523 2011-05-06 13:11:50Z mav $
+ * $FreeBSD$
  */
 
 #ifndef _NFS_NFS_H_

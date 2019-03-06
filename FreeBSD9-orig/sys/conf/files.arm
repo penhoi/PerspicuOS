@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/conf/files.arm 220885 2011-04-20 12:58:30Z bz $
+# $FreeBSD$
 crypto/blowfish/bf_enc.c	optional	crypto | ipsec 
 crypto/des/des_enc.c		optional	crypto | ipsec | netsmb
 arm/arm/autoconf.c		standard

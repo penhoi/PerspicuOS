@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/mps/mps_user.c 216088 2010-11-30 22:39:46Z ken $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_compat.h"
 

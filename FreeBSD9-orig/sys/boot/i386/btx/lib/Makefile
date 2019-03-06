@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/i386/btx/lib/Makefile 139103 2004-12-21 08:47:35Z ru $
+# $FreeBSD$
 
 PROG=	crt0.o
 INTERNALPROG=

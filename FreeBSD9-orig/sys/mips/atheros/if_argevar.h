@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/mips/atheros/if_argevar.h 220356 2011-04-05 06:33:35Z adrian $
+ * $FreeBSD$
  */
 
 #ifndef __IF_ARGEVAR_H__

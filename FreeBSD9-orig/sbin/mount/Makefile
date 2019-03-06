@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.6 (Berkeley) 5/8/95
-# $FreeBSD: release/9.0.0/sbin/mount/Makefile 198236 2009-10-19 16:00:24Z ru $
+# $FreeBSD$
 
 PROG=	mount
 SRCS=	mount.c mount_fs.c getmntopts.c vfslist.c

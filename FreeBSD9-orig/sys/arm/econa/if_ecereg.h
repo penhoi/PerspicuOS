@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/econa/if_ecereg.h 201468 2010-01-04 03:35:45Z rpaulo $
+ * $FreeBSD$
  */
 
 #ifndef	_IF_ECEREG_H

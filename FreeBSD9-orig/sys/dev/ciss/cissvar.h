@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/sys/dev/ciss/cissvar.h 204648 2010-03-03 17:58:41Z mav $
+ *	$FreeBSD$
  */
 
 /*

@@ -37,7 +37,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/mips/gen/longjmp.c 178580 2008-04-26 12:08:02Z imp $");
+__FBSDID("$FreeBSD$");
 #include "namespace.h"
 #include <sys/types.h>
 #include <ucontext.h>

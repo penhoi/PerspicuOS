@@ -1,6 +1,6 @@
 #!/bin/sh -
 #
-# $FreeBSD: release/9.0.0/release/picobsd/build/picobsd 218359 2011-02-05 23:03:40Z luigi $
+# $FreeBSD$
 # This file requires sysutils/makefs to run
 #
 # The PicoBSD build script. Invoked as

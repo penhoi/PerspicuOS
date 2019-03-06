@@ -29,7 +29,7 @@
  * CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/cxgb/ulp/iw_cxgb/iw_cxgb_user.h 178786 2008-05-05 18:46:18Z kmacy $
+ * $FreeBSD$
  */
 #ifndef __IWCH_USER_H__
 #define __IWCH_USER_H__

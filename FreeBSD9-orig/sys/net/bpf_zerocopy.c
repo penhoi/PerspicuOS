@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net/bpf_zerocopy.c 216699 2010-12-25 21:26:56Z alc $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bpf.h"
 

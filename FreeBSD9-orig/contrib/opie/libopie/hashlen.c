@@ -11,7 +11,7 @@ you didn't get a copy, you may request one from <license@inner.net>.
 	Modified by cmetz for OPIE 2.4. Use struct opie_otpkey, isolate variables.
 	Created by cmetz for OPIE 2.3.
 
-$FreeBSD: release/9.0.0/contrib/opie/libopie/hashlen.c 92914 2002-03-21 23:42:52Z markm $
+$FreeBSD$
 */
 
 #include "opie_cfg.h"

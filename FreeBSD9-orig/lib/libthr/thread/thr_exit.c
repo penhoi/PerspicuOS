@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/thread/thr_exit.c 213297 2010-09-30 12:59:56Z davidxu $
+ * $FreeBSD$
  */
 
 #include "namespace.h"

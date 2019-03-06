@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/pc-sysinstall/Makefile 209513 2010-06-24 22:21:47Z imp $
+# $FreeBSD$
 SUBDIR=backend backend-partmanager backend-query conf doc examples
 SUBDIR+=pc-sysinstall
 

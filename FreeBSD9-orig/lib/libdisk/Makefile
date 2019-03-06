@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libdisk/Makefile 221869 2011-05-14 01:53:38Z attilio $
+# $FreeBSD$
 
 .if ${MACHINE_CPUARCH} == "ia64"
 _open_disk=	open_ia64_disk.c

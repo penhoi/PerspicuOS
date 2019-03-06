@@ -22,7 +22,7 @@
  * OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/ofw/ofw_cpu.c 193156 2009-05-31 09:01:23Z nwhitehorn $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

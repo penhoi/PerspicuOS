@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/patch/inp.c 191910 2009-05-08 02:18:46Z sepotvin $
+/* $FreeBSD$
  *
  * $Log: inp.c,v $
  * Revision 2.0.1.1  88/06/03  15:06:13  lwall

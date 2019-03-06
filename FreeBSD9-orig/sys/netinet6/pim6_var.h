@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	$KAME: pim6_var.h,v 1.8 2000/06/06 08:07:43 jinmei Exp $
- * $FreeBSD: release/9.0.0/sys/netinet6/pim6_var.h 174510 2007-12-10 16:03:40Z obrien $
+ * $FreeBSD$
  */
 
 /*

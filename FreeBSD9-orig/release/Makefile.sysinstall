@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/release/Makefile.sysinstall 229261 2012-01-02 04:11:22Z kensmith $
+# $FreeBSD$
 #
 # make release [BUILDNAME=somename] CHROOTDIR=/some/dir CVSROOT=/cvs/dir \
 #     [RELEASETAG=tag] [SVNROOT=svn://svn.freebsd.org/base] \

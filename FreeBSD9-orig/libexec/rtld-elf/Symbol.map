@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/libexec/rtld-elf/Symbol.map 218890 2011-02-20 16:16:42Z nwhitehorn $
+ * $FreeBSD$
  */
 
 FBSD_1.0 {

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  * 
- * $FreeBSD: release/9.0.0/sys/dev/mps/mpsvar.h 219036 2011-02-25 17:30:25Z ken $
+ * $FreeBSD$
  */
 
 #ifndef _MPSVAR_H

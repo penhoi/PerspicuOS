@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/wpa/hostapd_cli/Makefile 189270 2009-03-02 04:11:34Z sam $
+# $FreeBSD$
 
 .include "${.CURDIR}/../Makefile.inc"
 

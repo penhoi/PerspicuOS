@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/asmc/Makefile 177973 2008-04-07 11:26:13Z rpaulo $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/asmc
 

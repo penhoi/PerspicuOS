@@ -36,7 +36,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/mips/cache_mipsNN.c 224115 2011-07-16 20:31:29Z jchandra $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_cputype.h"
 

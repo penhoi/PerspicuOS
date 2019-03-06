@@ -1,4 +1,4 @@
-$FreeBSD: release/9.0.0/sys/dev/usb/usbdevs 227007 2011-11-01 22:00:49Z hselasky $
+$FreeBSD$
 /* $NetBSD: usbdevs,v 1.392 2004/12/29 08:38:44 imp Exp $ */
 
 /*-

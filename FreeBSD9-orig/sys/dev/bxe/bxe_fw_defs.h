@@ -30,7 +30,7 @@
  * THE POSSIBILITY OF SUCH DAMAGE.
  */
 
- /*$FreeBSD: release/9.0.0/sys/dev/bxe/bxe_fw_defs.h 219656 2011-03-15 01:06:27Z davidch $*/
+ /*$FreeBSD$*/
 
 #ifndef _BXE_FW_DEFS_H
 #define _BXE_FW_DEFS_H

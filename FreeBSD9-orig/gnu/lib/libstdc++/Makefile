@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/libstdc++/Makefile 212286 2010-09-07 08:33:17Z tijl $
+# $FreeBSD$
 
 GCCVER=	4.2
 GCCDIR=	${.CURDIR}/../../../contrib/gcc

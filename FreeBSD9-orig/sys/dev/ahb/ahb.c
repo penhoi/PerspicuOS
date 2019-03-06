@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ahb/ahb.c 170883 2007-06-17 15:21:09Z scottl $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

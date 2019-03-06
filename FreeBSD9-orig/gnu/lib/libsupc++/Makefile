@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/lib/libsupc++/Makefile 207995 2010-05-12 19:59:32Z obrien $
+# $FreeBSD$
 
 GCCVER=	4.2
 GCCDIR=	${.CURDIR}/../../../contrib/gcc

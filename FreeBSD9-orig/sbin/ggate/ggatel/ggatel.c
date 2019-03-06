@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sbin/ggate/ggatel/ggatel.c 220265 2011-04-02 06:59:05Z pjd $
+ * $FreeBSD$
  */
 
 #include <stdio.h>

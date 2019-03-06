@@ -57,7 +57,7 @@
  *	from: @(#)isa.c	7.2 (Berkeley) 5/13/91
  *	form: src/sys/i386/isa/intr_machdep.c,v 1.57 2001/07/20
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/powerpc/intr_machdep.c 222813 2011-06-07 08:46:13Z attilio $
+ * $FreeBSD$
  */
 
 #include "opt_isa.h"

@@ -30,7 +30,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)quota.h	8.3 (Berkeley) 8/19/94
- * $FreeBSD: release/9.0.0/sys/ufs/ufs/quota.h 222955 2011-06-10 22:19:44Z jeff $
+ * $FreeBSD$
  */
 
 #ifndef _UFS_UFS_QUOTA_H_

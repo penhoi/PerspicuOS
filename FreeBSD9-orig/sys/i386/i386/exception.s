@@ -31,7 +31,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/i386/exception.s 211924 2010-08-28 08:03:29Z rpaulo $
+ * $FreeBSD$
  */
 
 #include "opt_apic.h"

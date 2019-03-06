@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/arm/Makefile 183878 2008-10-14 10:11:14Z raj $
+# $FreeBSD$
 
 SUBDIR=		uboot
 

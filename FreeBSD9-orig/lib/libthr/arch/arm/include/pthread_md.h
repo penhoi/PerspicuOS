@@ -23,7 +23,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/arch/arm/include/pthread_md.h 176225 2008-02-13 05:12:05Z obrien $
+ * $FreeBSD$
  */
 
 /*

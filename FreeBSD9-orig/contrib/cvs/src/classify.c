@@ -13,7 +13,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/contrib/cvs/src/classify.c 179826 2008-06-16 17:06:17Z obrien $");
+__FBSDID("$FreeBSD$");
 
 #include "cvs.h"
 

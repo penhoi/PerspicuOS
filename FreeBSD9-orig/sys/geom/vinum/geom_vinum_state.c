@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/geom/vinum/geom_vinum_state.c 190507 2009-03-28 17:20:08Z lulf $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/libkern.h>
 #include <sys/malloc.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libblocksruntime/Makefile 215125 2010-11-11 15:13:11Z ed $
+# $FreeBSD$
 
 LIB=	BlocksRuntime
 SHLIB_MAJOR=0

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.bin/fetch/Makefile 204352 2010-02-26 09:41:16Z ru $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

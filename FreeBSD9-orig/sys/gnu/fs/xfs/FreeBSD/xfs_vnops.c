@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/gnu/fs/xfs/FreeBSD/xfs_vnops.c 207662 2010-05-05 16:44:25Z trasz $
+ * $FreeBSD$
  */
 #include <sys/param.h>
 #include <sys/systm.h>

@@ -28,7 +28,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
  * THE POSSIBILITY OF SUCH DAMAGES.
  *
- * $FreeBSD: release/9.0.0/tools/tools/ath/common/diag.h 185743 2008-12-07 19:17:33Z sam $
+ * $FreeBSD$
  */
 #include <sys/types.h>
 #include <sys/file.h>

@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/contrib/wpa/src/utils/radiotap.h 214734 2010-11-03 10:43:38Z rpaulo $ */
+/* $FreeBSD$ */
 /* $NetBSD: ieee80211_radiotap.h,v 1.11 2005/06/22 06:16:02 dyoung Exp $ */
 
 /*-

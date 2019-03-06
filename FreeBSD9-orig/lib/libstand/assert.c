@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libstand/assert.c 205900 2010-03-30 19:07:41Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #include <assert.h>
 

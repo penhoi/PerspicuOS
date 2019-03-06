@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/ntfs/ntfs_subr.c 200214 2009-12-07 15:15:08Z guido $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

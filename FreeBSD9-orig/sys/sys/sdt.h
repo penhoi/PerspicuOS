@@ -22,7 +22,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/sdt.h 211616 2010-08-22 11:18:57Z rpaulo $
+ * $FreeBSD$
  *
  * Statically Defined Tracing (SDT) definitions.
  *

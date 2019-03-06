@@ -28,7 +28,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/ucontext.h 203974 2010-02-16 21:59:17Z imp $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_MCONTEXT_H_

@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/lib/libgssapi/mech_switch.h 181344 2008-08-06 14:02:05Z dfr $
+ *	$FreeBSD$
  */
 
 #include <unistd.h>

@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.2 (Berkeley) 4/2/94
-# $FreeBSD: release/9.0.0/usr.bin/chpass/Makefile 207613 2010-05-04 11:34:13Z emaste $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

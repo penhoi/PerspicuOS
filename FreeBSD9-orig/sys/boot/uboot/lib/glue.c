@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/boot/uboot/lib/glue.c 208535 2010-05-25 10:15:30Z raj $");
+__FBSDID("$FreeBSD$");
 
 #include <stand.h>
 #include "api_public.h"

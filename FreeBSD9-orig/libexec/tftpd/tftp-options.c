@@ -24,7 +24,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/libexec/tftpd/tftp-options.c 213099 2010-09-24 10:40:17Z marius $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/socket.h>
 #include <sys/types.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ste/Makefile 181739 2008-08-14 20:09:58Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/ste
 

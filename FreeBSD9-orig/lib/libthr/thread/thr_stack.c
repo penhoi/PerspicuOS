@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libthr/thread/thr_stack.c 217224 2011-01-10 16:10:25Z kib $
+ * $FreeBSD$
  */
 
 #include <sys/types.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/tzsetup/Makefile 217309 2011-01-12 14:55:02Z nwhitehorn $
+# $FreeBSD$
 
 PROG=	tzsetup
 MAN=	tzsetup.8

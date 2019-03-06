@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/rtsold 204427 2010-02-27 19:02:21Z ume $
+# $FreeBSD$
 #
 
 # PROVIDE: rtsold

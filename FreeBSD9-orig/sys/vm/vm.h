@@ -55,7 +55,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/vm/vm.h 216128 2010-12-02 17:37:16Z trasz $
+ * $FreeBSD$
  */
 
 #ifndef VM_H

@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/e1000/e1000_ich8lan.c 218909 2011-02-21 09:01:34Z brucec $*/
+/*$FreeBSD$*/
 
 /*
  * 82562G 10/100 Network Connection

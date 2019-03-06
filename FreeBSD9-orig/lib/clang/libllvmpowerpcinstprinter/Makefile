@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/clang/libllvmpowerpcinstprinter/Makefile 224145 2011-07-17 19:51:40Z dim $
+# $FreeBSD$
 
 LIB=	llvmpowerpcinstprinter
 

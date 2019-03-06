@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.bin/ar/acplex.l 215704 2010-11-22 20:10:48Z brucec $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <errno.h>

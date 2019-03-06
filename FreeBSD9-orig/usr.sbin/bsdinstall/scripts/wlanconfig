@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/scripts/wlanconfig 225539 2011-09-13 21:39:26Z brueffer $
+# $FreeBSD$
 
 echo -n > $BSDINSTALL_TMPETC/wpa_supplicant.conf
 chmod 0600 $BSDINSTALL_TMPETC/wpa_supplicant.conf

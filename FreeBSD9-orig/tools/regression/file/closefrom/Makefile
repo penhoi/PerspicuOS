@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/file/closefrom/Makefile 204311 2010-02-25 14:42:26Z ru $
+# $FreeBSD$
 
 PROG=	closefrom
 MAN=

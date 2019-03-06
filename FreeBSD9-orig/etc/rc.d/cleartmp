@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/cleartmp 212222 2010-09-05 05:44:40Z daichi $
+# $FreeBSD$
 #
 
 # PROVIDE: cleartmp

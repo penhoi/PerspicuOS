@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/make/lst.c 218909 2011-02-21 09:01:34Z brucec $
+ * $FreeBSD$
  */
 
 /*-

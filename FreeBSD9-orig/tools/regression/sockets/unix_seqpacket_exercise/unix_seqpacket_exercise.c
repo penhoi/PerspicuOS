@@ -28,7 +28,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/sockets/unix_seqpacket_exercise/unix_seqpacket_exercise.c 197781 2009-10-05 15:27:01Z rwatson $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/socket.h>
 #include <sys/wait.h>

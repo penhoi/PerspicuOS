@@ -77,7 +77,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/vm/vm_page.c 227420 2011-11-10 16:50:36Z alc $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_vm.h"
 

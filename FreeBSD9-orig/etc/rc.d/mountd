@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/mountd 223852 2011-07-08 00:49:50Z rmacklem $
+# $FreeBSD$
 #
 
 # PROVIDE: mountd

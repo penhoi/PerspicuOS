@@ -33,7 +33,7 @@
  *
  * $Id: ib_sa.h 2811 2005-07-06 18:11:43Z halr $
  *
- * $FreeBSD: release/9.0.0/sys/contrib/rdma/ib_sa.h 178784 2008-05-05 18:35:55Z kmacy $
+ * $FreeBSD$
  */
 
 #ifndef IB_SA_H

@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/contrib/bsnmp/snmp_target/target_snmp.c 216594 2010-12-20 17:13:14Z syrinx $
+ * $FreeBSD$
  */
 #include <sys/queue.h>
 #include <sys/types.h>

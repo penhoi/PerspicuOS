@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# $FreeBSD: release/9.0.0/etc/rc.d/route6d 197144 2009-09-12 22:19:48Z hrs $
+# $FreeBSD$
 #
 
 # PROVIDE: route6d

@@ -22,7 +22,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/gen/readpassphrase.c 215236 2010-11-13 10:38:06Z delphij $");
+__FBSDID("$FreeBSD$");
 
 #include "namespace.h"
 #include <ctype.h>

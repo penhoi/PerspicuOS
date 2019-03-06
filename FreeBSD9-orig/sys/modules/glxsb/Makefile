@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/glxsb/Makefile 181467 2008-08-09 14:52:31Z philip $
+# $FreeBSD$
 
 .PATH:	${.CURDIR}/../../dev/glxsb
 KMOD	= glxsb

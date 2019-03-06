@@ -24,7 +24,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/usr.sbin/bsdinstall/scripts/auto 228241 2011-12-03 17:17:32Z nwhitehorn $
+# $FreeBSD$
 
 echo "Begun Installation at $(date)" > $BSDINSTALL_LOG
 

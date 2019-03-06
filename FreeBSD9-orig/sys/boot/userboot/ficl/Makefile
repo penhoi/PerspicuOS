@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/userboot/ficl/Makefile 223695 2011-06-30 16:08:56Z dfr $
+# $FreeBSD$
 #
 .include <bsd.own.mk>
 MK_SSP=		no

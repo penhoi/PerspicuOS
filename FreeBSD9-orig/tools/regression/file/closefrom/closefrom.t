@@ -1,5 +1,5 @@
 #!/bin/sh
-# $FreeBSD: release/9.0.0/tools/regression/file/closefrom/closefrom.t 194262 2009-06-15 20:38:55Z jhb $
+# $FreeBSD$
 
 cd `dirname $0`
 

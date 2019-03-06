@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/sys/stdint.h 221502 2011-05-05 14:45:24Z obrien $
+ * $FreeBSD$
  */
 
 #ifndef _SYS_STDINT_H_

@@ -33,7 +33,7 @@
  *
  */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libkse/thread/thr_kern.c 174335 2007-12-06 06:04:01Z deischen $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/kse.h>

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/doat/Makefile 219568 2011-03-12 14:47:54Z brucec $
+# $FreeBSD$
 
 PROG=	doat
 

@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/dev/usb/wlan/if_urtwvar.h 203087 2010-01-27 19:43:14Z weongyo $	*/
+/*	$FreeBSD$	*/
 
 /*-
  * Copyright (c) 2008 Weongyo Jeong <weongyo@FreeBSD.org>

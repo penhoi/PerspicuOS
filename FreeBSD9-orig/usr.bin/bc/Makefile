@@ -1,4 +1,4 @@
-#	$FreeBSD: release/9.0.0/usr.bin/bc/Makefile 203498 2010-02-04 18:43:05Z delphij $
+#	$FreeBSD$
 #	$OpenBSD: Makefile,v 1.4 2006/06/30 19:02:28 otto Exp $
 
 PROG=	bc

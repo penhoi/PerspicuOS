@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/gnu/usr.bin/patch/common.h 197259 2009-09-16 19:53:29Z sepotvin $
+/* $FreeBSD$
  *
  * $Log: common.h,v $
  * Revision 2.0.1.2  88/06/22  20:44:53  lwall

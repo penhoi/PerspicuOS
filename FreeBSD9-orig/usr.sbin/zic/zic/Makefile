@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/usr.sbin/zic/zic/Makefile 204347 2010-02-26 06:44:00Z edwin $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../contrib/tzcode/zic
 

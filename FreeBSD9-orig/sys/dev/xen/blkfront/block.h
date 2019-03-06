@@ -26,7 +26,7 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
  * DEALINGS IN THE SOFTWARE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/xen/blkfront/block.h 225705 2011-09-21 00:02:44Z gibbs $
+ * $FreeBSD$
  */
 
 

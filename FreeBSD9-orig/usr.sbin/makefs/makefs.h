@@ -34,7 +34,7 @@
  * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/makefs/makefs.h 223306 2011-06-19 18:34:49Z marcel $
+ * $FreeBSD$
  */
 
 #ifndef	_MAKEFS_H

@@ -27,7 +27,7 @@
  * SUCH DAMAGE.
  *
  *	@(#)rtsock.c	8.7 (Berkeley) 10/12/95
- * $FreeBSD: release/9.0.0/sys/net/rtsock.c 227895 2011-11-23 18:04:53Z bz $
+ * $FreeBSD$
  */
 #include "opt_compat.h"
 #include "opt_sctp.h"

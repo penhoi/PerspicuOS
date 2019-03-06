@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/mips/alchemy/alchemy_machdep.c 216320 2010-12-09 07:47:40Z gonzo $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ddb.h"
 

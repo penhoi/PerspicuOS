@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/libalias/libalias/Makefile 188294 2009-02-07 18:49:42Z piso $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../netinet/libalias
 

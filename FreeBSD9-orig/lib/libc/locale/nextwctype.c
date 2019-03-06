@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/locale/nextwctype.c 131787 2004-07-08 06:43:37Z tjr $");
+__FBSDID("$FreeBSD$");
 
 #include <runetype.h>
 #include <wchar.h>

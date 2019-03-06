@@ -36,7 +36,7 @@
 static char sccsid[] = "@(#)table.c	8.1 (Berkeley) 6/4/93";
 #endif
 static const char rcsid[] =
-  "$FreeBSD: release/9.0.0/libexec/talkd/table.c 211056 2010-08-08 02:45:48Z ed $";
+  "$FreeBSD$";
 #endif /* not lint */
 
 /*

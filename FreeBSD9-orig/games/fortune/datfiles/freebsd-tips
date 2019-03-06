@@ -1,5 +1,5 @@
 This fortune brought to you by:
-$FreeBSD: release/9.0.0/games/fortune/datfiles/freebsd-tips 211094 2010-08-09 09:26:17Z fjoe $
+$FreeBSD$
 %
 Any user that is a member of the wheel group can use "su -" to simulate
 a root login. You can add a user to the wheel group by editing /etc/group.

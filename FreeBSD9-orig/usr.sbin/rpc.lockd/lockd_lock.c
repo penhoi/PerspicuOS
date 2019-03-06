@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/rpc.lockd/lockd_lock.c 216603 2010-12-20 21:12:18Z uqs $");
+__FBSDID("$FreeBSD$");
 
 #define LOCKD_DEBUG
 

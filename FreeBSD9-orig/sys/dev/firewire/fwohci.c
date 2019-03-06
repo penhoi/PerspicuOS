@@ -31,7 +31,7 @@
  * ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  * 
- * $FreeBSD: release/9.0.0/sys/dev/firewire/fwohci.c 223353 2011-06-21 03:07:59Z imp $
+ * $FreeBSD$
  *
  */
 

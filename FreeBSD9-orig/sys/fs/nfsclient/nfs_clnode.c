@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/fs/nfsclient/nfs_clnode.c 224606 2011-08-02 11:28:42Z rmacklem $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kdtrace.h"
 

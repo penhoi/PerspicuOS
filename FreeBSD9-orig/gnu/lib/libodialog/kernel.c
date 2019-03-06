@@ -78,7 +78,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/gnu/lib/libodialog/kernel.c 114603 2003-05-03 21:31:08Z obrien $");
+__FBSDID("$FreeBSD$");
 
 #define __DIALOG_MAIN__
 

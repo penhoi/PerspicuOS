@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/isp/isp_stds.h 197373 2009-09-21 01:41:19Z mjacob $ */
+/* $FreeBSD$ */
 /*-
  *  Copyright (c) 1997-2009 by Matthew Jacob
  *  All rights reserved.

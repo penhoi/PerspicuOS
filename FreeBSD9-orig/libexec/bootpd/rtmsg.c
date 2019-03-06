@@ -42,7 +42,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/libexec/bootpd/rtmsg.c 216226 2010-12-06 09:39:36Z glebius $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 /*

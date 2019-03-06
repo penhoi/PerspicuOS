@@ -32,7 +32,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/intr.h 193847 2009-06-09 18:18:41Z marcel $
+ * $FreeBSD$
  *
  */
 

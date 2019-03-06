@@ -19,7 +19,7 @@
  *
  * CDDL HEADER END
  *
- * $FreeBSD: release/9.0.0/sys/cddl/dev/dtrace/i386/regset.h 211608 2010-08-22 10:53:32Z rpaulo $ 
+ * $FreeBSD$ 
  */
 /*
  * Copyright 2004 Sun Microsystems, Inc.  All rights reserved.

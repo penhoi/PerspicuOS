@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libgeom/Makefile 192376 2009-05-19 12:10:48Z trasz $
+# $FreeBSD$
 
 LIB=	geom
 SHLIBDIR?= /lib

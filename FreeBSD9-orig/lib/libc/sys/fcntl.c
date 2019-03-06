@@ -26,7 +26,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libc/sys/fcntl.c 179434 2008-05-30 14:47:42Z dfr $");
+__FBSDID("$FreeBSD$");
 
 #include <fcntl.h>
 #include <stdarg.h>

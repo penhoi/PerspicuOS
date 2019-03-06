@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/tools/nanobsd/rescue/Files/root/.cshrc 188482 2009-02-11 12:15:35Z mr $
+# $FreeBSD$
 #
 #csh .cshrc file
 

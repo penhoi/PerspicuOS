@@ -31,7 +31,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/security/cap_test/cap_test_capabilities.c 224910 2011-08-16 14:14:56Z jonathan $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 #include <sys/capability.h>

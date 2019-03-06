@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/kern/Make.tags.inc 223901 2011-07-10 00:53:04Z mckusick $
+# $FreeBSD$
 #	@(#)Make.tags.inc	8.1 (Berkeley) 6/11/93
 
 SYS?=	${.CURDIR}/..

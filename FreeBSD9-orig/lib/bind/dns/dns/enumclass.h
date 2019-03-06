@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/bind/dns/dns/enumclass.h 218384 2011-02-06 22:46:07Z dougb $ */
+/* $FreeBSD$ */
 
 /*
  * Copyright (C) 2004-2011 Internet Systems Consortium, Inc. ("ISC")

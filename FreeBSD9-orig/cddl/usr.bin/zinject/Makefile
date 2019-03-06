@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/cddl/usr.bin/zinject/Makefile 204597 2010-03-02 19:04:07Z uqs $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../contrib/opensolaris/cmd/zinject
 

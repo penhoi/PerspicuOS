@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libelf/libelf_msize.m4 210332 2010-07-21 09:56:42Z kaiw $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/elf32.h>

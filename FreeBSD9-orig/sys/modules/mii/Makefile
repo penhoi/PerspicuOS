@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mii/Makefile 227277 2011-11-06 21:09:10Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/mii
 

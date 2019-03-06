@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/binutils/ld/armelf_fbsd.sh 218822 2011-02-18 20:54:12Z dim $
+# $FreeBSD$
 . ${srcdir}/emulparams/armelf.sh
 . ${srcdir}/emulparams/elf_fbsd.sh
 MAXPAGESIZE=0x8000

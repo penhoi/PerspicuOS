@@ -6,7 +6,7 @@
 * this stuff is worth it, you can buy me a beer in return.   Poul-Henning Kamp
 * ----------------------------------------------------------------------------
 *
-* $FreeBSD: release/9.0.0/lib/libdisk/libdisk.h 178765 2008-05-04 22:24:40Z gonzo $
+* $FreeBSD$
 *
 */
 

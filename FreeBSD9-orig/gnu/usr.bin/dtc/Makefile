@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/dtc/Makefile 210101 2010-07-15 02:22:50Z marcel $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

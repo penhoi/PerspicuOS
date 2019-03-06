@@ -28,7 +28,7 @@
  * WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
  * POSSIBILITY OF SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/vm/vm_phys.h 210550 2010-07-27 20:33:50Z jhb $
+ * $FreeBSD$
  */
 
 /*

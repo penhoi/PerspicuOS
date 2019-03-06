@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/kern/kern_timeout.c 225057 2011-08-21 10:52:50Z attilio $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_kdtrace.h"
 

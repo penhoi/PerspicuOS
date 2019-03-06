@@ -1,4 +1,4 @@
-#	$FreeBSD: release/9.0.0/sbin/ipf/ipftest/Makefile 204585 2010-03-02 16:58:04Z uqs $
+#	$FreeBSD$
 
 PROG=		ipftest
 SRCS=		${GENHDRS} ipftest.c fil.c ip_frag.c ip_state.c ip_nat.c \

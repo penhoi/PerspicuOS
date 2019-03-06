@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/x86/x86/mca.c 218221 2011-02-03 13:09:22Z jhb $");
+__FBSDID("$FreeBSD$");
 
 #ifdef __amd64__
 #define	DEV_APIC

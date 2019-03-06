@@ -19,7 +19,7 @@
  *
  */
 
-/* $FreeBSD: release/9.0.0/sys/gnu/dev/sound/pci/p17v-alsa.h 160383 2006-07-15 19:36:28Z netchild $ */
+/* $FreeBSD$ */
 
 /******************************************************************************/
 /* Audigy2Value Tina (P17V) pointer-offset register set,

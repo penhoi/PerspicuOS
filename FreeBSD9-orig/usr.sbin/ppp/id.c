@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.sbin/ppp/id.c 202192 2010-01-13 17:54:32Z ed $
+ * $FreeBSD$
  */
 
 #include <sys/param.h>

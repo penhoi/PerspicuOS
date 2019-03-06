@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/tools/regression/lib/msun/test-next.c 174691 2007-12-16 23:36:37Z das $");
+__FBSDID("$FreeBSD$");
 
 #include <fenv.h>
 #include <float.h>

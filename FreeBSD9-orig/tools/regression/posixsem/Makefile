@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/tools/regression/posixsem/Makefile 180059 2008-06-27 05:39:04Z jhb $
+# $FreeBSD$
 
 PROG=	posixsem
 SRCS=	posixsem.c test.c

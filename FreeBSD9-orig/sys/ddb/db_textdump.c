@@ -57,7 +57,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ddb/db_textdump.c 193066 2009-05-29 21:27:12Z jamie $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_config.h"
 

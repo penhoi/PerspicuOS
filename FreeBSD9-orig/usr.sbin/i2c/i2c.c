@@ -25,7 +25,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/i2c/i2c.c 187712 2009-01-26 14:00:50Z raj $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <errno.h>

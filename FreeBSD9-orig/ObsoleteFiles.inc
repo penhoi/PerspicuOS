@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/ObsoleteFiles.inc 225583 2011-09-15 12:15:36Z lstewart $
+# $FreeBSD$
 #
 # This file lists old files (OLD_FILES), libraries (OLD_LIBS) and
 # directories (OLD_DIRS) which should get removed at an update. Recently

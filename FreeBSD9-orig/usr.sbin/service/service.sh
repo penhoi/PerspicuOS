@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# $FreeBSD: release/9.0.0/usr.sbin/service/service.sh 201070 2009-12-27 23:15:23Z dougb $
+# $FreeBSD$
 
 #  Copyright (c) 2009 Douglas Barton
 #  All rights reserved.

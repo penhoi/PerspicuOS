@@ -12,7 +12,7 @@
  * warranties of merchantability and fitness for a particular
  * purpose.
  *
- * $FreeBSD: release/9.0.0/sys/boot/i386/btx/btx/btx.S 189017 2009-02-24 23:11:15Z jhb $
+ * $FreeBSD$
  */
 
 /*

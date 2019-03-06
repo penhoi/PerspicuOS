@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/i386/include/pcpu.h 216956 2011-01-04 14:49:54Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_PCPU_H_

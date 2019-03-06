@@ -30,7 +30,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 
 ******************************************************************************/
-/*$FreeBSD: release/9.0.0/sys/dev/e1000/e1000_defines.h 219753 2011-03-18 18:54:00Z jfv $*/
+/*$FreeBSD$*/
 
 #ifndef _E1000_DEFINES_H_
 #define _E1000_DEFINES_H_

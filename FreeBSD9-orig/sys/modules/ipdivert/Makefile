@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ipdivert/Makefile 223593 2011-06-27 12:21:11Z glebius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../netinet
 

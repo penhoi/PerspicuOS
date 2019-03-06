@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ufs/ufs/ufs_quota.c 222955 2011-06-10 22:19:44Z jeff $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ffs.h"
 

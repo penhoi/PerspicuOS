@@ -26,7 +26,7 @@
  * SUCH DAMAGE.
  *
  * from: src/sys/i386/include/_bus.h,v 1.1 2005/04/18 21:45:33 imp
- * $FreeBSD: release/9.0.0/sys/mips/include/_bus.h 210311 2010-07-20 19:25:11Z jmallett $
+ * $FreeBSD$
  */
 
 #ifndef MIPS_INCLUDE__BUS_H

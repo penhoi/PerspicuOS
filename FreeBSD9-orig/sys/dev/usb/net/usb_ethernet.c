@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/usb/net/usb_ethernet.c 217556 2011-01-18 21:14:23Z mdf $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (c) 2009 Andrew Thompson (thompsa@FreeBSD.org)
  *

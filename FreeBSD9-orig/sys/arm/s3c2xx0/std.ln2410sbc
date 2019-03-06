@@ -1,4 +1,4 @@
-#$FreeBSD: release/9.0.0/sys/arm/s3c2xx0/std.ln2410sbc 218054 2011-01-29 00:46:11Z andrew $
+#$FreeBSD$
 include "../s3c2xx0/std.s3c2410"
 
 makeoptions	KERNPHYSADDR=0x30000000

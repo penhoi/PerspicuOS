@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/libexec/ypxfr/Makefile 201380 2010-01-02 09:50:19Z ed $
+# $FreeBSD$
 
 PROG=	ypxfr
 SRCS=	yp_dblookup.c yp_dbwrite.c yp_error.c \

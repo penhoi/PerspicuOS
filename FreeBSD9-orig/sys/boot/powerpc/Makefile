@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/powerpc/Makefile 217044 2011-01-06 04:12:29Z nwhitehorn $
+# $FreeBSD$
 
 SUBDIR=		boot1.chrp ofw ps3 uboot
 

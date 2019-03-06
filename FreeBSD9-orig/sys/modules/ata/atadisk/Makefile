@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/ata/atadisk/Makefile 208468 2010-05-23 20:24:03Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../../dev/ata ${.CURDIR}/../../../${MACHINE}/${MACHINE}
 

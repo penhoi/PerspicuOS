@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/drm/r128_drv.h 189130 2009-02-28 02:37:55Z rnoland $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __R128_DRV_H__
 #define __R128_DRV_H__

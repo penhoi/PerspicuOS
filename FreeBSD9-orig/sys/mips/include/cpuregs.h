@@ -52,7 +52,7 @@
  * from: Header: /sprite/src/kernel/vm/ds3100.md/RCS/vmPmaxConst.h,
  *	v 9.1 89/09/18 17:33:00 shirriff Exp  SPRITE (DECWRL)
  *
- * $FreeBSD: release/9.0.0/sys/mips/include/cpuregs.h 219693 2011-03-16 08:22:29Z jmallett $
+ * $FreeBSD$
  */
 
 #ifndef _MIPS_CPUREGS_H_

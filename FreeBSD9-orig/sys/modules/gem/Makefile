@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/gem/Makefile 212725 2010-09-16 09:29:48Z marius $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/gem
 

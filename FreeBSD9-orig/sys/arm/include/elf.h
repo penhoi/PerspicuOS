@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/arm/include/elf.h 217097 2011-01-07 14:22:34Z kib $
+ * $FreeBSD$
  */
 
 #ifndef _MACHINE_ELF_H_

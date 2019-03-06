@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/contrib/ipfilter/tools/ipfcomp.c 194290 2009-06-16 13:31:01Z rdivacky $	*/
+/*	$FreeBSD$	*/
 
 /*
  * Copyright (C) 2001-2005 by Darren Reed.

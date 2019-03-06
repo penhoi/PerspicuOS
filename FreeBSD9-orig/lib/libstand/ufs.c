@@ -68,7 +68,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libstand/ufs.c 182748 2008-09-04 10:05:44Z raj $");
+__FBSDID("$FreeBSD$");
 
 /*
  *	Stand-alone file reading package.

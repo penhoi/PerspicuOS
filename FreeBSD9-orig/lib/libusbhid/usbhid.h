@@ -25,7 +25,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/lib/libusbhid/usbhid.h 208023 2010-05-13 02:03:00Z thompsa $
+ * $FreeBSD$
  *
  */
 

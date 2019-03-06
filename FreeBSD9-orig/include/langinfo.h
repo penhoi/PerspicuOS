@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/include/langinfo.h 197764 2009-10-05 07:11:19Z edwin $
+ * $FreeBSD$
  */
 
 #ifndef _LANGINFO_H_

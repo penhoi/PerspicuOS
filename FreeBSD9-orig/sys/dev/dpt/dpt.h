@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/dpt/dpt.h 201807 2010-01-08 17:20:41Z trasz $
+ * $FreeBSD$
  */
 
 /*

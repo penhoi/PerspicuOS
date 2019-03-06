@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/dev/ieee488/upd7210.h 203360 2010-02-01 21:21:10Z joerg $
+ * $FreeBSD$
  *
  * Locating an actual µPD7210 data book has proven quite impossible for me.
  * There are a fair number of newer chips which are supersets of the µPD7210

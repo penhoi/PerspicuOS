@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/sdiff/Makefile 204227 2010-02-22 22:32:24Z delphij $
+# $FreeBSD$
 
 DIFFSRC=${.CURDIR}/../../../contrib/diff/src
 .PATH:  ${DIFFSRC} \

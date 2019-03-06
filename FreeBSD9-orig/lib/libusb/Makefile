@@ -1,5 +1,5 @@
 #
-# $FreeBSD: release/9.0.0/lib/libusb/Makefile 225659 2011-09-19 08:52:06Z hselasky $
+# $FreeBSD$
 #
 # Makefile for the FreeBSD specific LibUSB 2.0
 #

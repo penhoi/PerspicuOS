@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/powerpc/uboot/Makefile 209920 2010-07-12 00:49:22Z nwhitehorn $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

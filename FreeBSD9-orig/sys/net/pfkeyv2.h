@@ -1,4 +1,4 @@
-/*	$FreeBSD: release/9.0.0/sys/net/pfkeyv2.h 194062 2009-06-12 15:44:35Z vanhu $	*/
+/*	$FreeBSD$	*/
 /*	$KAME: pfkeyv2.h,v 1.37 2003/09/06 05:15:43 itojun Exp $	*/
 
 /*-

@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/kerberos5/Makefile 223540 2011-06-25 16:13:56Z marius $
+# $FreeBSD$
 
 SUBDIR=	doc lib libexec usr.bin usr.sbin
 

@@ -35,7 +35,7 @@
  * SUCH DAMAGE.
  *
  *	from: @(#)param.h	5.8 (Berkeley) 6/28/91
- * $FreeBSD: release/9.0.0/sys/arm/include/param.h 224207 2011-07-19 00:37:24Z attilio $
+ * $FreeBSD$
  */
 
 #ifndef _ARM_INCLUDE_PARAM_H_

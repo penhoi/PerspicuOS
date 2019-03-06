@@ -24,7 +24,7 @@
  */
 
 #include "includes.h"
-__RCSID("$FreeBSD: release/9.0.0/crypto/openssh/auth.c 221420 2011-05-04 07:34:44Z des $");
+__RCSID("$FreeBSD$");
 
 #include <sys/types.h>
 #include <sys/stat.h>

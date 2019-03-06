@@ -36,7 +36,7 @@
 static char sccsid[] = "@(#)refresh.c	8.1 (Berkeley) 6/4/93";
 #endif /* not lint && not SCCSID */
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/lib/libedit/refresh.c 153079 2005-12-04 09:34:56Z stefanf $");
+__FBSDID("$FreeBSD$");
 
 /*
  * refresh.c: Lower level screen refreshing functions

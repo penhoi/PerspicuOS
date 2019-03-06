@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/acpi/acpi/Makefile 220663 2011-04-15 18:34:27Z jkim $
+# $FreeBSD$
 
 .if !defined(FORCE_BUILD)
 .error "The ACPI module is deprecated, set FORCE_BUILD to force it"

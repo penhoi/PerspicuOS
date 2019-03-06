@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/lib/libsbuf/Makefile 222033 2011-05-17 17:37:58Z phk $
+# $FreeBSD$
 
 LIB=		sbuf
 SHLIBDIR?= 	/lib

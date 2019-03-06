@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/net/if_ef.c 207554 2010-05-03 07:32:50Z sobomax $
+ * $FreeBSD$
  */
 
 #include "opt_inet.h"

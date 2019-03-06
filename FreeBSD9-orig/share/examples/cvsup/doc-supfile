@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/examples/cvsup/doc-supfile 219858 2011-03-22 04:31:35Z glebius $
+# $FreeBSD$
 #
 # This file contains all of the "CVSup collections" that make up the
 # source of the FreeBSD doc tree

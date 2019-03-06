@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/powermac/gracklevar.h 217658 2011-01-20 20:22:19Z andreast $
+ * $FreeBSD$
  */
 
 #ifndef	_POWERPC_POWERMAC_GRACKLEVAR_H_

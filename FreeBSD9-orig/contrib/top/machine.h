@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/contrib/top/machine.h 222530 2011-05-31 15:11:23Z jhb $
+ * $FreeBSD$
  */
 
 /*

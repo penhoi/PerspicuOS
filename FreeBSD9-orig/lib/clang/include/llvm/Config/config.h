@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/lib/clang/include/llvm/Config/config.h 226890 2011-10-28 21:08:39Z dim $ */
+/* $FreeBSD$ */
 /* include/llvm/Config/config.h.  Generated from config.h.in by configure.  */
 /* include/llvm/Config/config.h.in.  Generated from autoconf/configure.ac by autoheader.  */
 

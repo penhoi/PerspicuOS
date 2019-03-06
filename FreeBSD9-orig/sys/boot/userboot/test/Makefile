@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/userboot/test/Makefile 223695 2011-06-30 16:08:56Z dfr $
+# $FreeBSD$
 
 
 NO_MAN=

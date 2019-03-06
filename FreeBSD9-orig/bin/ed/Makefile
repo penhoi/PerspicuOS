@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/bin/ed/Makefile 204711 2010-03-04 16:08:01Z uqs $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

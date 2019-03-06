@@ -1,5 +1,5 @@
 /* $OpenBSD: clientloop.c,v 1.231 2011/01/16 12:05:59 djm Exp $ */
-/* $FreeBSD: release/9.0.0/crypto/openssh/clientloop.c 224640 2011-08-03 20:00:36Z brooks $ */
+/* $FreeBSD$ */
 /*
  * Author: Tatu Ylonen <ylo@cs.hut.fi>
  * Copyright (c) 1995 Tatu Ylonen <ylo@cs.hut.fi>, Espoo, Finland

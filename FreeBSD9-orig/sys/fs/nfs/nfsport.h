@@ -29,7 +29,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/fs/nfs/nfsport.h 224080 2011-07-16 08:05:26Z zack $
+ * $FreeBSD$
  */
 
 #ifndef _NFS_NFSPORT_H_

@@ -24,7 +24,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 #include "test.h"
-__FBSDID("$FreeBSD: release/9.0.0/lib/libarchive/test/test_read_format_isorr_ce.c 201247 2009-12-30 05:59:21Z kientzle $");
+__FBSDID("$FreeBSD$");
 
 /*
 Execute the following command to rebuild the data for this program:

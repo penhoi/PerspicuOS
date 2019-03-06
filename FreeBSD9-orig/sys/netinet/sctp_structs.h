@@ -33,7 +33,7 @@
 /* $KAME: sctp_structs.h,v 1.13 2005/03/06 16:04:18 itojun Exp $	 */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/netinet/sctp_structs.h 226278 2011-10-12 05:18:15Z tuexen $");
+__FBSDID("$FreeBSD$");
 
 #ifndef __sctp_structs_h__
 #define __sctp_structs_h__

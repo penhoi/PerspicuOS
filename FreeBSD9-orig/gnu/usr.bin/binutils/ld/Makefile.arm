@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/gnu/usr.bin/binutils/ld/Makefile.arm 219811 2011-03-21 04:03:55Z marcel $
+# $FreeBSD$
 
 .if ${TARGET_ARCH} == "armeb"
 NATIVE_EMULATION= armelfb_fbsd

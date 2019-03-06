@@ -24,7 +24,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/powerpc/powermac/hrowpic.c 218075 2011-01-29 20:58:38Z marcel $
+ * $FreeBSD$
  */
 
 /*

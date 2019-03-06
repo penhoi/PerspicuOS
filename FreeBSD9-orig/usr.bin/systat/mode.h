@@ -26,7 +26,7 @@
  * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/usr.bin/systat/mode.h 87715 2001-12-12 00:13:37Z markm $
+ * $FreeBSD$
  */
 
 /*

@@ -27,7 +27,7 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  * P4: //depot/projects/trustedbsd/openbsm/sys/bsm/audit_record.h#10
- * $FreeBSD: release/9.0.0/sys/bsm/audit_record.h 191270 2009-04-19 14:53:17Z rwatson $
+ * $FreeBSD$
  */
 
 #ifndef _BSM_AUDIT_RECORD_H_

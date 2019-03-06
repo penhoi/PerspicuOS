@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/sys/geom/vinum/geom_vinum.h 207878 2010-05-10 19:12:23Z jh $
+ * $FreeBSD$
  */
 
 #ifndef	_GEOM_VINUM_H_

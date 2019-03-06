@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/mlx4ib/Makefile 219820 2011-03-21 09:58:24Z jeff $
+# $FreeBSD$
 .PATH:  ${.CURDIR}/../../ofed/drivers/infiniband/hw/mlx4
 KMOD    = mlx4ib
 SRCS    = device_if.h bus_if.h pci_if.h vnode_if.h

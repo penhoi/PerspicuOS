@@ -40,7 +40,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/ufs/ffs/ffs_softdep.c 225700 2011-09-20 21:53:26Z kib $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_ffs.h"
 #include "opt_ddb.h"

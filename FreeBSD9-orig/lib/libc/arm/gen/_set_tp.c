@@ -23,7 +23,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- *	$FreeBSD: release/9.0.0/lib/libc/arm/gen/_set_tp.c 135684 2004-09-23 23:12:57Z cognet $
+ *	$FreeBSD$
  */
 
 #include <string.h>

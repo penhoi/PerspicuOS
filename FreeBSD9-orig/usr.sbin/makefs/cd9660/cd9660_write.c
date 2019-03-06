@@ -36,7 +36,7 @@
 #include "iso9660_rrip.h"
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/makefs/cd9660/cd9660_write.c 224762 2011-08-10 19:12:21Z marius $");
+__FBSDID("$FreeBSD$");
 
 static int cd9660_write_volume_descriptors(FILE *);
 static int cd9660_write_path_table(FILE *, off_t, int);

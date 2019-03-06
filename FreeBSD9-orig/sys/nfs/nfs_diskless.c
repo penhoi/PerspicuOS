@@ -33,7 +33,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/nfs/nfs_diskless.c 221436 2011-05-04 13:27:45Z ru $");
+__FBSDID("$FreeBSD$");
 
 #include "opt_bootp.h"
 

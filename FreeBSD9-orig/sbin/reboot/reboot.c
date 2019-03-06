@@ -39,7 +39,7 @@ static char sccsid[] = "@(#)reboot.c	8.1 (Berkeley) 6/5/93";
 #endif /* not lint */
 #endif
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sbin/reboot/reboot.c 202195 2010-01-13 17:59:23Z ed $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/reboot.h>
 #include <sys/time.h>

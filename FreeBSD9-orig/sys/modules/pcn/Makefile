@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/pcn/Makefile 181740 2008-08-14 20:34:46Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/pcn
 

@@ -22,7 +22,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/lib/libradius/Makefile 214018 2010-10-18 12:35:10Z pjd $
+# $FreeBSD$
 
 .include <bsd.own.mk>
 

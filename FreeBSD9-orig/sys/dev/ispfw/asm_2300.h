@@ -1,4 +1,4 @@
-/* $FreeBSD: release/9.0.0/sys/dev/ispfw/asm_2300.h 196007 2009-08-01 00:57:34Z mjacob $ */
+/* $FreeBSD$ */
 /*-
  * Copyright (C) 2001, 2002, 2003, 2004, 2005 by Qlogic, Inc.
  * All rights reserved.

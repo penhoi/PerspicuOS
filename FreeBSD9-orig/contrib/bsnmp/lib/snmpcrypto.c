@@ -26,7 +26,7 @@
  * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
  * SUCH DAMAGE.
  *
- * $FreeBSD: release/9.0.0/contrib/bsnmp/lib/snmpcrypto.c 216482 2010-12-16 11:20:37Z syrinx $
+ * $FreeBSD$
  */
 #include <sys/types.h>
 #include <sys/socket.h>

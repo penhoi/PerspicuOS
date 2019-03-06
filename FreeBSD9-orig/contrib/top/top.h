@@ -1,5 +1,5 @@
 /*
- * $FreeBSD: release/9.0.0/contrib/top/top.h 223342 2011-06-20 16:48:00Z delphij $
+ * $FreeBSD$
  */
 /*
  *  Top - a top users display for Berkeley Unix

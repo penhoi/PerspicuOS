@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/share/mklocale/Makefile 196790 2009-09-03 17:12:45Z ache $
+# $FreeBSD$
 
 LOCALES=	UTF-8 \
 		am_ET.UTF-8 \

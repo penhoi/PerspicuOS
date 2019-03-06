@@ -57,7 +57,7 @@
  * any improvements or extensions that they make and grant Carnegie the
  * rights to redistribute these changes.
  *
- * $FreeBSD: release/9.0.0/sys/vm/vm_map.h 219819 2011-03-21 09:40:01Z jeff $
+ * $FreeBSD$
  */
 
 /*

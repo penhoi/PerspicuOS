@@ -1,5 +1,5 @@
 #	@(#)Makefile	8.1 (Berkeley) 6/4/93
-# $FreeBSD: release/9.0.0/libexec/tftpd/Makefile 213099 2010-09-24 10:40:17Z marius $
+# $FreeBSD$
 
 PROG=	tftpd
 MAN=	tftpd.8

@@ -29,7 +29,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/dev/ieee488/upd7210.c 203360 2010-02-01 21:21:10Z joerg $");
+__FBSDID("$FreeBSD$");
 
 #  define	GPIB_DEBUG
 #  undef	GPIB_DEBUG

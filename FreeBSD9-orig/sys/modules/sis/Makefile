@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/modules/sis/Makefile 181524 2008-08-10 10:00:14Z imp $
+# $FreeBSD$
 
 .PATH: ${.CURDIR}/../../dev/sis
 

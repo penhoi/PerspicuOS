@@ -1,4 +1,4 @@
-# $FreeBSD: release/9.0.0/sys/boot/i386/gptboot/Makefile 225530 2011-09-13 14:03:55Z avg $
+# $FreeBSD$
 
 .PATH:		${.CURDIR}/../boot2 ${.CURDIR}/../common ${.CURDIR}/../../common
 

@@ -30,7 +30,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/usr.sbin/eeprom/eeprom.c 203972 2010-02-16 21:47:05Z imp $");
+__FBSDID("$FreeBSD$");
 
 #include <err.h>
 #include <stdio.h>

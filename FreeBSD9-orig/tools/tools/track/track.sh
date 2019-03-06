@@ -25,7 +25,7 @@
 # OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 # SUCH DAMAGE.
 #
-# $FreeBSD: release/9.0.0/tools/tools/track/track.sh 177448 2008-03-20 10:15:45Z des $
+# $FreeBSD$
 #
 
 tail -10000 -F "$@" |

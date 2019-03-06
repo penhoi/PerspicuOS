@@ -35,7 +35,7 @@
  */
 
 #include <sys/cdefs.h>
-__FBSDID("$FreeBSD: release/9.0.0/sys/net/bpf_filter.c 224044 2011-07-14 21:06:22Z mp $");
+__FBSDID("$FreeBSD$");
 
 #include <sys/param.h>
 
