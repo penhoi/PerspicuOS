@@ -9,6 +9,7 @@ add_llvm_library(LLVMScalarOpts
   EarlyCSE.cpp
   GlobalMerge.cpp
   GVN.cpp
+  Iago.cpp
   IndVarSimplify.cpp
   JumpThreading.cpp
   LICM.cpp

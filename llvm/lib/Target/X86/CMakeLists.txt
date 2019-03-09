@@ -15,6 +15,9 @@ add_public_tablegen_target(X86CommonTableGen)
 
 set(sources
   X86AsmPrinter.cpp
+  X86CFIAlignPass.cpp
+  X86CFIOptPass.cpp
+  X86SFIOptPass.cpp
   X86COFFMachineModuleInfo.cpp
   X86CodeEmitter.cpp
   X86ELFWriterInfo.cpp
