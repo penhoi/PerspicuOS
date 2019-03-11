@@ -33,6 +33,7 @@ __FBSDID("$FreeBSD: release/9.0.0/lib/libc/sys/fcntl.c 179434 2008-05-30 14:47:4
 #include <sys/types.h>
 #include <sys/syscall.h>
 #include "libc_private.h"
+#include "sys/fcntl.h"
 
 __weak_reference(__fcntl_compat, fcntl);
 
