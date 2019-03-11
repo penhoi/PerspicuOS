@@ -51,7 +51,7 @@ typedef	__size_t	size_t;
 
 #ifndef	__cplusplus
 #ifndef _WCHAR_T_DECLARED
-typedef	__wchar_t	wchar_t;
+typedef	___wchar_t	wchar_t;
 #define	_WCHAR_T_DECLARED
 #endif
 #endif
@@ -241,7 +241,7 @@ __uint32_t
 void	 arc4random_addrandom(unsigned char *, int);
 void	 arc4random_buf(void *, size_t);
 void	 arc4random_stir(void);
-__uint32_t 
+__uint32_t
 	 arc4random_uniform(__uint32_t);
 char	*getbsize(int *, long *);
 					/* getcap(3) functions */
