@@ -43,37 +43,82 @@ group under the supervision of Vikram Adve.
 Our current nested kernel implementation is for x86-64 FreeBSD is called
 PerspicuOS.
 
-1. Install FreeBSD 9.0: http://ftp-archive.freebsd.org/pub/FreeBSD-Archive/old-releases/amd64/ISO-IMAGES/9.0/
+1. Install FreeBSD 9.0: 
+
+For installing on physical machine: http://ftp.sun.ac.za/ftp/pub/iso-images/freebsd/9.0/amd64/FreeBSD-9.0-RELEASE-amd64-memstick.img
+For installing on virtual Machine: http://ftp.sun.ac.za/ftp/pub/iso-images/freebsd/9.0/amd64/FreeBSD-9.0-RELEASE-amd64-dvd1.iso
+
 
 2. In FreeBSD 9.0 System, clone Nested Kernel PerspicuOS from GitHub
 
-3. Build the nested kernel (assumes clang is in /usr/bin/clang) 
+Unfortunately, FreeBSD 9.0 is out of date and thus the system cann't update its software.
+Therefore, we need to use the FTP client to get the repository of PerspicuOS
+
+
+3. Build the LLVM before the kernel
+
+LLVM should be built in a machine installing FreeBSD 9.3 or higher.
+Install FreeBSD 9.3 is easy as it is still alive. Get the ISO from http://ftp.freebsd.org/pub/FreeBSD/releases/ISO-IMAGES/9.3/
+
+Pack the bin and lib directories togehter as a tar-file, and then copy it to 9.0 with FTP client.
+
+
+4. Build the nested kernel (assumes clang is in /usr/bin/clang) 
 	```
 	$ cd REPO_DIR/nk 
 	$ make
 	```
 
-4. Configure FreeBSD /etc/src.conf 
+5. Configure FreeBSD for buiding
+
+    Get a copy of build-config/src.conf, and modify as following:
+    Suppose the root path of PerspicuOS is "/usr/home/nk/project/PerspicuOS"
+    Meanwhile the path of clang is "llvm/release/bin/clang"
+ 
 	```
 	# This setting to build world without -Werror: 
 	NO_WERROR= 
 	# This setting to build kernel without -Werror: 
 	WERROR= 
+    SVA_HOME=/PATH/TO/REPO_DIR 
+    NK_HOME=/PATH/TO/REPO_DIR 
+    
+    # Build SVA kernel by default
+    KERNCONF=SVA
+
 	# Configure the system to use clang 
-	CC=/PATH/TO/CLANG 
-	CXX=/PATH/TO/CLANG 
-	CPP=/PATH/TO/CLANG 
+    SVA_INST_FLAGS=-mllvm -x86-add-cfi
+	CC=/PATH/TO/CLANG  -I${SVA_HOME}/nk/include ${SVA_INST_FLAGS}
+	CXX=/PATH/TO/CLANG++  -I${SVA_HOME}/nk/include ${SVA_INST_FLAGS}
+	#CPP=/PATH/TO/CLANG++  -I${SVA_HOME}/nk/include ${SVA_INST_FLAGS}
 	# Export the nested kernel library directory for the linker script in FreeBSD. 
-	NK_HOME=/PATH/TO/REPO_DIR 
+	
 	# Set the library path to the nested kernel lib 
 	CFLAGS+=-I/PATH/TO/REPO_DIR/nk/include
 	```
 
-5. Make PerspicuOS: Use FreeBSD building instructions selecting the NK kernel
-configuration 
+6. Make PerspicuOS
+Traditionally, a customized FreeBSD kernel is build under directory /usr/src
+So we first backup the old /usr/src as /usr/src.org
+Then make a link to the nested kernel like this:
+cd /usr && ln -sf /usr/home/nk/project/PerspicuOS/FreeBSD9 src
+
+However, things is not straight forward. The clang binary we built in FreeBSD 9.3 cannot run in FreeBSD 9.0.
+We need to copy all the dependent libraries (use ldd to check) in FreeBSD 9.3 to FreeBSD 9.0.
+Suppose we put them in /usr/svalib. Then we use command "setenv LD_LIBRARY_PATH /usr/svalib" to tell the linker use these libraries.
+
+At this time, all the preparing is done and we can compile the kernel in FreeBSD fashion:)
+Before that, backup the /boot/kernel use command "cp -Rp kernel kernel.backup".
+
+make buildkernel KERNCONF=SVA -j10
+make installkernel KERNCONF=SVA
+
+
 
 6. Install and Boot (you can use either the base harddrive or a VM
 tool Like Qemu, VirtualBox, or VMWare)
+
+On a physical machine, if have problems, we can mount FreeBSD9.0 driver and use command "mv kernel.backup kernel" to restore the original kernel.
 
 We have a tool that automates the kernel compile and install process in
 "REPO_DIR/scripts/compile_install_test_sva.rb". You can use this, but make sure
